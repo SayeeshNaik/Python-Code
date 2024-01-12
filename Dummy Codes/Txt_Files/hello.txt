@@ -1,0 +1,6 @@
+hello   name    employee salary age
+    HCL   Gangadhar  10000  19
+  INTEL     Sayeesh  20000  20
+  VIPRO     Yathish  50000  30
+INFOSYS     Vinayak  40000  50
+  hajam Abhya pukli      5  99

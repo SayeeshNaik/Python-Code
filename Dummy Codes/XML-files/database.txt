@@ -1,0 +1,72 @@
+import psycopg2 as pg
+import psycopg2.extras
+import pandas as pd
+import os
+
+hostname = 'localhost'
+database = 'postgres'
+username = 'postgres'
+pwd = 12345
+port_id = 5432
+
+conn = pg.connect (
+                    host = hostname,
+                    dbname = database,
+                    user = username,
+                    password = pwd,
+                    port = port_id
+                  )
+
+cur = conn.cursor(cursor_factory = psycopg2.extras.DictCursor)
+
+# XL-Sheet
+path = "C:/Users/User/MyExcel/sample.xlsx"
+xl_name = os.path.basename(path)
+
+
+def xlData():
+    df = pd.read_excel(path)
+    head = tuple(df.columns)
+    
+    col=''
+    for i in head:
+        col += str(i)+' varchar,'
+    q = '('+col+')'
+    q = q.replace(q[0:-1], q[0:-2])
+    table_name = xl_name.replace(xl_name, xl_name[0:-5])
+    query = 'Create Table '+table_name+q
+    
+    try:
+        cur.execute(query)
+        conn.commit()
+        conn.close()
+        print("Table Created Successfully")
+    except:
+        conn.close()
+        print("Table Name Already Exist")
+    
+    
+    
+    
+    # for i in range(len(df)):
+    #     for j in df:
+    #           print(df[j][i])
+              
+        
+    
+    # try:
+    #     for i in range(len(df)):
+    #         name = df['Name'][i][0]+df['Employee'][i][0]
+    #         employee = df['Employee'][i]
+    #         salary = df['Salary'][i]
+       
+    #         cur.execute('''insert into yatishdata(name,employee,salary)values('{}','{}','{}')'''.format(name,employee,salary))
+    #         conn.commit()
+            
+    #     conn.close()
+    #     print("Data Added Successfully")
+    # except:
+    #     conn.close()
+    #     print("Error While Fetching Data")
+    
+xlData()

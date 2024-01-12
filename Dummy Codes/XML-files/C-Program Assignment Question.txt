@@ -1,0 +1,14 @@
+C-Program Assignment Questions
+
+1. Accept & display employee details
+2. Calculate total payment of workers
+3. Calculate total runs
+4. Calculate age of student
+5. Print details of customers
+6. Details of highest paid employee
+7. Program for Library operations
+8. Arrange student record in descending order
+9. Menu driven program for a book shop
+10. Create structure & display elements
+11. Menu driven program for employee structure
+12. Arrange student data alphabetically

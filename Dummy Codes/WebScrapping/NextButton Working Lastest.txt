@@ -1,0 +1,290 @@
+from flask import Flask,request,send_file
+from flask_cors import CORS
+from selenium import webdriver
+import json
+import pandas as pd
+from googleapiclient.discovery import build
+from google.oauth2 import service_account
+from pydrive.auth import GoogleAuth
+from pydrive.drive import GoogleDrive
+from gspread_dataframe import set_with_dataframe
+import gspread
+import os
+import requests
+from bs4 import BeautifulSoup
+from urllib.parse import urlparse
+import time
+import io
+from GovtNextButton import table_with_next_button
+from Card_Extractor import out_loop
+
+# driver = webdriver.Chrome()
+
+
+app = Flask(__name__)
+CORS(app)
+
+# 
+
+main_df = pd.DataFrame()
+exception_lis = []
+empty_df = []
+
+resData = []
+clr_storage = False
+next_button_enable = False
+
+current_dir=os.getcwd()
+
+
+
+
+def simple(url):
+    global main_df,driver
+    link = url
+    html = requests.get(link)
+    soup = BeautifulSoup(html.content, 'html.parser')
+    table_div = soup.find_all('table')
+    num = 0
+    for table in table_div:
+        num += 1
+        table = table.prettify( formatter="html" ) 
+        df = pd.read_html(table)
+        main_df =pd.concat([main_df, df[0]])
+       
+          
+    if(len(main_df)==0):
+        empty_df.append(url)
+    driver.close()
+
+def difficult(url):
+    global main_df,driver
+    link = url
+    # driver = webdriver.Chrome()
+    driver.get(link)
+    time.sleep(2)
+    html = driver.page_source
+    
+    html_file = open("Output.html","w",encoding="utf8")
+    html_file.write(html)		
+    html_file.close()
+    
+    try:
+        file = 'Output.html'
+        page = open(file)
+        soup = BeautifulSoup(page, 'html.parser')
+        table_div = soup.find_all('table')
+        
+        num = 0
+        for table in table_div:
+            num += 1
+            table = table.prettify( formatter="html" ) 
+            df = pd.read_html(table)
+            main_df =pd.concat([main_df, df[0]])
+    
+            
+          
+    except: 
+      
+         exception_lis.append(url)
+    
+    if(len(main_df)==0):
+        empty_df.append(url)
+    
+    driver.close()
+
+def scraper(df):
+    global main_df,driver
+    # list_of_dicts = worksheet.get_all_records()
+   
+    for val in df.index:
+        if ('chrome-extension' in  str(df['baseUrl'][val])):
+            df.drop(val,inplace=True)
+        else :
+            pass
+        
+    istable=df[df['NextButtonStatus']==False]['parentXpath'][list(df.index)[0]]
+    
+    if('//TABLE' in istable  or '//TD' in istable or '//TR' in istable or '//TH' in istable):
+   
+        print("mylis == ",list(df['NextButtonStatus']))
+        if(True in list(df['NextButtonStatus'])) :
+           next_button=json.loads(df.loc[df['NextButtonStatus'] == True].to_json(orient='records'))[0]
+           print("Nextxxxx == ",next_button)
+           main_df = table_with_next_button("https://odisha.gov.in/about-us/whos-who/department?title=&field_domain_access_target_id=All&page=64","//A[(@title='Go to next page')]")
+        else:
+          
+        # if True in list(df['NextButtonStatus']):
+        #   next_button=json.loads(df.loc[df['NextButtonStatus'] == True].to_json(orient='records'))[0]
+        #   print("Nextxxxx == ",next_button)
+        #   main_df = table_with_next_button("https://odisha.gov.in/about-us/whos-who/department?title=&field_domain_access_target_id=All&page=65","//A[(@title='Go to next page')]")
+        # else :   
+            try:
+             simple(df['baseUrl'][df.index[-1]])
+            except:
+                difficult(df['baseUrl'][df.index[-1]])
+                
+   
+            
+    else :
+        response=out_loop(df)
+        dic={}
+        for col in range(0,len(response)):
+            
+            dic[col]=response[col]
+        
+        main_df =pd.DataFrame(dic)
+        
+    driver.close()
+    return "success"
+    
+
+@app.route('/next_button',methods=["GET","POST"])
+def next_button():
+    global next_button_enable
+    default_status = request.args.get('default')
+    if(next_button_enable==False):
+        next_button_enable = True
+    else:
+        next_button_enable = False
+    if(default_status=='false'):
+        next_button_enable = False
+    print('next_button = ',next_button_enable)
+    return {'next_button_status': next_button_enable}
+
+@app.route('/test',methods=["GET","POST"])
+def test():
+    global next_button_enable,resData
+    
+    res = json.loads(request.data)['data']
+    
+    if(next_button_enable):
+        try:
+            resData=[ item for item in resData if item['NextButtonStatus']!=True ]
+        except: pass
+        res['NextButtonStatus'] = True
+        
+    else:
+        res['NextButtonStatus'] = False
+        
+    resData.append(res)
+   
+    
+    
+    return {'status':'success'}
+
+@app.route('/getxpath',methods=['GET','POST'])
+def getxpath():
+    df=pd.DataFrame(resData)
+    data=df.loc[df['NextButtonStatus']==True]
+    out=json.loads(data.to_json(orient='records'))
+    print(out)
+    return {"out":out[0]}
+
+# Spreadsheet id
+SPREADSHEET_ID = "1qHUWJr-aZmfuyixisQG6RwjR8Ln6mn0wPzwH7gaowxA"
+
+# Sheet Name and Range to Read
+READ_RANGE = "A1:B11"
+WRITE_RANGE = "A1:B11"
+
+# The boundary of script
+SCOPES = [
+    'https://www.googleapis.com/auth/spreadsheets',
+    'https://www.googleapis.com/auth/drive'
+]
+credentials = service_account.Credentials.from_service_account_file(
+    current_dir+'\\automated-style-322407-aac51e71fea7.json', scopes=SCOPES)
+spreadsheet_service = build('sheets', 'v4', credentials=credentials)
+drive_service = build('drive', 'v3', credentials=credentials)
+gc = gspread.authorize(credentials)
+gauth = GoogleAuth()
+drive = GoogleDrive(gauth)
+gs = gc.open_by_key(SPREADSHEET_ID)
+
+@app.route('/google_sheet',methods=['GET','POST'])
+def google_sheet():
+    global resData,clr_storage,next_button_enable
+    
+    
+    df1=pd.DataFrame(resData)
+    
+    if not os.path.exists('Scrapping-Work-Flow'):
+        os.makedirs('Scrapping-Work-Flow')
+    parsed = urlparse(df1['baseUrl'][0])
+    base_name = parsed.netloc
+  
+    sheet_name = 'Scrapping-Work-Flow/' + base_name + '.csv'
+    
+    print(sheet_name,"345435345")
+    df1.to_csv(sheet_name)
+    
+    # df1.drop(index=df1.index[0], axis=0, inplace=True)
+
+    # worksheet = gs.add_worksheet(title="A worksheet"+datetime.now().strftime("%M-%S"), rows=100, cols=20)
+    
+    # header_length=len(df1.columns)
+    # worksheet.format("1".format(header_length), {
+    #     "horizontalAlignment": "CENTER",
+    #     "textFormat": {
+    #       "fontSize": 12,
+    #       "bold": True
+    #     }
+    # })
+    
+    # worksheet.update([df1.columns.values.tolist()] + df1.values.tolist())
+ 
+    
+    resData = []
+    clr_storage = True
+    next_button_enable = False
+    print('Stored Google Sheet')
+    
+    scraper(df1)
+    
+    global main_df
+
+    if not os.path.exists('Scrapped-Data'):
+       os.makedirs('Scrapped-Data')
+    fname = 'Scrapped-Data/' + base_name + '.xlsx'
+    main_df.to_excel(fname,index=False)
+    main_df = pd.DataFrame()
+    
+    
+    
+
+    
+    return send_file( fname,
+            as_attachment = True)
+    
+    # return {'sheet_url':'https://docs.google.com/spreadsheets/d/1qHUWJr-aZmfuyixisQG6RwjR8Ln6mn0wPzwH7gaowxA/edit#gid='+str(worksheet.id)}
+
+tgstatus = False
+@app.route('/toggle',methods=["GET","POST"])
+def toggle():
+    global tgstatus
+    status = request.args.get('toggle_status')
+    if(status==True):
+        status == True
+    else:
+        status == False
+    tgstatus = status
+    return {'toggle_status':status}
+
+@app.route('/toggle_getting',methods=["GET","POST"])
+def d():
+    print('togle_status = ',tgstatus)
+    return {'toggle_status':tgstatus}
+
+@app.route('/clear_storage')
+def clr():
+    global clr_storage 
+    print('storage ====== ',clr_storage)
+    return {'status':clr_storage}
+
+app.run()
+
+
+
+
+

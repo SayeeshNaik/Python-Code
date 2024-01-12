@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+ <head>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta charset="utf-8">
+   <meta content="dhiOmics Analytics | AI on Analytics" name="title"/>
+   <link href="http://www.dhiomics.com/" rel="shortlink"/>
+   <link href="http://www.dhiomics.com/" rel="canonical"/>
+   <meta content="dhiOmics is a leading technology company enabling Businesses to make Data Drive Decisions by leveraging Analytics, Machine Learning, AI powered by strong Data Engineering capabilities." name="description"/>
+   <meta content="Drupal 8 (https://www.drupal.org)" name="Generator"/>
+   <meta content="width" name="MobileOptimized"/>
+   <meta content="true" name="HandheldFriendly"/>
+   <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+   <link href="/themes/csultivo/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"/>
+   <link href="http://www.dhiomics.com/" rel="revision"/>
+   <!-- Stylesheet -->
+   <link href="/sites/default/files/css/css_-4JMm-uIBAwx2Z8ArIYqye8usxYl1UmUtg0E3AMqk0w.css?qcoh3w" media="all" rel="stylesheet"/>
+   <link href="https://fonts.googleapis.com/css?family=Roboto:300i,400,400i,500,700,700i,900" media="all" rel="stylesheet"/>
+   <link href="/sites/default/files/css/css_pzr8AwYn_kVtP3Z3xu9MJHMNrxfcDaCshmHNfuG0-a0.css?qcoh3w" media="all" rel="stylesheet"/>
+   <link href="/sites/default/files/css/css_A2Y0B9731Sta1W6YF6Xt5i612y3BXkWenJNI0NJKsok.css?qcoh3w" media="all" rel="stylesheet"/>
+   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,400i,500,500i,600,600i,700,700i,800%7CRoboto:300i,400,400i,500,500i,700" media="all" rel="stylesheet"/>
+   <link href="/themes/csultivo/assets/css/external.css?qcoh3w" media="all" rel="stylesheet"/>
+   <link href="/themes/csultivo/assets/css/style.css?qcoh3w" media="all" rel="stylesheet"/>
+   <link href="/themes/csultivo/assets/revolution/css/settings.css?qcoh3w" media="all" rel="stylesheet"/>
+   <link href="/themes/csultivo/assets/revolution/css/layers.css?qcoh3w" media="all" rel="stylesheet"/>
+   <link href="/themes/csultivo/assets/revolution/css/navigation.css?qcoh3w" media="all" rel="stylesheet"/>
+   <link href="/themes/csultivo/assets/css/update.css?qcoh3w" media="all" rel="stylesheet"/>
+   <!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+   <title>
+    dhiOmics Analytics | AI on Analytics
+   </title>
+  </meta>
+ </head>
+ <body class="ltr">
+  <a class="visually-hidden focusable" href="#main-content">
+   Skip to main content
+  </a>
+  <div class="preloader">
+   <div class="reverse-spinner">
+   </div>
+  </div>
+  <div class="wrapper clearfix" id="wrapper">
+   <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas="">
+    <header class="header header-1 header-transparent" id="navbar-spy">
+     <nav class="navbar navbar-expand-lg navbar-light navbar-bordered" id="primary-menu">
+      <div class="container">
+       <a class="navbar-brand" href="/">
+        <img alt="" class="logo logo-light" src="/themes/csultivo/assets/images/logo/dhiomics-logo.png"/>
+        <img alt="" class="logo logo-dark" src="/themes/csultivo/assets/images/logo/dhiomics-logo.png"/>
+       </a>
+       <button aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarContent" data-toggle="collapse" type="button">
+        <span class="sr-only">
+         Toggle navigation
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+        <span class="icon-bar">
+        </span>
+       </button>
+       <!-- <span class="navbar-toggler-icon"></span> -->
+       <!-- Collect the nav links, forms, and other content for toggling -->
+       <div class="navbar-collapse collapse" id="navbarContent" style="">
+        <h2 class="visually-hidden" id="block-csultivo-main-menu-menu">
+         Main navigation
+        </h2>
+        <ul class="navbar-nav ml-auto">
+         <li class="has-dropdown">
+          <a aria-expanded="false" class="dropdown-toggle menu-item" data-hover="pages" data-toggle="dropdown" href="">
+           Services
+          </a>
+          <ul class="dropdown-menu">
+           <li>
+            <a href="/sales-and-marketing">
+             Sales and Marketing
+            </a>
+           </li>
+           <li>
+            <a href="/supply-chain">
+             Supply Chain and Logistics
+            </a>
+           </li>
+           <li>
+            <a href="/risk-and-compliance">
+             Risk and Compliance
+            </a>
+           </li>
+           <li>
+            <a href="/rd-analytics">
+             R&amp;D Analytics
+            </a>
+           </li>
+           <li>
+            <a href="/merchandizing-and-pricing">
+             Merchandizing and Pricing
+            </a>
+           </li>
+           <li>
+            <a href="/iot-analytics">
+             IOT Analytics
+            </a>
+           </li>
+           <li>
+            <a href="/financial-analytics">
+             Financial Analytics
+            </a>
+           </li>
+           <li>
+            <a href="/customer-analytics">
+             Customer Analytics
+            </a>
+           </li>
+           <li>
+            <a href="/hr-analytics">
+             HR Analytics
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a aria-expanded="false" class="dropdown-toggle menu-item" data-hover="pages" data-toggle="dropdown" href="">
+           Platform
+          </a>
+         </li>
+         <li class="has-dropdown">
+          <a aria-expanded="false" class="dropdown-toggle menu-item" data-hover="pages" data-toggle="dropdown" href="">
+           Analytics API
+          </a>
+          <ul class="dropdown-menu">
+           <li>
+            <a href="/analytics-api/structured">
+             Structured API
+            </a>
+           </li>
+           <li>
+            <a href="/analytics-api/unstructured">
+             Unstructured API
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li>
+          <a aria-expanded="false" class="dropdown-toggle menu-item" data-hover="pages" data-toggle="dropdown" href="">
+           About Us
+          </a>
+         </li>
+         <li>
+          <a aria-expanded="false" class="dropdown-toggle menu-item" data-hover="pages" data-toggle="dropdown" href="/">
+           Fun at dhiOmics
+          </a>
+         </li>
+         <li>
+          <a aria-expanded="false" class="dropdown-toggle menu-item" data-hover="pages" data-toggle="dropdown" href="">
+           Contact Us
+          </a>
+         </li>
+         <li>
+          <a aria-expanded="false" class="dropdown-toggle menu-item" data-hover="pages" data-toggle="dropdown" href="">
+           White Papers
+          </a>
+         </li>
+        </ul>
+        <div class="module-container">
+        </div>
+       </div>
+       <!-- /.navbar-collapse -->
+      </div>
+      <!-- /.container -->
+     </nav>
+    </header>
+    <section class="slider slide-overlay-dark" id="block-home1slide">
+     <div class="md-slide-items" data-thumb-height="100" data-thumb-width="100" id="md-slider-1-block" style="min-height:720px">
+      <div class="wrap-loader-slider animated">
+       <div class="wrap-cube">
+        <div class="sk-cube-grid">
+         <div class="sk-cube sk-cube1">
+         </div>
+         <div class="sk-cube sk-cube2">
+         </div>
+         <div class="sk-cube sk-cube3">
+         </div>
+         <div class="sk-cube sk-cube4">
+         </div>
+         <div class="sk-cube sk-cube5">
+         </div>
+         <div class="sk-cube sk-cube6">
+         </div>
+         <div class="sk-cube sk-cube7">
+         </div>
+         <div class="sk-cube sk-cube8">
+         </div>
+         <div class="sk-cube sk-cube9">
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="md-slide-item md-layer-1-1" data-thumb="http://www.dhiomics.com/sites/default/files/styles/thumbnail/public/md-slider-image/bn2-min.jpg?itok=cUXyZUTq" data-thumb-alt="" data-thumb-type="image" data-timeout="4000" data-transition="strip-left-up">
+       <div class="md-main-img" style="">
+        <img alt="Marketing Analytics" src="http://www.dhiomics.com/sites/default/files/md-slider-image/bn2-min.jpg">
+        </img>
+       </div>
+       <div class="md-objects">
+        <div class="md-object md-layer-1-1-0" data-easein="fadeInUp" data-easeout="fadeOut" data-height="60" data-start="500" data-stop="4000" data-width="720" data-x="320" data-y="250">
+         Optimize Your ROI
+        </div>
+        <div class="md-object md-layer-1-1-1" data-easein="fadeInUp" data-easeout="fadeOut" data-height="60" data-start="1000" data-stop="4000" data-width="900" data-x="230" data-y="320">
+         Sales and Marketing Analysis to measure your Sales and Marketing Performance and to Optimize ROI
+        </div>
+       </div>
+      </div>
+      <div class="md-slide-item md-layer-1-2" data-thumb="http://www.dhiomics.com/sites/default/files/styles/thumbnail/public/md-slider-image/io.jpg?itok=LO-AGLsA" data-thumb-alt="" data-thumb-type="image" data-timeout="4000" data-transition="strip-left-up">
+       <div class="md-main-img" style="">
+        <img alt="Inventory Optimization" src="http://www.dhiomics.com/sites/default/files/md-slider-image/io.jpg">
+        </img>
+       </div>
+       <div class="md-objects">
+        <div class="md-object md-layer-1-2-0" data-easein="fadeInUp" data-easeout="fadeOut" data-height="60" data-start="500" data-stop="4000" data-width="720" data-x="320" data-y="250">
+         Inventory Optimization &amp; Control
+        </div>
+        <div class="md-object md-layer-1-2-1" data-easein="fadeInUp" data-easeout="fadeOut" data-height="68" data-start="1000" data-stop="4000" data-width="1024" data-x="163" data-y="320">
+         Advanced inventory analytics to Reduce costs in warehousing, transportation and inventory, while boosting service levels and efficiency and visibility into your operations.
+        </div>
+       </div>
+      </div>
+      <div class="md-slide-item md-layer-1-3" data-thumb="http://www.dhiomics.com/sites/default/files/styles/thumbnail/public/md-slider-image/phrma.jpg?itok=KH7xa8Ir" data-thumb-alt="" data-thumb-type="image" data-timeout="4000" data-transition="strip-left-up">
+       <div class="md-main-img" style="">
+        <img alt="Pharma Analytics" src="http://www.dhiomics.com/sites/default/files/md-slider-image/phrma.jpg"/>
+       </div>
+       <div class="md-objects">
+        <div class="md-object md-layer-1-3-0" data-easein="fadeInUp" data-easeout="fadeOut" data-height="60" data-start="500" data-stop="4000" data-width="720" data-x="320" data-y="250">
+         Claims Data Analytics
+        </div>
+        <div class="md-object md-layer-1-3-1" data-easein="fadeInUp" data-easeout="fadeOut" data-height="60" data-start="1000" data-stop="4000" data-width="1024" data-x="168" data-y="320">
+         Analyse claims data to perform analytics for Pharmaceutical companies, Healthcare Providers, Payors and Patients to get a 360 view of Healthcare offerings
+        </div>
+       </div>
+      </div>
+     </div>
+    </section>
+    <div class="hidden" data-drupal-messages-fallback="">
+    </div>
+    <div id="block-csultivo-content">
+     <article about="/" class="article" data-history-node-id="87" role="article">
+      <div>
+      </div>
+     </article>
+    </div>
+    <div id="block-blockgetstarted-7">
+     <div class="container pt-50">
+      <div class="heading text--center">
+       <h2 class="heading--title">
+        Key Focus Industries
+       </h2>
+      </div>
+      <div class="clients clients-1 mt-20 mb-20 row">
+       <!-- Key #1 -->
+       <div class="col-6 col-sm-6 col-md-4 col-lg-2 client">
+        <img alt="BFSI" class="align-center" data-entity-type="file" data-entity-uuid="1dc71098-829c-424e-aba3-95915cf95bf1" src="/sites/default/files/inline-images/BFSI.jpg"/>
+       </div>
+       <!-- Key #1 end -->
+       <!-- Key #2 -->
+       <div class="col-6 col-sm-6 col-md-4 col-lg-2 client">
+        <img alt="Pharmaceuticals" class="align-center" data-entity-type="file" data-entity-uuid="fe54f5bd-68da-453d-8ea9-d21b9fd206ee" src="/sites/default/files/inline-images/Pharma.jpg"/>
+       </div>
+       <!-- Key #2 end -->
+       <!-- Key #3 -->
+       <div class="col-6 col-sm-6 col-md-4 col-lg-2 client">
+        <img alt="Telecom" class="align-center" data-entity-type="file" data-entity-uuid="fdcd01cb-c837-48f1-9221-05e9c461e114" src="/sites/default/files/inline-images/Telecom.jpg"/>
+       </div>
+       <!-- Key #3 end -->
+       <!-- Key #4 -->
+       <div class="col-6 col-sm-6 col-md-4 col-lg-2 client">
+        <img alt="Retail" class="align-center" data-entity-type="file" data-entity-uuid="6b188f13-41ae-45dd-9419-96c55ff4d6e9" src="/sites/default/files/inline-images/Retail%20Ecommerce.jpg"/>
+       </div>
+       <!-- Key #4 end -->
+       <!-- Key #5 -->
+       <div class="col-6 col-sm-6 col-md-4 col-lg-2 client">
+        <img alt="Automotive" class="align-center" data-entity-type="file" data-entity-uuid="f7843c5c-4d91-4113-a273-d2106066bd03" src="/sites/default/files/inline-images/Automotive.jpg"/>
+       </div>
+       <!-- Key #5 end -->
+       <!-- Key #6 -->
+       <div class="col-6 col-sm-6 col-md-4 col-lg-2 client">
+        <img alt="Manufacturing" class="align-center" data-entity-type="file" data-entity-uuid="ce540588-14d6-42bb-a4cf-17e2eb086fad" src="/sites/default/files/inline-images/Manufacturing%20%281%29.jpg"/>
+       </div>
+       <!-- Key #6 end -->
+      </div>
+     </div>
+    </div>
+    <div id="block-blockhome11">
+     <section class="featured featured-4 featured-left pt-60 pb-60" id="featured4">
+      <div class="container">
+       <div class="row">
+        <div class="heading mb-50">
+         <h2 class="heading--title text--center">
+          WHY DHIOMICS
+         </h2>
+         <p class="heading--desc col-xs-12">
+          As a fast-growing Analytics Consulting Firm, we specialize in leveraging analytics for strategic decision making, we offer end-to-end solutions to clients across various industrial sectors. At dhiOmics, our objective is to bring together the best combination of analysts and consultants to complement our clients with a shared need to discover and build those capabilities and drive continuous market excellence.
+         </p>
+        </div>
+        <div class="col-sm-12 col-md-12 col-lg-12">
+         <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 wow fadeInUp text-center" data-wow-delay="200ms">
+           <div class="feature-card">
+            <div class="feature-card-image mb-20">
+             <img alt="Cognify problems" class="align-center" data-entity-type="file" data-entity-uuid="70cd9ec4-e36e-40cc-b8f9-24b14affc104" src="/sites/default/files/inline-images/cognify-icon-white%20%281%29.png"/>
+            </div>
+            <div class="feature-card-details">
+             <h3 class="feature-card-title">
+              Cognify Every Problem
+             </h3>
+             <p class="feature-card-desc">
+              Cognify every aspect of problem solving by levarging analytics, Machine Learning and Device Technology
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 wow fadeInUp text-center" data-wow-delay="200ms">
+           <div class="feature-card">
+            <div class="feature-card-image mb-20">
+             <img alt="Analytical Solution" class="align-center" data-entity-type="file" data-entity-uuid="f87d1a34-002a-4bd4-83e3-87afc74b3192" src="/sites/default/files/inline-images/analytical-icon-white%20%281%29.png"/>
+            </div>
+            <div class="feature-card-details">
+             <h3 class="feature-card-title">
+              Build Analytical Solution
+             </h3>
+             <p class="feature-card-desc">
+              Build Customized "Analytical Modules" for business leaders to tackel evolving problem space
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 wow fadeInUp text-center" data-wow-delay="200ms">
+           <div class="feature-card">
+            <div class="feature-card-image mb-20">
+             <img alt="Actionable insights" class="align-center" data-entity-type="file" data-entity-uuid="cd0d89bc-a67d-42ab-a898-9eefb9add619" src="/sites/default/files/inline-images/bigdatacanada.png"/>
+            </div>
+            <div class="feature-card-details">
+             <h3 class="feature-card-title">
+              Get Actionable Insights
+             </h3>
+             <p class="feature-card-desc">
+              Get Actionable insights for the top leaders using sophisticated visulaization tools and techniques
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3 wow fadeInUp text-center" data-wow-delay="200ms">
+           <div class="feature-card">
+            <div class="feature-card-image mb-20">
+             <img alt="Decision Making" class="align-center" data-entity-type="file" data-entity-uuid="064842b2-77af-4695-8e6f-ceb31859530d" src="/sites/default/files/inline-images/decision-making-icon-white%20%281%29.png"/>
+            </div>
+            <div class="feature-card-details">
+             <h3 class="feature-card-title">
+              Enable Decision Making
+             </h3>
+             <p class="feature-card-desc">
+              To enable leadership team within organizations meet business objectives by enabling data driven decisions
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </section>
+    </div>
+    <div class="views-element-container bg-gray" id="block-views-block-service-session-block-service-icon-use-header">
+     <div>
+      <section class="featured featured-1 pb-60 text-center" id="featured1">
+       <div class="container">
+        <div class="row">
+         <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
+          <div class="heading mb-30 text--center">
+           <h2 class="heading--title">
+            Our Services
+           </h2>
+          </div>
+         </div>
+        </div>
+        <div class="row">
+         <!-- Feature Card #1 -->
+         <div class="col-sm-12 col-md-6 col-lg-4 case-item">
+          <div class="case-item-container feature-card pb-30">
+           <div class="case--img">
+            <a href="/customer-analytics" hreflang="en">
+             <img alt="Customer Analytics" class="image-style-image370x275" height="275" src="/sites/default/files/styles/image370x275/public/2020-06/customer_analytics.jpg?itok=6H6dLKMw" typeof="Image" width="370"/>
+            </a>
+           </div>
+           <div class="case--content" data-eqh-group="service-content">
+            <div class="case--title">
+             <h4>
+              <a href="/customer-analytics" hreflang="en">
+               Customer Analytics
+              </a>
+             </h4>
+            </div>
+            <p class="feature-card-desc">
+             Customer Churn, Customer Segmentation, Propensity Modelling, Customer LifeCycle, Customer Churn etc.
+            </p>
+           </div>
+           <div class="read-more">
+            <a class="btn btn--primary btn--rounded" href="/customer-analytics">
+             Explore More
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="col-sm-12 col-md-6 col-lg-4 case-item">
+          <div class="case-item-container feature-card pb-30">
+           <div class="case--img">
+            <a href="/sales-and-marketing" hreflang="en">
+             <img alt="Sales &amp; Marketing" class="image-style-image370x275" height="275" src="/sites/default/files/styles/image370x275/public/2020-06/sales_marketing.jpg?itok=QE9d4pwE" typeof="Image" width="370"/>
+            </a>
+           </div>
+           <div class="case--content" data-eqh-group="service-content">
+            <div class="case--title">
+             <h4>
+              <a href="/sales-and-marketing" hreflang="en">
+               Sales and Marketing
+              </a>
+             </h4>
+            </div>
+            <p class="feature-card-desc">
+             Market Mix Modelling, Sales Forecasting, Campaign Performance, Producer Cross-Sell, Product Up Sell etc.
+            </p>
+           </div>
+           <div class="read-more">
+            <a class="btn btn--primary btn--rounded" href="/sales-and-marketing">
+             Explore More
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="col-sm-12 col-md-6 col-lg-4 case-item">
+          <div class="case-item-container feature-card pb-30">
+           <div class="case--img">
+            <a href="/merchandizing-and-pricing" hreflang="en">
+             <img alt="Merchandizing and Pricing " class="image-style-image370x275" height="275" src="/sites/default/files/styles/image370x275/public/2019-09/Merchandizing%20Analytoics.jpg?itok=YKdA-MVk" typeof="Image" width="370"/>
+            </a>
+           </div>
+           <div class="case--content" data-eqh-group="service-content">
+            <div class="case--title">
+             <h4>
+              <a href="/merchandizing-and-pricing" hreflang="en">
+               Merchandizing and Pricing
+              </a>
+             </h4>
+            </div>
+            <p class="feature-card-desc">
+             SKU optimization, Price Elasticity Analysis, Assortment Planning, Market Basket Analytics etc.
+            </p>
+           </div>
+           <div class="read-more">
+            <a class="btn btn--primary btn--rounded" href="/merchandizing-and-pricing">
+             Explore More
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="col-sm-12 col-md-6 col-lg-4 case-item">
+          <div class="case-item-container feature-card pb-30">
+           <div class="case--img">
+            <a href="/supply-chain" hreflang="en">
+             <img alt="Supply Chain &amp; Logistics" class="image-style-image370x275" height="275" src="/sites/default/files/styles/image370x275/public/2020-06/supply_chain.jpg?itok=qmW_YxgD" typeof="Image" width="370"/>
+            </a>
+           </div>
+           <div class="case--content" data-eqh-group="service-content">
+            <div class="case--title">
+             <h4>
+              <a href="/supply-chain" hreflang="en">
+               Supply Chain
+              </a>
+             </h4>
+            </div>
+            <p class="feature-card-desc">
+             Route Optimization, Inventory Planning and Optimization, Cost Optimization, Operations Analytics etc.
+            </p>
+           </div>
+           <div class="read-more">
+            <a class="btn btn--primary btn--rounded" href="/supply-chain">
+             Explore More
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="col-sm-12 col-md-6 col-lg-4 case-item">
+          <div class="case-item-container feature-card pb-30">
+           <div class="case--img">
+            <a href="/risk-and-compliance" hreflang="en">
+             <img alt="Risk and Compliance" class="image-style-image370x275" height="275" src="/sites/default/files/styles/image370x275/public/2020-06/risk_compliance.jpg?itok=CqWbxJaQ" typeof="Image" width="370"/>
+            </a>
+           </div>
+           <div class="case--content" data-eqh-group="service-content">
+            <div class="case--title">
+             <h4>
+              <a href="/risk-and-compliance" hreflang="en">
+               Risk and Compliance
+              </a>
+             </h4>
+            </div>
+            <p class="feature-card-desc">
+             Credit Risk Management, Stress Testing &amp; Scenario analysis,  BASEL Compliance &amp; Monitoring etc.
+            </p>
+           </div>
+           <div class="read-more">
+            <a class="btn btn--primary btn--rounded" href="/risk-and-compliance">
+             Explore More
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="col-sm-12 col-md-6 col-lg-4 case-item">
+          <div class="case-item-container feature-card pb-30">
+           <div class="case--img">
+            <a href="/iot-analytics" hreflang="en">
+             <img alt="IoT Analytics" class="image-style-image370x275" height="275" src="/sites/default/files/styles/image370x275/public/2020-06/iot_analytics.jpg?itok=xUcSiTV2" typeof="Image" width="370"/>
+            </a>
+           </div>
+           <div class="case--content" data-eqh-group="service-content">
+            <div class="case--title">
+             <h4>
+              <a href="/iot-analytics" hreflang="en">
+               IOT Analytics
+              </a>
+             </h4>
+            </div>
+            <p class="feature-card-desc">
+             Estate planning is the process of anticipating and arranging, during a person's life, for the management and disposal.
+            </p>
+           </div>
+           <div class="read-more">
+            <a class="btn btn--primary btn--rounded" href="/iot-analytics">
+             Explore More
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="col-sm-12 col-md-6 col-lg-4 case-item">
+          <div class="case-item-container feature-card pb-30">
+           <div class="case--img">
+            <a href="/financial-analytics" hreflang="en">
+             <img alt="Financial Analytics" class="image-style-image370x275" height="275" src="/sites/default/files/styles/image370x275/public/2019-09/Financial%20Analytics.jpg?itok=XDFxMqO6" typeof="Image" width="370"/>
+            </a>
+           </div>
+           <div class="case--content" data-eqh-group="service-content">
+            <div class="case--title">
+             <h4>
+              <a href="/financial-analytics" hreflang="en">
+               Financial Analytics
+              </a>
+             </h4>
+            </div>
+            <p class="feature-card-desc">
+             Strategy, Customer profitability analytics, Cash Flow Analytics, Credit Analytics etc.
+            </p>
+           </div>
+           <div class="read-more">
+            <a class="btn btn--primary btn--rounded" href="/financial-analytics">
+             Explore More
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="col-sm-12 col-md-6 col-lg-4 case-item">
+          <div class="case-item-container feature-card pb-30">
+           <div class="case--img">
+            <a href="/rd-analytics" hreflang="en">
+             <img alt="R and D Analytics" class="image-style-image370x275" height="275" src="/sites/default/files/styles/image370x275/public/2020-06/rd_analytics.jpg?itok=X_h1OY6Q" typeof="Image" width="370"/>
+            </a>
+           </div>
+           <div class="case--content" data-eqh-group="service-content">
+            <div class="case--title">
+             <h4>
+              <a href="/rd-analytics" hreflang="en">
+               R&amp;D Analytics
+              </a>
+             </h4>
+            </div>
+            <p class="feature-card-desc">
+             User Experience, Product Development, Market Research, Market Trends, Market Research etc.
+            </p>
+           </div>
+           <div class="read-more">
+            <a class="btn btn--primary btn--rounded" href="/rd-analytics">
+             Explore More
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="col-sm-12 col-md-6 col-lg-4 case-item">
+          <div class="case-item-container feature-card pb-30">
+           <div class="case--img">
+            <a href="/hr-analytics" hreflang="en">
+             <img alt="HR Analytics" class="image-style-image370x275" height="275" src="/sites/default/files/styles/image370x275/public/2019-09/HR%20Analytics.jpg?itok=8QkBSEOF" typeof="Image" width="370"/>
+            </a>
+           </div>
+           <div class="case--content" data-eqh-group="service-content">
+            <div class="case--title">
+             <h4>
+              <a href="/hr-analytics" hreflang="en">
+               HR Analytics
+              </a>
+             </h4>
+            </div>
+            <p class="feature-card-desc">
+             Employee Churn Analytics, Employee Performance Analytics, Recruitment Analytics etc.
+            </p>
+           </div>
+           <div class="read-more">
+            <a class="btn btn--primary btn--rounded" href="/hr-analytics">
+             Explore More
+            </a>
+           </div>
+          </div>
+         </div>
+         <!-- .col-lg-4 end -->
+        </div>
+        <!-- .row end -->
+        <div class="row">
+         <div class="col-sm-12 col-md-12 col-lg-12 text--center">
+         </div>
+         <!-- .col-lg-12 end -->
+        </div>
+       </div>
+       <!-- .container end -->
+      </section>
+     </div>
+    </div>
+    <div class="views-element-container bg-gray" id="block-views-block-testimonials-session-testimonials-4">
+     <div>
+      <section class="testimonial testimonial-1 pt-100 pb-100" id="testimonial1">
+       <div class="container">
+        <div class="row">
+         <div class="col-sm-12 col-md-12 col-lg-10 offset-lg-1">
+          <div class="carousel owl-carousel" data-autoplay="true" data-dots="false" data-loop="true" data-nav="false" data-slide="1" data-slide-rs="1" data-space="0" data-speed="800" id="testimonial-wide">
+           <!-- Testimonial #1 -->
+           <div class="testimonial-panel">
+            <div class="testimonial--img">
+             <img alt="Deepak Jha" src="/sites/default/files/styles/image40x40/public/2019-09/Picture4.png?itok=-Nr7ihJ4"/>
+            </div>
+            <div class="testimonial--body">
+             <div class="testimonial--icon2">
+             </div>
+             <p>
+              dhiOmics helped us in implementing Big data Solution and Big Data Analytics. Very few companies posses mix of Business Sense with knowledge of Statistics, Technology. dhiOmics have proved themselves in all these three areas.
+             </p>
+            </div>
+            <div class="testimonial--icon">
+            </div>
+            <div class="testimonial--meta">
+             <h4>
+              Deepak Jha
+             </h4>
+             Senior Solution Architect, NEC Corporation, Japan
+            </div>
+           </div>
+           <div class="testimonial-panel">
+            <div class="testimonial--img">
+             <img alt="Vikram Singh" src="/sites/default/files/styles/image40x40/public/2019-09/Picture3.png?itok=MNQiofs0"/>
+            </div>
+            <div class="testimonial--body">
+             <div class="testimonial--icon2">
+             </div>
+             <p>
+              Nilesh and his team are advanced analytics wizards! We definitely look forward to engaging with dhiOmics for our analytical requirements. I highly recommend dhiOmics Analytics!
+             </p>
+            </div>
+            <div class="testimonial--icon">
+            </div>
+            <div class="testimonial--meta">
+             <h4>
+              Vikram Singh
+             </h4>
+             Lead - MIUI Business at Xiaomi Technology
+            </div>
+           </div>
+           <div class="testimonial-panel">
+            <div class="testimonial--img">
+             <img alt="Shrinivas Ron" src="/sites/default/files/styles/image40x40/public/2019-09/Picture2.png?itok=6y3-_KuL"/>
+            </div>
+            <div class="testimonial--body">
+             <div class="testimonial--icon2">
+             </div>
+             <p>
+              dhiOmics has been a great partner to solve various business problems across merchandising teams. Their can-do attitude, high level of energy, the mix of experience really helped us. I wish a bright future to dhiOmics and would like to partner with them for more interesting business problems.
+             </p>
+            </div>
+            <div class="testimonial--icon">
+            </div>
+            <div class="testimonial--meta">
+             <h4>
+              Shrinivas Ron
+             </h4>
+             Director - Business Insights at Myntra Jabong, Bengaluru
+            </div>
+           </div>
+           <div class="testimonial-panel">
+            <div class="testimonial--img">
+             <img alt="Subramanyam Kasibhat" src="/sites/default/files/styles/image40x40/public/2019-09/Picture5.png?itok=XR5xxc2N"/>
+            </div>
+            <div class="testimonial--body">
+             <div class="testimonial--icon2">
+             </div>
+             <p>
+              We provide technology and technology without Analytics is of no use. dhiOmics is our analytics arm. They are our permanent partners. The best thing about the team is their ability to understand the business and solving problems under deadline.
+             </p>
+            </div>
+            <div class="testimonial--icon">
+            </div>
+            <div class="testimonial--meta">
+             <h4>
+              Subramanyam Kasibhat
+             </h4>
+             CEO at Vegam Solutions,  Bengaluru
+            </div>
+           </div>
+           <div class="testimonial-panel">
+            <div class="testimonial--img">
+             <img alt="Rohit Sharma" src="/sites/default/files/styles/image40x40/public/2019-09/Picture1.png?itok=SIRMtXFK"/>
+            </div>
+            <div class="testimonial--body">
+             <div class="testimonial--icon2">
+             </div>
+             <p>
+              dhiOmics helped us on various business problems using advanced analytics. Few things which really stood out is their team's commitment, energy to deliver and solve problem. That was wonderful and sets them apart from other companies.
+             </p>
+            </div>
+            <div class="testimonial--icon">
+            </div>
+            <div class="testimonial--meta">
+             <h4>
+              Rohit Sharma
+             </h4>
+             Head, Data Analytics at D-Cube Analytics, Bengaluru
+            </div>
+           </div>
+           <!-- .testimonial-panel end -->
+          </div>
+         </div>
+         <!-- .col-md-12 end -->
+        </div>
+        <!-- .row end -->
+       </div>
+       <!-- .container end -->
+      </section>
+     </div>
+    </div>
+    <footer class="footer footer-1" id="footer">
+     <!-- Widget Section
+      ============================================= -->
+     <div class="footer-widget">
+      <div class="container">
+       <div class="row clearfix">
+        <div class="col-12 col-md-6 col-lg-3 footer--widget widget-about" id="block-blockfooter1">
+         <div class="widget-content">
+          <div class="widget-content">
+           <img alt="logo" class="footer-logo" src="/themes/csultivo/assets/images/logo/logo-small.png"/>
+           <p>
+            Experienced In Mortgage And Financial Advice!We don’t believe in the sales culture, but instead we believe in the service culture.
+           </p>
+           <div class="social-icons">
+            <a class="facebook" href="#">
+             <i class="fa fa-facebook">
+             </i>
+            </a>
+            <a class="twitter" href="#">
+             <i class="fa fa-twitter">
+             </i>
+            </a>
+            <a class="instagram" href="#">
+             <i class="fa fa-instagram">
+             </i>
+            </a>
+            <a class="linkedin" href="#">
+             <i class="fa fa-linkedin">
+             </i>
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="col-12 col-sm-4 col-md-6 col-lg-2 footer--widget widget-links" id="block-footer">
+         <div class="widget-title">
+          <h5>
+           Company
+          </h5>
+         </div>
+         <div class="widget-content">
+          <ul>
+           <li>
+            <a href="">
+             About Us
+            </a>
+           </li>
+           <li>
+            <a href="">
+             Contact Us
+            </a>
+           </li>
+           <li>
+            <a href="/contact">
+             Contact
+            </a>
+           </li>
+           <li>
+            <a href="">
+             FAQs
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="col-12 col-sm-8 col-md-6 col-lg-4 footer--widget widget-links widget-links-inline" id="block-servicesfooter">
+         <div class="widget-title">
+          <h5>
+           Services
+          </h5>
+         </div>
+         <div class="widget-content">
+          <ul>
+           <li>
+            <a href="/financial-analytics">
+             Financial Analytics
+            </a>
+           </li>
+           <li>
+            <a href="/customer-analytics">
+             Customer Analytics
+            </a>
+           </li>
+           <li>
+            <a href="/hr-analytics">
+             HR Analytics
+            </a>
+           </li>
+           <li>
+            <a href="/merchandizing-and-pricing">
+             Merchandizing and Pricing
+            </a>
+           </li>
+           <li>
+            <a href="/iot-analytics">
+             IOT Analytics
+            </a>
+           </li>
+           <li>
+            <a href="/supply-chain">
+             Supply Chain &amp; Logistics
+            </a>
+           </li>
+           <li>
+            <a href="/rd-analytics">
+             R&amp;D Analytics
+            </a>
+           </li>
+           <li>
+            <a href="/sales-and-marketing">
+             Sales &amp; Marketing
+            </a>
+           </li>
+           <li>
+            <a href="/risk-and-compliance">
+             Risk &amp; Compliance
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="simplenews-subscriptions-block-e680e804-5354-457b-95d1-4d5f9bc5e02d simplenews-subscriber-form col-12 col-md-6 col-lg-3 footer--widget" data-drupal-selector="simplenews-subscriptions-block-e680e804-5354-457b-95d1-4d5f9bc5e02d" id="block-simplenewssubscription">
+         <div class="widget-title">
+          <h5>
+           Stay Updated
+          </h5>
+         </div>
+         <div class="widget-content">
+          <form accept-charset="UTF-8" action="/" id="simplenews-subscriptions-block-e680e804-5354-457b-95d1-4d5f9bc5e02d" method="post">
+           <div class="field--type-simplenews-subscription field--name-subscriptions field--widget-simplenews-subscription-select js-form-wrapper form-wrapper" data-drupal-selector="edit-subscriptions-wrapper" id="edit-subscriptions-wrapper">
+           </div>
+           <div class="js-form-item form-item js-form-type-homepage form-type-homepage js-form-item-message form-item-message form-no-label" id="edit-message">
+            Get the latest updates and offers.
+           </div>
+           <input autocomplete="off" data-drupal-selector="form-o3fr0sft8rwbh9r-akv7-g1gkfgedomjxwh-yklqfuw" name="form_build_id" type="hidden" value="form-o3fR0SFT8RWBh9r_aKv7_G1gkFGeDOmJXwH_YKlQfUw"/>
+           <input data-drupal-selector="edit-simplenews-subscriptions-block-e680e804-5354-457b-95d1-4d5f9bc5e02d" name="form_id" type="hidden" value="simplenews_subscriptions_block_e680e804-5354-457b-95d1-4d5f9bc5e02d"/>
+           <div class="field--type-email field--name-mail field--widget-email-default js-form-wrapper form-wrapper" data-drupal-selector="edit-mail-wrapper" id="edit-mail-wrapper">
+            <div class="js-form-item form-item js-form-type-homepage form-type-homepage js-form-item-mail-0-value form-item-mail-0-value">
+             <label class="js-form-required form-required" for="edit-mail-0-value">
+              Email
+             </label>
+             <input aria-describedby="edit-mail-0-value--description" aria-required="true" class="form-email required" data-drupal-selector="edit-mail-0-value" id="edit-mail-0-value" maxlength="254" name="mail[0][value]" placeholder="" required="required" size="60" type="email" value=""/>
+             <div class="description" id="edit-mail-0-value--description">
+              The subscriber's email address.
+             </div>
+            </div>
+           </div>
+           <div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions">
+            <input class="button js-form-submit form-submit btn btn--primary" data-drupal-selector="edit-subscribe" id="edit-subscribe" name="op" type="submit" value="Subscribe"/>
+           </div>
+          </form>
+         </div>
+        </div>
+        <!-- .col-md-3 end -->
+        <div class="clearfix">
+        </div>
+       </div>
+      </div>
+      <!-- .container end -->
+     </div>
+     <!-- .footer-widget end -->
+     <!-- Copyrights
+          ============================================= -->
+     <div class="footer--bar">
+      <div class="row">
+       <div class="col-12 col-md-12 col-md-12 text--center footer--copyright">
+        <div class="copyright">
+         <div id="block-coppyrightfooter">
+          <div class="row">
+           <div class="col-sm-6">
+            <span>
+             © 2020, DhiOmics. All Rights Reserved
+            </span>
+           </div>
+           <div class="col-sm-6">
+            Developed &amp; maintained by
+            <a href="https://www.innoraft.com" target="_blank">
+             Innoraft Solutions
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <!-- .row end -->
+     </div>
+     <!-- .footer-copyright end -->
+    </footer>
+   </div>
+  </div>
+  <script data-drupal-selector="drupal-settings-json" type="application/json">
+   {"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"node\/87","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en","themeUrl":"\/themes\/csultivo"},"pluralDelimiter":"\u0003","ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"statistics":{"data":{"nid":"87"},"url":"\/core\/modules\/statistics\/statistics.php"},"style":null,"md_slider":{"1":{"full_width":1,"width":"1360","height":"720","touch_swipe":1,"responsive":true,"videobox":0,"loop":true,"loadingbar":0,"bar_position":"bottom","show_next_prev_button":0,"enable_key_navigation":0,"auto_play":1,"pause_hover":0,"show_bullet":0,"bullet_position":"5","show_thumbnail":0,"thumbnail_position":"1","border_style":"0","dropshadow_style":0,"animation":"fade","delay":"5000","transtime":"2000","thumb_style":"thumbnail","create_bg_imgstyle":1,"bg_style":"none","dmf_google":"https:\/\/fonts.googleapis.com\/css?family=Roboto:300i,400,400i,500,700,700i,900","on_start":"","on_end":"","color_saved":"ff9900,CC0000","label":"Home 1 Slide","id":"home_1_slide","is_new":false,"sls_desc":"","device_width":"480","device_enable":0,"submit":"Update","form_build_id":"form-3NzrPPTtClD8AmW1iL3iizz2gMQ-_5FXDpTD9RolSlE","form_token":"HZhqGrM-7mXw4-JYSGDprrlxwB7Cfm3oKhY6n1nsoAQ","form_id":"md_slider_config","op":"Update","fullWidth":true,"transitionsSpeed":2000,"enableDrag":true,"pauseOnHover":false,"autoPlay":true,"enableLoadingBar":false,"loadingBarPosition":"bottom","enableNextPrevButton":false,"enableKeyNavigation":false,"enableBullet":false,"bulletPosition":"5","enableThumbnail":false,"thumbnailPosition":"1","slideShowDelay":"5000","OnTransitionStart":"","OnTransitionEnd":"","styleShadow":0}},"inEffects":["bounceIn","bounceInDown","bounceInUp","bounceInLeft","bounceInRight","fadeIn","fadeInUp","fadeInDown","fadeInLeft","fadeInRight","fadeInUpBig","fadeInDownBig","fadeInLeftBig","fadeInRightBig","flipInX","flipInY","foolishIn","lightSpeedIn","puffIn","rollIn","rotateIn","rotateInDownLeft","rotateInDownRight","rotateInUpLeft","rotateInUpRight","twisterInDown","twisterInUp","swap","swashIn","tinRightIn","tinLeftIn","tinUpIn","tinDownIn","vanishIn","shuffleLetter"],"outEffects":["bombRightOut","bombLeftOut","bounceOut","bounceOutDown","bounceOutUp","bounceOutLeft","bounceOutRight","fadeOut","fadeOutUp","fadeOutDown","fadeOutLeft","fadeOutRight","fadeOutUpBig","fadeOutDownBig","fadeOutLeftBig","fadeOutRightBig","flipOutX","flipOutY","foolishOut","hinge","holeOut","lightSpeedOut","puffOut","rollOut","rotateOut","rotateOutDownLeft","rotateOutDownRight","rotateOutUpLeft","rotateOutUpRight","rotateDown","rotateUp","rotateLeft","rotateRight","swashOut","tinRightOut","tinLeftOut","tinUpOut","tinDownOut","vanishOut"],"user":{"uid":0,"permissionsHash":"0b5888e8ac31e12b18b53443874544e485ee4d8ab8e4f57dcd2ade176505e878"}}
+  </script>
+  <script src="/sites/default/files/js/js_JUwIlOhJra3q90LWgwMBrLVyB9FMnlLRVgOqIzLiU80.js">
+  </script>
+  <script src="/themes/csultivo/assets/js/plugins.js?v=8.7.6">
+  </script>
+  <script src="/themes/csultivo/assets/js/functions.js?v=8.7.6">
+  </script>
+  <script src="/themes/csultivo/assets/js/update.js?v=8.7.6">
+  </script>
+  <script src="/sites/default/files/js/js_s8rnsZhevxfLRM5H2CgmxcPaFbULr37051fp-smaQH8.js">
+  </script>
+ </body>
+</html>

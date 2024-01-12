@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<body ></body>
+      <h1>Company</h1>
+      <p>
+         We are a <a href="/about/about_team.htm">team</a> of professionals working
+         hard to provide free learning content.
+      </p>
+  
+  <!-- <div>
+    <h1 class="title" >WebScrapping</h1>
+
+    <button name="button" class="btn1" id="btn-login"  value="login Success">Login</button>
+    <button name="button" class="btn2" id="btn-cart" value="Added Cart">Cart</button>
+    <button name="button" class="btn3" id="btn-order" value="Ordered Successfully">Order</button>
+    <button name="button" class="btn4" id="btn-receive" value="Received Successfully">Received</button>
+    
+    <h2 id="output" value="'ggg">WebScrapping Started</h2>
+    
+    
+    <div class="goo">
+        <div class="fwwww">
+            <button class="testing" id="tst"><a class="lk" id="url" href="##">path</a></button>
+        </div>
+        
+    </div>
+    <div class="goog"  id="hoog">
+        <h1 class="he" id="myId" style="color:blue;text-align:center;padding:10px">Sayeesh</h1>
+    </div>
+    <a href="##">google</a>
+    
+  </div> -->
+<script>
+    var xpath_lis = new Set([]);
+    const allClasses= [...new Set([].concat(...[...document.querySelectorAll('*')].map(elt => [...elt.id])))];
+    const boxes = Array.from(document.querySelectorAll('*'));
+
+    function myFunction(e) {
+       /* var x = document.getElementById(e).value;
+        document.getElementById('output').innerHTML = x;
+        var xpath = '//*[@id="'+ e +'"]';
+        xpath_lis.add(xpath)
+        console.log(xpath_lis)
+        if(Array.from(xpath_lis).length==4){
+        fetch('http://127.0.0.1:5000/webscrapping?xpaths='+String(Array.from(xpath_lis))).then(res=>(
+            res.json().then(result=>{
+                console.log(result)
+            })
+        ))
+        } */
+    }
+   
+   // function test(idName,className){
+      //  fetch('http://127.0.0.1:5000/test?idName='+idName+'&className='+className)
+
+        //var t = document.querySelectorAll('*');
+        //const allClasses = [...new Set([].concat(...[...document.querySelectorAll('*')].map(elt => [...elt.id])))];
+   // }
+
+</script>
+
+<style>
+    body{
+        text-align: center;
+    }
+    button{
+        margin: 5px;
+        padding: 5px;
+        min-width: 100px;
+    }
+    button:hover{
+        color: white;
+        background-color: green;
+    }
+    .he{
+        color:red;
+        background-color: yellow;
+        text-align: center;
+    }
+</style>
+
+</body>
+</html>

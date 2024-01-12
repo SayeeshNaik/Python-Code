@@ -1,0 +1,54 @@
+https://www.nic.in/directory/page/2/
+https://odisha.gov.in/about-us/whos-who/department?title=&field_domain_access_target_id=All&page=3
+Swapnil Singh7:14 PM
+https://data.gov.in/cdo?page=1
+
+
+next-button js code :
+
+var nextButton = document.querySelector('.nextbtn');
+nextButton.addEventListener('click',function good(){
+    fetch('http://127.0.0.1:5000/next_button_sending').then(res=>res.json().then(
+        resData=>{
+            var next_button_xpath = resData.next_button_xpath;
+            if(resData.next_button_status==true){
+                var next_button_el = document.querySelector('.nextbtn');
+                next_button_el.style.background = 'green';
+                next_button_el.style.color = 'white'
+                var next_button_pencil = document.getElementById('xpath-pencil');
+                next_button_pencil.style.color = 'blue';
+                var next_button_xpath_txt = document.getElementById('nextBtnXpath');
+                next_button_xpath_txt.value = next_button_xpath;
+            }else{
+                var next_button_el = document.querySelector('.nextbtn');
+                next_button_el.style.background = 'red';
+                next_button_el.style.color = 'black'
+                var next_button_pencil = document.getElementById('xpath-pencil');
+                next_button_pencil.style.color = 'black';
+
+            }
+        }
+    ))
+})
+
+fetch('http://127.0.0.1:5000/next_button_xpath').then(res=>res.json().then(
+    resData=>{
+        var next_button_xpath_txt = document.getElementById('nextBtnXpath');
+        next_button_xpath_txt.value = resData.next_button_xpath;
+    }
+    ))
+var next_btn = false
+var next_button_pencil = document.getElementById('xpath-pencil');
+next_button_pencil.addEventListener('click',function (){
+    next_btn = !next_btn
+    localStorage.setItem('next_button_status',next_btn);
+    if(next_btn == true){
+        var next_button_pencil = document.getElementById('xpath-pencil');
+        next_button_pencil.style.color = 'blue';
+        var next_button_xpath_txt = document.getElementById('nextBtnXpath');
+        next_button_xpath_txt.value = next_button_xpath;
+    }else{
+        var next_button_pencil = document.getElementById('xpath-pencil');
+        next_button_pencil.style.color = 'black';
+    }
+})

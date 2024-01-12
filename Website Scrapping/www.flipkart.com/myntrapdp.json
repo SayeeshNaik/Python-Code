@@ -1,0 +1,1120 @@
+{
+    "pdpData": {
+        "id": 18974370,
+        "name": "Levi's Men Slim Fit Solid Pure Cotton Casual Shirt",
+        "mrp": 2299,
+        "manufacturer": "Arvind Ltd, Lifestyle Apparels- Shirting Division, Tiptur Road Kasaba Hobli, No 24u002F6 Kodihalli, 573103 Hassan, India",
+        "countryOfOrigin": "India",
+        "colours": null,
+        "baseColour": "Green",
+        "brand": {
+            "uidx": "",
+            "name": "Levis",
+            "image": "",
+            "bio": "",
+            "brandAttributes": [
+                {
+                    "type": "TABULAR",
+                    "attributes": [
+                        {
+                            "attributeName": "Brand Store URL",
+                            "value": "https:u002Fu002Fwww.myntra.comu002Fshopu002Fobs-levis",
+                            "attributeType": "LIST"
+                        }
+                    ]
+                }
+            ]
+        },
+        "brandOrderDetails": "",
+        "media": {
+            "videos": [],
+            "albums": [
+                {
+                    "name": "default",
+                    "images": [
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002Fbec88161-36fe-4c73-b437-b6e7213497721670583235322LevisMenSlimFitSolidPureCottonCasualShirt1.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002Fbec88161-36fe-4c73-b437-b6e7213497721670583235322LevisMenSlimFitSolidPureCottonCasualShirt1.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002Fbec88161-36fe-4c73-b437-b6e7213497721670583235322LevisMenSlimFitSolidPureCottonCasualShirt1.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F78a99ce0-b508-4a88-8d35-ac1b46e69a361670583235337LevisMenSlimFitSolidPureCottonCasualShirt2.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F78a99ce0-b508-4a88-8d35-ac1b46e69a361670583235337LevisMenSlimFitSolidPureCottonCasualShirt2.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F78a99ce0-b508-4a88-8d35-ac1b46e69a361670583235337LevisMenSlimFitSolidPureCottonCasualShirt2.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F2b808f4d-5398-4eb2-a2af-2fb7d675c7891670583235346LevisMenSlimFitSolidPureCottonCasualShirt3.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F2b808f4d-5398-4eb2-a2af-2fb7d675c7891670583235346LevisMenSlimFitSolidPureCottonCasualShirt3.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F2b808f4d-5398-4eb2-a2af-2fb7d675c7891670583235346LevisMenSlimFitSolidPureCottonCasualShirt3.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F338642aa-7d1a-4ca7-a00d-0d9e925bd0b91670583235358LevisMenSlimFitSolidPureCottonCasualShirt4.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F338642aa-7d1a-4ca7-a00d-0d9e925bd0b91670583235358LevisMenSlimFitSolidPureCottonCasualShirt4.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F338642aa-7d1a-4ca7-a00d-0d9e925bd0b91670583235358LevisMenSlimFitSolidPureCottonCasualShirt4.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002Fd8cffe88-3b66-4108-9ca4-877c80368f671670583235372LevisMenSlimFitSolidPureCottonCasualShirt5.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002Fd8cffe88-3b66-4108-9ca4-877c80368f671670583235372LevisMenSlimFitSolidPureCottonCasualShirt5.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002Fd8cffe88-3b66-4108-9ca4-877c80368f671670583235372LevisMenSlimFitSolidPureCottonCasualShirt5.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F7476006a-f436-4419-b8cc-47cd8022769e1670583235380LevisMenSlimFitSolidPureCottonCasualShirt6.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F7476006a-f436-4419-b8cc-47cd8022769e1670583235380LevisMenSlimFitSolidPureCottonCasualShirt6.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F7476006a-f436-4419-b8cc-47cd8022769e1670583235380LevisMenSlimFitSolidPureCottonCasualShirt6.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F8cd5628a-a520-4e63-a6eb-2ab541a72c9b1670583235388LevisMenSlimFitSolidPureCottonCasualShirt7.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F8cd5628a-a520-4e63-a6eb-2ab541a72c9b1670583235388LevisMenSlimFitSolidPureCottonCasualShirt7.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F8cd5628a-a520-4e63-a6eb-2ab541a72c9b1670583235388LevisMenSlimFitSolidPureCottonCasualShirt7.jpg",
+                            "annotation": []
+                        }
+                    ]
+                },
+                {
+                    "name": "animatedImage",
+                    "images": []
+                }
+            ]
+        },
+        "sbpEnabled": false,
+        "sizechart": {
+            "sizeChartUrl": null,
+            "sizeRepresentationUrl": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002Fsizechartu002F2016u002F12u002F14u002F11481690794680-shirt_men.png"
+        },
+        "sizeRecoLazy": {
+            "actionType": "lazy",
+            "action": "u002Fproductu002F18974370u002Fsizeu002Frecommendation",
+            "sizeProfileAction": "u002Fuseru002Fsize-profiles?gender=male&articleType=Shirts"
+        },
+        "analytics": {
+            "articleType": "Shirts",
+            "subCategory": "Topwear",
+            "masterCategory": "Apparel",
+            "gender": "Men",
+            "brand": "Levis",
+            "colourHexCode": null
+        },
+        "crossLinks": [
+            {
+                "title": "More Shirts by Levis",
+                "url": "shirts?f=Brand:Levis::Gender:men&luxuryType=nonluxury"
+            },
+            {
+                "title": "More Green Shirts",
+                "url": "shirts?f=Color:Green_5eb160::Gender:men&luxuryType=nonluxury"
+            },
+            {
+                "title": "More Shirts",
+                "url": "shirts?f=Gender:men&luxuryType=nonluxury"
+            }
+        ],
+        "relatedStyles": null,
+        "disclaimerTitle": "",
+        "productDetails": [
+            {
+                "type": null,
+                "content": null,
+                "title": "Product Details",
+                "description": "u003Cbu003EProduct Details:u003Cu002Fbu003Eu003Culu003Eu003Cliu003Esolid opaque Casual shirtu003Cu002Fliu003Eu003Cliu003Ehas a spread collaru003Cu002Fliu003Eu003Cliu003Ebutton placketu003Cu002Fliu003Eu003Cliu003E1 patch pocketu003Cu002Fliu003Eu003Cliu003Elong roll-up sleevesu003Cu002Fliu003Eu003Cliu003Ecurved hemu003Cu002Fliu003Eu003Cu002Fulu003E"
+            },
+            {
+                "type": null,
+                "content": null,
+                "title": "MATERIAL & CARE",
+                "description": "100% Cotton,u003Cbru003EMachine-wash"
+            },
+            {
+                "type": null,
+                "content": null,
+                "title": "SIZE & FIT",
+                "description": "u003Cbru003EFit: Slim Fitu003Cbru003EThe model (height 6') is wearing a size 40"
+            }
+        ],
+        "preOrder": null,
+        "sizeChartDisclaimerText": "Garment Measurements in",
+        "tags": null,
+        "articleAttributes": {
+            "Add-Ons": "NA",
+            "Body or Garment Size": "Garment Measurements in",
+            "Brand Fit Name": "NA",
+            "Character": "NA",
+            "Collar": "Spread Collar",
+            "Cuff": "Button",
+            "Fabric": "Cotton",
+            "Fabric 2": "NA",
+            "Fit": "Slim Fit",
+            "Hemline": "Curved",
+            "Length": "Regular",
+            "Main Trend": "Pocket Detailing",
+            "Number of Pockets": "1",
+            "Occasion": "Casual",
+            "Pattern": "Solid",
+            "Placket": "Button Placket",
+            "Placket Length": "Full",
+            "Pocket Type": "Patch",
+            "Print or Pattern Type": "Solid",
+            "Sleeve Length": "Long Sleeves",
+            "Sleeve Styling": "Roll-Up Sleeves",
+            "Stitch": "Ready to Wear",
+            "Surface Styling": "Chest Pocket",
+            "Sustainable": "Regular",
+            "Transparency": "Opaque",
+            "Wash Care": "Machine Wash",
+            "Weave Pattern": "Regular"
+        },
+        "systemAttributes": [
+            {
+                "metaInfo": "",
+                "systemAttributeValueEntry": {
+                    "id": 178,
+                    "systemAttributeEntry": {
+                        "attributeCode": "SA_XT_New_Season",
+                        "attributeName": "SA_XT_New_Season",
+                        "attributeType": "def",
+                        "id": 148
+                    },
+                    "valueCode": "NEW SEASON",
+                    "valueName": "NEW SEASON"
+                }
+            }
+        ],
+        "ratings": {
+            "averageRating": 4.465116279069767,
+            "totalCount": 172,
+            "isFastFashion": true,
+            "ratingInfo": [
+                {
+                    "rating": 2,
+                    "count": 3
+                },
+                {
+                    "rating": 3,
+                    "count": 8
+                },
+                {
+                    "rating": 4,
+                    "count": 23
+                },
+                {
+                    "rating": 5,
+                    "count": 127
+                },
+                {
+                    "rating": 1,
+                    "count": 11
+                }
+            ],
+            "reviewInfo": {
+                "reviewsCount": "17",
+                "reviewsImageCount": "2",
+                "topReviews": [
+                    {
+                        "uidx": null,
+                        "reviewId": "bddc3eda-9795-4bc2-8232-63d93a6af65f",
+                        "userName": "Ajay J Nair",
+                        "reviewText": "Really good quality, awesome fabric, and the cloth weight though.",
+                        "userRating": 5,
+                        "timestamp": "1674909166000",
+                        "upvotes": "5",
+                        "downvotes": "0",
+                        "reviewImages": [
+                            {
+                                "reviewId": "bddc3eda-9795-4bc2-8232-63d93a6af65f",
+                                "imageUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2023u002F1u002F28u002F1d1d1e3f-ac8a-4c07-8d7c-e7398fa3b0951674911520148-photo_6244437756516349297_y.jpg",
+                                "aspectRatio": "3:4",
+                                "resolution": "960X1280"
+                            }
+                        ]
+                    },
+                    {
+                        "uidx": null,
+                        "reviewId": "ec1e55c6-fb96-4fd7-9021-d96831f2646d",
+                        "userName": "Puja",
+                        "reviewText": "Got it for my bf... he liked it very much... nice one... cokour is very beautiful...",
+                        "userRating": 5,
+                        "timestamp": "1675678159000",
+                        "upvotes": "0",
+                        "downvotes": "0",
+                        "reviewImages": [
+                            {
+                                "reviewId": "ec1e55c6-fb96-4fd7-9021-d96831f2646d",
+                                "imageUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2023u002F2u002F6u002Fa1a0cd69-233a-47d4-8d15-e2eda3d99e571675678120590-image316.jpg",
+                                "aspectRatio": "115:256",
+                                "resolution": "575X1280"
+                            }
+                        ]
+                    },
+                    {
+                        "uidx": null,
+                        "reviewId": "d42e3b03-dca4-4750-83c5-1d1a7b5c52b9",
+                        "userName": "Deepu",
+                        "reviewText": "Nice quality cotton and material is top notch",
+                        "userRating": 5,
+                        "timestamp": "1671017204000",
+                        "upvotes": "2",
+                        "downvotes": "0",
+                        "reviewImages": null
+                    }
+                ],
+                "topImageReviews": [
+                    {
+                        "uidx": null,
+                        "reviewId": "ec1e55c6-fb96-4fd7-9021-d96831f2646d",
+                        "userName": "Puja",
+                        "reviewText": "Got it for my bf... he liked it very much... nice one... cokour is very beautiful...",
+                        "userRating": 5,
+                        "timestamp": "1675678159000",
+                        "upvotes": "0",
+                        "downvotes": "0",
+                        "reviewImages": null
+                    },
+                    {
+                        "uidx": null,
+                        "reviewId": "bddc3eda-9795-4bc2-8232-63d93a6af65f",
+                        "userName": "Ajay J Nair",
+                        "reviewText": "Really good quality, awesome fabric, and the cloth weight though.",
+                        "userRating": 5,
+                        "timestamp": "1674909166000",
+                        "upvotes": "5",
+                        "downvotes": "0",
+                        "reviewImages": null
+                    }
+                ],
+                "topImages": [
+                    {
+                        "reviewId": "ec1e55c6-fb96-4fd7-9021-d96831f2646d",
+                        "imageUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2023u002F2u002F6u002Fa1a0cd69-233a-47d4-8d15-e2eda3d99e571675678120590-image316.jpg",
+                        "aspectRatio": "115:256",
+                        "resolution": "575X1280"
+                    },
+                    {
+                        "reviewId": "bddc3eda-9795-4bc2-8232-63d93a6af65f",
+                        "imageUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2023u002F1u002F28u002F1d1d1e3f-ac8a-4c07-8d7c-e7398fa3b0951674911520148-photo_6244437756516349297_y.jpg",
+                        "aspectRatio": "3:4",
+                        "resolution": "960X1280"
+                    }
+                ]
+            },
+            "aggregatedQuestionsAndAnswers": [
+                {
+                    "question": {
+                        "text_for_pdp": "Fit"
+                    },
+                    "total_count_for_question": 34,
+                    "answers_with_count": [
+                        {
+                            "option": {
+                                "text_for_pdp": "Tight"
+                            },
+                            "count": 2,
+                            "percentage": 6,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "A Little Tight"
+                            },
+                            "count": 1,
+                            "percentage": 3,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "Just Right"
+                            },
+                            "count": 28,
+                            "percentage": 82,
+                            "is_highlighted": true
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "A Little Loose"
+                            },
+                            "count": 2,
+                            "percentage": 6,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "Loose"
+                            },
+                            "count": 1,
+                            "percentage": 3,
+                            "is_highlighted": false
+                        }
+                    ],
+                    "rating": 4.2799997
+                },
+                {
+                    "question": {
+                        "text_for_pdp": "Length"
+                    },
+                    "total_count_for_question": 32,
+                    "answers_with_count": [
+                        {
+                            "option": {
+                                "text_for_pdp": "Short"
+                            },
+                            "count": 3,
+                            "percentage": 9,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "A Little Short"
+                            },
+                            "count": 4,
+                            "percentage": 13,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "Just Right"
+                            },
+                            "count": 24,
+                            "percentage": 75,
+                            "is_highlighted": true
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "A Little Long"
+                            },
+                            "count": 1,
+                            "percentage": 3,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "Long"
+                            },
+                            "count": 0,
+                            "percentage": 0,
+                            "is_highlighted": false
+                        }
+                    ],
+                    "rating": 4
+                }
+            ],
+            "isVirtualBundle": false
+        },
+        "urgency": [
+            {
+                "value": "0",
+                "type": "PURCHASED",
+                "ptile": 0
+            },
+            {
+                "value": "65",
+                "type": "CART",
+                "ptile": 99.5620140229227
+            },
+            {
+                "value": "3667",
+                "type": "WISHLIST",
+                "ptile": 99.88692726878841
+            },
+            {
+                "value": "65",
+                "type": "PDP",
+                "ptile": 97.89332259189527
+            }
+        ],
+        "catalogAttributes": {
+            "catalogDate": "1665062840000",
+            "season": "winter",
+            "year": "2022"
+        },
+        "productContentGroupEntries": [
+            {
+                "title": "",
+                "type": "TABULAR",
+                "attributes": [
+                    {
+                        "attributeName": "Fabric",
+                        "attributeType": "LIST",
+                        "value": "Cotton",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Weave Pattern",
+                        "attributeType": "LIST",
+                        "value": "Regular",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Fit",
+                        "attributeType": "LIST",
+                        "value": "Slim Fit",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Transparency",
+                        "attributeType": "LIST",
+                        "value": "Opaque",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Sustainable",
+                        "attributeType": "LIST",
+                        "value": "Regular",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    }
+                ]
+            },
+            {
+                "title": "",
+                "type": "DETAILS",
+                "attributes": [
+                    {
+                        "attributeName": "Product Details",
+                        "attributeType": "STRING",
+                        "value": "u003Cbu003EProduct Details:u003Cu002Fbu003Eu003Culu003Eu003Cliu003Esolid opaque Casual shirtu003Cu002Fliu003Eu003Cliu003Ehas a spread collaru003Cu002Fliu003Eu003Cliu003Ebutton placketu003Cu002Fliu003Eu003Cliu003E1 patch pocketu003Cu002Fliu003Eu003Cliu003Elong roll-up sleevesu003Cu002Fliu003Eu003Cliu003Ecurved hemu003Cu002Fliu003Eu003Cu002Fulu003E",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Size & Fit",
+                        "attributeType": "STRING",
+                        "value": "u003Cbru003EFit: Slim Fitu003Cbru003EThe model (height 6') is wearing a size 40",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Material & Care",
+                        "attributeType": "STRING",
+                        "value": "100% Cotton,u003Cbru003EMachine-wash",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    }
+                ]
+            }
+        ],
+        "shoppableLooks": {
+            "src": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F8cd5628a-a520-4e63-a6eb-2ab541a72c9b1670583235388LevisMenSlimFitSolidPureCottonCasualShirt7.jpg",
+            "data": [
+                {
+                    "type": "SECONDARY",
+                    "xcoordinate": 46,
+                    "ycoordinate": 53,
+                    "actionUrl": "u002Fv1u002Fshoppablelooksu002Fstyleu002F18974370?tp_x=46&tp_y=53&type=SECONDARY&version=v1&imageid=335216180.0",
+                    "cropImgUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F8cd5628a-a520-4e63-a6eb-2ab541a72c9b1670583235388LevisMenSlimFitSolidPureCottonCasualShirt7.jpg?im=Crop,rect=(238,648,335,692)",
+                    "boundaryBox": {
+                        "x": 22,
+                        "y": 45,
+                        "width": 31,
+                        "height": 48
+                    }
+                },
+                {
+                    "type": "PRIMARY",
+                    "xcoordinate": 39,
+                    "ycoordinate": 32,
+                    "actionUrl": "u002Fv1u002Fshoppablelooksu002Fstyleu002F18974370?tp_x=39&tp_y=32&type=PRIMARY&version=v1&imageid=335216180.0",
+                    "cropImgUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F8cd5628a-a520-4e63-a6eb-2ab541a72c9b1670583235388LevisMenSlimFitSolidPureCottonCasualShirt7.jpg?im=Crop,rect=(152,173,540,562)",
+                    "boundaryBox": {
+                        "x": 14,
+                        "y": 12,
+                        "width": 50,
+                        "height": 39
+                    }
+                }
+            ]
+        },
+        "shoppableLooksV2": [
+            {
+                "src": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F8cd5628a-a520-4e63-a6eb-2ab541a72c9b1670583235388LevisMenSlimFitSolidPureCottonCasualShirt7.jpg",
+                "data": [
+                    {
+                        "type": "SECONDARY",
+                        "xcoordinate": 46,
+                        "ycoordinate": 53,
+                        "actionUrl": "u002Fv1u002Fshoppablelooksu002Fstyleu002F18974370?tp_x=46&tp_y=53&type=SECONDARY&version=v1&imageid=335216180.0",
+                        "cropImgUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F8cd5628a-a520-4e63-a6eb-2ab541a72c9b1670583235388LevisMenSlimFitSolidPureCottonCasualShirt7.jpg?im=Crop,rect=(238,648,335,692)",
+                        "boundaryBox": {
+                            "x": 22,
+                            "y": 45,
+                            "width": 31,
+                            "height": 48
+                        }
+                    },
+                    {
+                        "type": "PRIMARY",
+                        "xcoordinate": 39,
+                        "ycoordinate": 32,
+                        "actionUrl": "u002Fv1u002Fshoppablelooksu002Fstyleu002F18974370?tp_x=39&tp_y=32&type=PRIMARY&version=v1&imageid=335216180.0",
+                        "cropImgUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18974370u002F2022u002F12u002F9u002F8cd5628a-a520-4e63-a6eb-2ab541a72c9b1670583235388LevisMenSlimFitSolidPureCottonCasualShirt7.jpg?im=Crop,rect=(152,173,540,562)",
+                        "boundaryBox": {
+                            "x": 14,
+                            "y": 12,
+                            "width": 50,
+                            "height": 39
+                        }
+                    }
+                ]
+            }
+        ],
+        "descriptors": [
+            {
+                "title": "description",
+                "description": "u003Cbu003EProduct Details:u003Cu002Fbu003Eu003Culu003Eu003Cliu003Esolid opaque Casual shirtu003Cu002Fliu003Eu003Cliu003Ehas a spread collaru003Cu002Fliu003Eu003Cliu003Ebutton placketu003Cu002Fliu003Eu003Cliu003E1 patch pocketu003Cu002Fliu003Eu003Cliu003Elong roll-up sleevesu003Cu002Fliu003Eu003Cliu003Ecurved hemu003Cu002Fliu003Eu003Cu002Fulu003E"
+            },
+            {
+                "title": "size_fit_desc",
+                "description": "u003Cbru003EFit: Slim Fitu003Cbru003EThe model (height 6') is wearing a size 40"
+            },
+            {
+                "title": "materials_care_desc",
+                "description": "100% Cotton,u003Cbru003EMachine-wash"
+            }
+        ],
+        "flags": {
+            "isExchangeable": true,
+            "isReturnable": true,
+            "openBoxPickupEnabled": true,
+            "tryAndBuyEnabled": true,
+            "isLarge": false,
+            "isHazmat": false,
+            "isFragile": false,
+            "isJewellery": false,
+            "outOfStock": false,
+            "codEnabled": true,
+            "globalStore": false,
+            "loyaltyPointsEnabled": false,
+            "emiEnabled": true,
+            "chatEnabled": false,
+            "measurementModeEnabled": false,
+            "sampleModeEnabled": false,
+            "disableBuyButton": false,
+            "isExpirable": false
+        },
+        "earlyBirdOffer": null,
+        "serviceability": {
+            "launchDate": "",
+            "returnPeriod": 30,
+            "descriptors": [
+                "Pay on delivery might be available",
+                "Easy 30 days returns and exchanges",
+                "Try & Buy might be available"
+            ],
+            "procurementTimeInDays": {
+                "86": 2,
+                "4215": 0
+            }
+        },
+        "buyButtonSellerOrder": [
+            {
+                "skuId": 58643904,
+                "sellerPartnerId": 4215
+            },
+            {
+                "skuId": 58643906,
+                "sellerPartnerId": 4215
+            },
+            {
+                "skuId": 58643908,
+                "sellerPartnerId": 4215
+            },
+            {
+                "skuId": 58643910,
+                "sellerPartnerId": 4215
+            },
+            {
+                "skuId": 58643904,
+                "sellerPartnerId": 86
+            },
+            {
+                "skuId": 58643906,
+                "sellerPartnerId": 86
+            },
+            {
+                "skuId": 58643908,
+                "sellerPartnerId": 86
+            },
+            {
+                "skuId": 58643910,
+                "sellerPartnerId": 86
+            },
+            {
+                "skuId": 58643912,
+                "sellerPartnerId": 86
+            }
+        ],
+        "sellers": [
+            {
+                "sellerPartnerId": 4215,
+                "sellerName": "Vision Star",
+                "displayName": "Konde Products & Services Private Limited",
+                "sellerAddress": {
+                    "address": "3rd floor, No. 1185,5th Main, 7th sector HSR layout,Obeya Tranquil, Bengaluru, Bengaluru Urban,Bengaluru , KARNATAKA - 560102",
+                    "city": "Bengaluru",
+                    "state": "KARNATAKA",
+                    "pincode": "560102",
+                    "country": "India"
+                }
+            },
+            {
+                "sellerPartnerId": 86,
+                "sellerName": "Levi Strauss India Pvt Ltd",
+                "displayName": "Levi Strauss India Pvt Ltd",
+                "sellerAddress": {
+                    "address": "Ecom Express Pvt Ltd, Syno 42u002F1, Hemandahalli Village, Kadugudi Post,Anugondanahalli Hobli, Hosakote Taluk, Bengaluru, Karnataka 560067Bengaluru , Karnataka - 560067",
+                    "city": "Bengaluru",
+                    "state": "Karnataka",
+                    "pincode": "560067",
+                    "country": "India"
+                }
+            }
+        ],
+        "sizes": [
+            {
+                "skuId": 58643904,
+                "styleId": 18974370,
+                "action": "u002Fproductu002F18974370u002Frelatedu002F38?co=1",
+                "label": "38",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Chest",
+                        "value": "39.5",
+                        "minValue": "39.5",
+                        "maxValue": "39.5",
+                        "unit": "Inches",
+                        "displayText": "39.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "28.5",
+                        "minValue": "28.5",
+                        "maxValue": "28.5",
+                        "unit": "Inches",
+                        "displayText": "28.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Across Shoulder",
+                        "value": "17.0",
+                        "minValue": "17.0",
+                        "maxValue": "17.0",
+                        "unit": "Inches",
+                        "displayText": "17.0in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "38",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    },
+                    {
+                        "scaleCode": "brand_size",
+                        "sizeValue": "S",
+                        "size": "Brand Size",
+                        "order": 2,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [
+                    {
+                        "mrp": 2299,
+                        "sellerPartnerId": 4215,
+                        "availableCount": 8,
+                        "sellableInventoryCount": 8,
+                        "warehouses": [
+                            "22499",
+                            "27235",
+                            "27523"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18974370:159814126",
+                        "discountedPrice": 1724,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Arvind Ltd, Lifestyle Apparels- Shirting Division, Tiptur Road Kasaba Hobli, No 24u002F6 Kodihalli, 573103 Hassan, India",
+                        "importerInfo": "-",
+                        "packerInfo": "Arvind Ltd, Lifestyle Apparels- Shirting Division, Tiptur Road Kasaba Hobli, No 24u002F6 Kodihalli, 573103 Hassan, India",
+                        "procurementTimeInDays": 0,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18974370&sellerPartnerId=4215&skuId=58643904&src=pdp"
+                    },
+                    {
+                        "mrp": 2299,
+                        "sellerPartnerId": 86,
+                        "availableCount": 2,
+                        "sellableInventoryCount": 2,
+                        "warehouses": [
+                            "20965",
+                            "28154"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18974370:159823827",
+                        "discountedPrice": 1034,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Arvind Ltd, Lifestyle Apparels- Shirting Division, Tiptur Road Kasaba Hobli, No 24u002F6 Kodihalli, 573103 Hassan, India",
+                        "importerInfo": "-",
+                        "packerInfo": "Arvind Ltd, Lifestyle Apparels- Shirting Division, Tiptur Road Kasaba Hobli, No 24u002F6 Kodihalli, 573103 Hassan, India",
+                        "procurementTimeInDays": 2,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18974370&sellerPartnerId=86&skuId=58643904&src=pdp"
+                    }
+                ],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            },
+            {
+                "skuId": 58643906,
+                "styleId": 18974370,
+                "action": "u002Fproductu002F18974370u002Frelatedu002F40?co=1",
+                "label": "40",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Chest",
+                        "value": "42.5",
+                        "minValue": "42.5",
+                        "maxValue": "42.5",
+                        "unit": "Inches",
+                        "displayText": "42.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "29.5",
+                        "minValue": "29.5",
+                        "maxValue": "29.5",
+                        "unit": "Inches",
+                        "displayText": "29.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Across Shoulder",
+                        "value": "18.0",
+                        "minValue": "18.0",
+                        "maxValue": "18.0",
+                        "unit": "Inches",
+                        "displayText": "18.0in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "40",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    },
+                    {
+                        "scaleCode": "brand_size",
+                        "sizeValue": "M",
+                        "size": "Brand Size",
+                        "order": 2,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [
+                    {
+                        "mrp": 2299,
+                        "sellerPartnerId": 4215,
+                        "availableCount": 1,
+                        "sellableInventoryCount": 1,
+                        "warehouses": [
+                            "36"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18974370:159814126",
+                        "discountedPrice": 1724,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Arvind Ltd, Lifestyle Apparels- Shirting Division, Tiptur Road Kasaba Hobli, No 24u002F6 Kodihalli, 573103 Hassan, India",
+                        "importerInfo": "-",
+                        "packerInfo": "Arvind Ltd, Lifestyle Apparels- Shirting Division, Tiptur Road Kasaba Hobli, No 24u002F6 Kodihalli, 573103 Hassan, India",
+                        "procurementTimeInDays": 0,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18974370&sellerPartnerId=4215&skuId=58643906&src=pdp"
+                    }
+                ],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            },
+            {
+                "skuId": 58643908,
+                "styleId": 18974370,
+                "action": "u002Fproductu002F18974370u002Frelatedu002F42?co=1",
+                "label": "42",
+                "available": false,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Chest",
+                        "value": "45.5",
+                        "minValue": "45.5",
+                        "maxValue": "45.5",
+                        "unit": "Inches",
+                        "displayText": "45.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "30.5",
+                        "minValue": "30.5",
+                        "maxValue": "30.5",
+                        "unit": "Inches",
+                        "displayText": "30.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Across Shoulder",
+                        "value": "18.8",
+                        "minValue": "18.8",
+                        "maxValue": "18.8",
+                        "unit": "Inches",
+                        "displayText": "18.8in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "42",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    },
+                    {
+                        "scaleCode": "brand_size",
+                        "sizeValue": "L",
+                        "size": "Brand Size",
+                        "order": 2,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            },
+            {
+                "skuId": 58643910,
+                "styleId": 18974370,
+                "action": "u002Fproductu002F18974370u002Frelatedu002F44?co=1",
+                "label": "44",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Chest",
+                        "value": "48.5",
+                        "minValue": "48.5",
+                        "maxValue": "48.5",
+                        "unit": "Inches",
+                        "displayText": "48.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "31.5",
+                        "minValue": "31.5",
+                        "maxValue": "31.5",
+                        "unit": "Inches",
+                        "displayText": "31.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Across Shoulder",
+                        "value": "19.5",
+                        "minValue": "19.5",
+                        "maxValue": "19.5",
+                        "unit": "Inches",
+                        "displayText": "19.5in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "44",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    },
+                    {
+                        "scaleCode": "brand_size",
+                        "sizeValue": "XL",
+                        "size": "Brand Size",
+                        "order": 2,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [
+                    {
+                        "mrp": 2299,
+                        "sellerPartnerId": 4215,
+                        "availableCount": 1,
+                        "sellableInventoryCount": 1,
+                        "warehouses": [
+                            "15774"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18974370:159814126",
+                        "discountedPrice": 1724,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Arvind Ltd, Lifestyle Apparels- Shirting Division, Tiptur Road Kasaba Hobli, No 24u002F6 Kodihalli, 573103 Hassan, India",
+                        "importerInfo": "-",
+                        "packerInfo": "Arvind Ltd, Lifestyle Apparels- Shirting Division, Tiptur Road Kasaba Hobli, No 24u002F6 Kodihalli, 573103 Hassan, India",
+                        "procurementTimeInDays": 0,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18974370&sellerPartnerId=4215&skuId=58643910&src=pdp"
+                    }
+                ],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            },
+            {
+                "skuId": 58643912,
+                "styleId": 18974370,
+                "action": "u002Fproductu002F18974370u002Frelatedu002F46?co=1",
+                "label": "46",
+                "available": false,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Chest",
+                        "value": "51.5",
+                        "minValue": "51.5",
+                        "maxValue": "51.5",
+                        "unit": "Inches",
+                        "displayText": "51.5in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "32.0",
+                        "minValue": "32.0",
+                        "maxValue": "32.0",
+                        "unit": "Inches",
+                        "displayText": "32.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Across Shoulder",
+                        "value": "20.5",
+                        "minValue": "20.5",
+                        "maxValue": "20.5",
+                        "unit": "Inches",
+                        "displayText": "20.5in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "46",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    },
+                    {
+                        "scaleCode": "brand_size",
+                        "sizeValue": "2XL",
+                        "size": "Brand Size",
+                        "order": 2,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            }
+        ],
+        "discounts": [
+            {
+                "type": 1,
+                "freeItem": false,
+                "label": "(55% OFF)",
+                "discountText": "OFFER ENDS IN ",
+                "timerStart": "0",
+                "timerEnd": "1676410607",
+                "discountPercent": 55,
+                "offer": "",
+                "discountId": "18974370:159823827",
+                "heading": null,
+                "description": null,
+                "headingFrgSlab": null,
+                "descriptionFrgSlab": null,
+                "link": null,
+                "freeItemImage": null,
+                "totalFrgCount": 0,
+                "showSlabName": false,
+                "showFrgListPage": false
+            },
+            {
+                "type": 1,
+                "freeItem": false,
+                "label": "(25% OFF)",
+                "discountText": "OFFER ENDS IN ",
+                "timerStart": "0",
+                "timerEnd": "1676410607",
+                "discountPercent": 25,
+                "offer": "",
+                "discountId": "18974370:159814126",
+                "heading": null,
+                "description": null,
+                "headingFrgSlab": null,
+                "descriptionFrgSlab": null,
+                "link": null,
+                "freeItemImage": null,
+                "totalFrgCount": 0,
+                "showSlabName": false,
+                "showFrgListPage": false
+            }
+        ],
+        "offers": [
+            {
+                "type": "EMI",
+                "title": "EMI option available",
+                "description": "",
+                "action": "u002Ffaqs",
+                "image": null
+            }
+        ]
+    }
+}

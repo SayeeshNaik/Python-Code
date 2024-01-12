@@ -1,0 +1,1870 @@
+{
+    "pdpData": {
+        "id": 18652620,
+        "name": "KALINI Women Beige Floral Yoke Design Straight Kurta with Trousers & With Dupatta",
+        "mrp": 3699,
+        "manufacturer": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+        "countryOfOrigin": "India",
+        "colours": null,
+        "baseColour": "Beige",
+        "brand": {
+            "uidx": "",
+            "name": "KALINI",
+            "image": "",
+            "bio": "",
+            "brandAttributes": [
+                {
+                    "type": "TABULAR",
+                    "attributes": [
+                        {
+                            "attributeName": "Brand Store URL",
+                            "value": "https:u002Fu002Fwww.myntra.comu002Fshopu002Fobs-kalini",
+                            "attributeType": "LIST"
+                        }
+                    ]
+                }
+            ]
+        },
+        "brandOrderDetails": "",
+        "media": {
+            "videos": [],
+            "albums": [
+                {
+                    "name": "default",
+                    "images": [
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F4d5f7043-a460-42e5-b67a-b04d9c0bc7041661503606623-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-1.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F4d5f7043-a460-42e5-b67a-b04d9c0bc7041661503606623-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-1.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F4d5f7043-a460-42e5-b67a-b04d9c0bc7041661503606623-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-1.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F15cd09f8-0b5d-4494-ae08-de5d1bc619801661503606603-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-2.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F15cd09f8-0b5d-4494-ae08-de5d1bc619801661503606603-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-2.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F15cd09f8-0b5d-4494-ae08-de5d1bc619801661503606603-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-2.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002Faffb7b39-b410-4022-ad0e-3b1834dfa2591661503606582-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-3.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002Faffb7b39-b410-4022-ad0e-3b1834dfa2591661503606582-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-3.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002Faffb7b39-b410-4022-ad0e-3b1834dfa2591661503606582-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-3.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F19b4d263-0b27-4392-8344-0574d5a54ca71661503606561-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-4.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F19b4d263-0b27-4392-8344-0574d5a54ca71661503606561-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-4.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F19b4d263-0b27-4392-8344-0574d5a54ca71661503606561-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-4.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F966a2f00-c0a2-4997-b004-dd32fd74bd8c1661503606541-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-5.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F966a2f00-c0a2-4997-b004-dd32fd74bd8c1661503606541-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-5.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F966a2f00-c0a2-4997-b004-dd32fd74bd8c1661503606541-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-5.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F7f8bddbb-1f7d-4ba9-ac94-5f80fcc5debc1661503606521-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-6.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F7f8bddbb-1f7d-4ba9-ac94-5f80fcc5debc1661503606521-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-6.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F7f8bddbb-1f7d-4ba9-ac94-5f80fcc5debc1661503606521-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-6.jpg",
+                            "annotation": []
+                        },
+                        {
+                            "src": "http:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F5eafdb28-6be6-4e30-b609-a62e1df01f391661503606501-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-7.jpg",
+                            "secureSrc": "https:u002Fu002Fassets.myntassets.comu002Fh_($height),q_($qualityPercentage),w_($width)u002Fv1u002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F5eafdb28-6be6-4e30-b609-a62e1df01f391661503606501-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-7.jpg",
+                            "host": null,
+                            "imageURL": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F5eafdb28-6be6-4e30-b609-a62e1df01f391661503606501-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-7.jpg",
+                            "annotation": []
+                        }
+                    ]
+                },
+                {
+                    "name": "animatedImage",
+                    "images": []
+                }
+            ]
+        },
+        "sbpEnabled": false,
+        "sizechart": {
+            "sizeChartUrl": null,
+            "sizeRepresentationUrl": "http:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002Fsizechartu002F2016u002F10u002F28u002F11477640000694-Body_Measurements_size-chart_Image.png"
+        },
+        "sizeRecoLazy": {
+            "actionType": "lazy",
+            "action": "u002Fproductu002F18652620u002Fsizeu002Frecommendation",
+            "sizeProfileAction": "u002Fuseru002Fsize-profiles?gender=female&articleType=Kurta%20Sets"
+        },
+        "analytics": {
+            "articleType": "Kurta Sets",
+            "subCategory": "Apparel Set",
+            "masterCategory": "Apparel",
+            "gender": "Women",
+            "brand": "KALINI",
+            "colourHexCode": null
+        },
+        "crossLinks": [
+            {
+                "title": "More Kurta Sets by KALINI",
+                "url": "kurta-sets?f=Brand:KALINI::Gender:women&luxuryType=nonluxury"
+            },
+            {
+                "title": "More Beige Kurta Sets",
+                "url": "kurta-sets?f=Color:Beige_e8e6cf::Gender:women&luxuryType=nonluxury"
+            },
+            {
+                "title": "More Kurta Sets",
+                "url": "kurta-sets?f=Gender:women&luxuryType=nonluxury"
+            }
+        ],
+        "relatedStyles": null,
+        "disclaimerTitle": "",
+        "productDetails": [
+            {
+                "type": null,
+                "content": null,
+                "title": "Product Details",
+                "description": "Beige yoke design Kurta with Trousers with dupattau003Cbru003Eu003Cbru003Eu003Cbu003EKurta design: u003Cu002Fbu003Eu003Culu003Eu003Cliu003EFloral yoke designu003Cu002Fliu003Eu003Cliu003EStraight shapeu003Cu002Fliu003Eu003Cliu003ERegular styleu003Cu002Fliu003Eu003Cliu003ERound neck, three-quarter regular sleevesu003Cu002Fliu003Eu003Cliu003ECalf length with straight hemu003Cu002Fliu003Eu003Cliu003ECotton blend machine weave fabricu003Cu002Fliu003Eu003Cu002Fulu003Eu003Cbru003Eu003Cbu003ETrousers design: u003Cu002Fbu003Eu003Culu003Eu003Cliu003ESolid Trousersu003Cu002Fliu003Eu003Cliu003EElasticated waistbandu003Cu002Fliu003Eu003Cliu003ESlip-on closureu003Cu002Fliu003Eu003Cu002Fulu003E"
+            },
+            {
+                "type": null,
+                "content": null,
+                "title": "SIZE & FIT",
+                "description": "The model (height 5'8) is wearing a size Su003Cbru003EDimensionDupatta: Length : 2.25 M, Width : 0.95 M"
+            },
+            {
+                "type": null,
+                "content": null,
+                "title": "MATERIAL & CARE",
+                "description": "Kurta Fabric: Cotton Blend,u003Cbru003EDry Clean Only"
+            }
+        ],
+        "preOrder": null,
+        "sizeChartDisclaimerText": "To-Fit Denotes Body Measurements in",
+        "tags": null,
+        "articleAttributes": {
+            "Add-Ons": "NA",
+            "Body Shape ID": "333,424",
+            "Body or Garment Size": "To-Fit Denotes Body Measurements in",
+            "Bottom Closure": "Slip-On",
+            "Bottom Fabric": "Cotton Blend",
+            "Bottom Pattern": "Solid",
+            "Bottom Type": "Trousers",
+            "Character": "NA",
+            "Dupatta": "With Dupatta",
+            "Dupatta Border": "Taping",
+            "Dupatta Fabric": "Poly Chiffon",
+            "Dupatta Pattern": "Printed",
+            "Main Trend": "NA",
+            "Neck": "Round Neck",
+            "Number of Pockets": "NA",
+            "Occasion": "Festive",
+            "Ornamentation": "NA",
+            "Pattern Coverage": "Yoke or Border",
+            "Print or Pattern Type": "Floral",
+            "Sleeve Length": "Three-Quarter Sleeves",
+            "Sleeve Styling": "Regular Sleeves",
+            "Slit Detail": "Side Slits",
+            "Stitch": "Ready to Wear",
+            "Sustainable": "Regular",
+            "Technique": "NA",
+            "Top Design Styling": "Regular",
+            "Top Fabric": "Cotton Blend",
+            "Top Hemline": "Straight",
+            "Top Length": "Calf Length",
+            "Top Pattern": "Yoke Design",
+            "Top Shape": "Straight",
+            "Top Type": "Kurta",
+            "Waistband": "Elasticated",
+            "Wash Care": "Dry Clean",
+            "Weave Pattern": "Regular",
+            "Weave Type": "Machine Weave",
+            "Wedding": "Bride & Wedding Squad"
+        },
+        "systemAttributes": [
+            {
+                "metaInfo": "H_ROS_WBU",
+                "systemAttributeValueEntry": {
+                    "id": 50,
+                    "systemAttributeEntry": {
+                        "attributeCode": "CUSTOM_LABEL2",
+                        "attributeName": "Custom_Label2",
+                        "attributeType": "def",
+                        "id": 134
+                    },
+                    "valueCode": "SA_FD_LABEL2",
+                    "valueName": "SA_FD_Label2"
+                }
+            },
+            {
+                "metaInfo": "",
+                "systemAttributeValueEntry": {
+                    "id": 194,
+                    "systemAttributeEntry": {
+                        "attributeCode": "SA_XT_BESTSELLER",
+                        "attributeName": "SA_XT_BESTSELLER",
+                        "attributeType": "def",
+                        "id": 152
+                    },
+                    "valueCode": "BESTSELLER",
+                    "valueName": "BESTSELLER"
+                }
+            },
+            {
+                "metaInfo": "",
+                "systemAttributeValueEntry": {
+                    "id": 196,
+                    "systemAttributeEntry": {
+                        "attributeCode": "SA_XT_PICWORTHY",
+                        "attributeName": "SA_XT_PICWORTHY",
+                        "attributeType": "def",
+                        "id": 154
+                    },
+                    "valueCode": "PIC-WORTHY",
+                    "valueName": "PIC-WORTHY"
+                }
+            }
+        ],
+        "ratings": {
+            "averageRating": 4.133472149921916,
+            "totalCount": 9605,
+            "isFastFashion": true,
+            "ratingInfo": [
+                {
+                    "rating": 1,
+                    "count": 745
+                },
+                {
+                    "rating": 2,
+                    "count": 367
+                },
+                {
+                    "rating": 3,
+                    "count": 971
+                },
+                {
+                    "rating": 4,
+                    "count": 2300
+                },
+                {
+                    "rating": 5,
+                    "count": 5222
+                }
+            ],
+            "reviewInfo": {
+                "reviewsCount": "594",
+                "reviewsImageCount": "64",
+                "topReviews": [
+                    {
+                        "uidx": null,
+                        "reviewId": "fe4d65e1-3e4a-4270-a1b2-2eedfd91f7f5",
+                        "userName": "Mandakini",
+                        "reviewText":"Go for it. Bought for my mom n she loved it. nNice material n duppata is very preety \xf0\x9f\x92\x95",
+                        "userRating": 4,
+                        "timestamp": "1661590340000",
+                        "upvotes": "245",
+                        "downvotes": "69",
+                        "reviewImages": [
+                            {
+                                "reviewId": "fe4d65e1-3e4a-4270-a1b2-2eedfd91f7f5",
+                                "imageUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2022u002F8u002F29u002Fd2d7a968-1eae-4ca4-bdc8-0b739a93961e1661785334792-image881.jpg",
+                                "aspectRatio": "9:16",
+                                "resolution": "540X960"
+                            },
+                            {
+                                "reviewId": "fe4d65e1-3e4a-4270-a1b2-2eedfd91f7f5",
+                                "imageUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2022u002F8u002F29u002Fdf2d2f11-88ae-48ad-92a6-42f283cf8fe31661785334793-image444.jpg",
+                                "aspectRatio": "9:16",
+                                "resolution": "540X960"
+                            },
+                            {
+                                "reviewId": "fe4d65e1-3e4a-4270-a1b2-2eedfd91f7f5",
+                                "imageUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2022u002F8u002F29u002F3b817f07-e261-4d32-8f4c-03d40b6527751661785334830-image485.jpg",
+                                "aspectRatio": "9:16",
+                                "resolution": "540X960"
+                            }
+                        ]
+                    },
+                    {
+                        "uidx": null,
+                        "reviewId": "390a603b-ccb1-4509-b2ef-5b5b382a5368",
+                        "userName": "Aarohee Pandit",
+                        "reviewText": "The salwar is a look like of the image showing and the color, the salwar and kamij fabric it not cotton so not sure it will be comfortable in summer or not.. but the fabric of the dupatta is not really good.. it's like a floppy nylon fabric. Uncomfortable to carry the dupatta. Other wise the embroidery on the neck is good and can wear in light winter .. this is what I feel I have written hear...",
+                        "userRating": 3,
+                        "timestamp": "1674610593000",
+                        "upvotes": "0",
+                        "downvotes": "0",
+                        "reviewImages": null
+                    },
+                    {
+                        "uidx": null,
+                        "reviewId": "42849c6e-fd03-4361-b9aa-82725e71d7cd",
+                        "userName": "Reeti Bhat",
+                        "reviewText":"Quality and material is very good. Very comfortable. Excellent product. Got so many compliments \xf0\x9f\x98\x83 exactly as shown in the picture. Value for money.",
+                        "userRating": 5,
+                        "timestamp": "1657120557000",
+                        "upvotes": "116",
+                        "downvotes": "40",
+                        "reviewImages": [
+                            {
+                                "reviewId": "42849c6e-fd03-4361-b9aa-82725e71d7cd",
+                                "imageUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2022u002F7u002F6u002F05c4ee2a-36e5-49e4-a8cf-d28f2e4640671657120471050-image697.jpg",
+                                "aspectRatio": "16:9",
+                                "resolution": "960X540"
+                            }
+                        ]
+                    }
+                ],
+                "topImageReviews": [
+                    {
+                        "uidx": null,
+                        "reviewId": "7e095000-dfeb-4509-b2e9-10ecbf747ec8",
+                        "userName": "Javed",
+                        "reviewText": "Beautiful ",
+                        "userRating": 5,
+                        "timestamp": "1664454446000",
+                        "upvotes": "74",
+                        "downvotes": "44",
+                        "reviewImages": null
+                    },
+                    {
+                        "uidx": null,
+                        "reviewId": "512a9454-a622-4874-bd6d-3090fd54f425",
+                        "userName": "Diwakar Singh",
+                        "reviewText": "Good quality and very good product pure cotton",
+                        "userRating": 5,
+                        "timestamp": "1665337931000",
+                        "upvotes": "40",
+                        "downvotes": "18",
+                        "reviewImages": null
+                    },
+                    {
+                        "uidx": null,
+                        "reviewId": "43e4985a-470a-4b45-aacc-a2b6ed86944b",
+                        "userName": "Lata",
+                        "reviewText": "The kurta set was a gift to mom, she loved it, great material and dupatta steal the show, price is very reasonable.",
+                        "userRating": 5,
+                        "timestamp": "1667057784000",
+                        "upvotes": "36",
+                        "downvotes": "12",
+                        "reviewImages": null
+                    },
+                    {
+                        "uidx": null,
+                        "reviewId": "285e396e-a93e-4f62-b23d-21cec15f0789",
+                        "userName": "sabitha",
+                        "reviewText":"I loved the dress.. thank you mintra... Till now whatever i ordered all are good.. I am happy \xf0\x9f\x98\x8a",
+                        "userRating": 5,
+                        "timestamp": "1662960195000",
+                        "upvotes": "48",
+                        "downvotes": "31",
+                        "reviewImages": null
+                    }
+                ],
+                "topImages": [
+                    {
+                        "reviewId": "7e095000-dfeb-4509-b2e9-10ecbf747ec8",
+                        "imageUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2022u002F9u002F29u002Faf0b71dd-7cf3-4e7b-839b-f9aa8fc45ebc1664454445507-IMG_20220928_190146.jpg",
+                        "aspectRatio": "173:384",
+                        "resolution": "2076X4608"
+                    },
+                    {
+                        "reviewId": "512a9454-a622-4874-bd6d-3090fd54f425",
+                        "imageUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2022u002F10u002F9u002Fbb3183ea-0aa5-40d3-8197-455fbf6cf6b51665337930726-temp_photo.jpg",
+                        "aspectRatio": "61:130",
+                        "resolution": "1952X4160"
+                    },
+                    {
+                        "reviewId": "43e4985a-470a-4b45-aacc-a2b6ed86944b",
+                        "imageUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2022u002F10u002F29u002Fb8292227-d5d1-4f29-96f5-a5c530a10df61667057783320-IMG20221027124652.jpg",
+                        "aspectRatio": "73:97",
+                        "resolution": "3504X4656"
+                    },
+                    {
+                        "reviewId": "285e396e-a93e-4f62-b23d-21cec15f0789",
+                        "imageUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2022u002F9u002F12u002F2d5b0cc7-5ba3-47d8-bc88-846d4ced46921662960194634-IMG_20220912_104924.jpg",
+                        "aspectRatio": "1109:2304",
+                        "resolution": "2218X4608"
+                    }
+                ]
+            },
+            "aggregatedQuestionsAndAnswers": [
+                {
+                    "question": {
+                        "text_for_pdp": "Fit"
+                    },
+                    "total_count_for_question": 901,
+                    "answers_with_count": [
+                        {
+                            "option": {
+                                "text_for_pdp": "Tight"
+                            },
+                            "count": 34,
+                            "percentage": 4,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "A Little Tight"
+                            },
+                            "count": 49,
+                            "percentage": 5,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "Just Right"
+                            },
+                            "count": 649,
+                            "percentage": 72,
+                            "is_highlighted": true
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "A Little Loose"
+                            },
+                            "count": 131,
+                            "percentage": 15,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "Loose"
+                            },
+                            "count": 38,
+                            "percentage": 4,
+                            "is_highlighted": false
+                        }
+                    ],
+                    "rating": 3.88
+                },
+                {
+                    "question": {
+                        "text_for_pdp": "Length"
+                    },
+                    "total_count_for_question": 778,
+                    "answers_with_count": [
+                        {
+                            "option": {
+                                "text_for_pdp": "Short"
+                            },
+                            "count": 7,
+                            "percentage": 1,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "A Little Short"
+                            },
+                            "count": 16,
+                            "percentage": 2,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "Just Right"
+                            },
+                            "count": 642,
+                            "percentage": 82,
+                            "is_highlighted": true
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "A Little Long"
+                            },
+                            "count": 84,
+                            "percentage": 11,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "Long"
+                            },
+                            "count": 29,
+                            "percentage": 4,
+                            "is_highlighted": false
+                        }
+                    ],
+                    "rating": 4.2799997
+                },
+                {
+                    "question": {
+                        "text_for_pdp": "Transparency"
+                    },
+                    "total_count_for_question": 764,
+                    "answers_with_count": [
+                        {
+                            "option": {
+                                "text_for_pdp": "Low"
+                            },
+                            "count": 496,
+                            "percentage": 65,
+                            "is_highlighted": true
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "Medium"
+                            },
+                            "count": 241,
+                            "percentage": 32,
+                            "is_highlighted": false
+                        },
+                        {
+                            "option": {
+                                "text_for_pdp": "High"
+                            },
+                            "count": 27,
+                            "percentage": 3,
+                            "is_highlighted": false
+                        }
+                    ],
+                    "rating": 3.6
+                }
+            ],
+            "isVirtualBundle": false
+        },
+        "urgency": [
+            {
+                "value": "0",
+                "type": "PURCHASED",
+                "ptile": 0
+            },
+            {
+                "value": "0",
+                "type": "CART",
+                "ptile": 0
+            },
+            {
+                "value": "0",
+                "type": "WISHLIST",
+                "ptile": 0
+            },
+            {
+                "value": "0",
+                "type": "PDP",
+                "ptile": 0
+            }
+        ],
+        "catalogAttributes": {
+            "catalogDate": "1654605785000",
+            "season": "summer",
+            "year": "2022"
+        },
+        "productContentGroupEntries": [
+            {
+                "title": "",
+                "type": "TABULAR",
+                "attributes": [
+                    {
+                        "attributeName": "Neck",
+                        "attributeType": "LIST",
+                        "value": "Round Neck",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Top Design Styling",
+                        "attributeType": "LIST",
+                        "value": "Regular",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Sleeve Styling",
+                        "attributeType": "LIST",
+                        "value": "Regular Sleeves",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Top Fabric",
+                        "attributeType": "LIST",
+                        "value": "Cotton Blend",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Print or Pattern Type",
+                        "attributeType": "LIST",
+                        "value": "Floral",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Weave Type",
+                        "attributeType": "LIST",
+                        "value": "Machine Weave",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Bottom Closure",
+                        "attributeType": "LIST",
+                        "value": "Slip-On",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Weave Pattern",
+                        "attributeType": "LIST",
+                        "value": "Regular",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Stitch",
+                        "attributeType": "LIST",
+                        "value": "Ready to Wear",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Bottom Fabric",
+                        "attributeType": "LIST",
+                        "value": "Cotton Blend",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Dupatta Fabric",
+                        "attributeType": "LIST",
+                        "value": "Poly Chiffon",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Waistband",
+                        "attributeType": "LIST",
+                        "value": "Elasticated",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    }
+                ]
+            },
+            {
+                "title": "",
+                "type": "DETAILS",
+                "attributes": [
+                    {
+                        "attributeName": "Product Details",
+                        "attributeType": "STRING",
+                        "value": "Beige yoke design Kurta with Trousers with dupattau003Cbru003Eu003Cbru003Eu003Cbu003EKurta design: u003Cu002Fbu003Eu003Culu003Eu003Cliu003EFloral yoke designu003Cu002Fliu003Eu003Cliu003EStraight shapeu003Cu002Fliu003Eu003Cliu003ERegular styleu003Cu002Fliu003Eu003Cliu003ERound neck, three-quarter regular sleevesu003Cu002Fliu003Eu003Cliu003ECalf length with straight hemu003Cu002Fliu003Eu003Cliu003ECotton blend machine weave fabricu003Cu002Fliu003Eu003Cu002Fulu003Eu003Cbru003Eu003Cbu003ETrousers design: u003Cu002Fbu003Eu003Culu003Eu003Cliu003ESolid Trousersu003Cu002Fliu003Eu003Cliu003EElasticated waistbandu003Cu002Fliu003Eu003Cliu003ESlip-on closureu003Cu002Fliu003Eu003Cu002Fulu003E",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Size & Fit",
+                        "attributeType": "STRING",
+                        "value": "The model (height 5'8) is wearing a size Su003Cbru003EDimensionDupatta: Length : 2.25 M, Width : 0.95 M",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    },
+                    {
+                        "attributeName": "Material & Care",
+                        "attributeType": "STRING",
+                        "value": "Kurta Fabric: Cotton Blend,u003Cbru003EDry Clean Only",
+                        "imageUrl": "",
+                        "attributeValueDesc": ""
+                    }
+                ]
+            }
+        ],
+        "shoppableLooks": {
+            "src": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F4d5f7043-a460-42e5-b67a-b04d9c0bc7041661503606623-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-1.jpg",
+            "data": [
+                {
+                    "type": "SECONDARY",
+                    "xcoordinate": 78,
+                    "ycoordinate": 65,
+                    "actionUrl": "u002Fv1u002Fshoppablelooksu002Fstyleu002F18652620?tp_x=78&tp_y=65&type=SECONDARY&version=v1&imageid=4d5f7043",
+                    "cropImgUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F4d5f7043-a460-42e5-b67a-b04d9c0bc7041661503606623-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-1.jpg?im=Crop,rect=(756,807,184,245)",
+                    "boundaryBox": {
+                        "x": 70,
+                        "y": 56,
+                        "width": 17,
+                        "height": 17
+                    }
+                },
+                {
+                    "type": "SECONDARY",
+                    "xcoordinate": 63,
+                    "ycoordinate": 93,
+                    "actionUrl": "u002Fv1u002Fshoppablelooksu002Fstyleu002F18652620?tp_x=63&tp_y=93&type=SECONDARY&version=v1&imageid=4d5f7043",
+                    "cropImgUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F4d5f7043-a460-42e5-b67a-b04d9c0bc7041661503606623-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-1.jpg?im=Crop,rect=(594,1268,184,144)",
+                    "boundaryBox": {
+                        "x": 55,
+                        "y": 88,
+                        "width": 17,
+                        "height": 10
+                    }
+                }
+            ]
+        },
+        "shoppableLooksV2": [
+            {
+                "src": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F4d5f7043-a460-42e5-b67a-b04d9c0bc7041661503606623-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-1.jpg",
+                "data": [
+                    {
+                        "type": "SECONDARY",
+                        "xcoordinate": 78,
+                        "ycoordinate": 65,
+                        "actionUrl": "u002Fv1u002Fshoppablelooksu002Fstyleu002F18652620?tp_x=78&tp_y=65&type=SECONDARY&version=v1&imageid=4d5f7043",
+                        "cropImgUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F4d5f7043-a460-42e5-b67a-b04d9c0bc7041661503606623-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-1.jpg?im=Crop,rect=(756,807,184,245)",
+                        "boundaryBox": {
+                            "x": 70,
+                            "y": 56,
+                            "width": 17,
+                            "height": 17
+                        }
+                    },
+                    {
+                        "type": "SECONDARY",
+                        "xcoordinate": 63,
+                        "ycoordinate": 93,
+                        "actionUrl": "u002Fv1u002Fshoppablelooksu002Fstyleu002F18652620?tp_x=63&tp_y=93&type=SECONDARY&version=v1&imageid=4d5f7043",
+                        "cropImgUrl": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F18652620u002F2022u002F8u002F26u002F4d5f7043-a460-42e5-b67a-b04d9c0bc7041661503606623-KALINI-Women-Beige-Floral-Yoke-Design-Kurta-with-Trousers--W-1.jpg?im=Crop,rect=(594,1268,184,144)",
+                        "boundaryBox": {
+                            "x": 55,
+                            "y": 88,
+                            "width": 17,
+                            "height": 10
+                        }
+                    }
+                ]
+            }
+        ],
+        "descriptors": [
+            {
+                "title": "description",
+                "description": "Beige yoke design Kurta with Trousers with dupattau003Cbru003Eu003Cbru003Eu003Cbu003EKurta design: u003Cu002Fbu003Eu003Culu003Eu003Cliu003EFloral yoke designu003Cu002Fliu003Eu003Cliu003EStraight shapeu003Cu002Fliu003Eu003Cliu003ERegular styleu003Cu002Fliu003Eu003Cliu003ERound neck, three-quarter regular sleevesu003Cu002Fliu003Eu003Cliu003ECalf length with straight hemu003Cu002Fliu003Eu003Cliu003ECotton blend machine weave fabricu003Cu002Fliu003Eu003Cu002Fulu003Eu003Cbru003Eu003Cbu003ETrousers design: u003Cu002Fbu003Eu003Culu003Eu003Cliu003ESolid Trousersu003Cu002Fliu003Eu003Cliu003EElasticated waistbandu003Cu002Fliu003Eu003Cliu003ESlip-on closureu003Cu002Fliu003Eu003Cu002Fulu003E"
+            },
+            {
+                "title": "size_fit_desc",
+                "description": "The model (height 5'8) is wearing a size Su003Cbru003EDimensionDupatta: Length : 2.25 M, Width : 0.95 M"
+            },
+            {
+                "title": "materials_care_desc",
+                "description": "Kurta Fabric: Cotton Blend,u003Cbru003EDry Clean Only"
+            }
+        ],
+        "flags": {
+            "isExchangeable": true,
+            "isReturnable": true,
+            "openBoxPickupEnabled": true,
+            "tryAndBuyEnabled": false,
+            "isLarge": false,
+            "isHazmat": false,
+            "isFragile": false,
+            "isJewellery": false,
+            "outOfStock": false,
+            "codEnabled": true,
+            "globalStore": false,
+            "loyaltyPointsEnabled": false,
+            "emiEnabled": false,
+            "chatEnabled": false,
+            "measurementModeEnabled": false,
+            "sampleModeEnabled": false,
+            "disableBuyButton": false,
+            "isExpirable": false
+        },
+        "earlyBirdOffer": null,
+        "serviceability": {
+            "launchDate": "",
+            "returnPeriod": 30,
+            "descriptors": [
+                "Pay on delivery might be available",
+                "Easy 30 days returns and exchanges"
+            ],
+            "procurementTimeInDays": {
+                "10896": 3,
+                "22311": 0
+            }
+        },
+        "buyButtonSellerOrder": [
+            {
+                "skuId": 57540468,
+                "sellerPartnerId": 22311
+            },
+            {
+                "skuId": 66337100,
+                "sellerPartnerId": 22311
+            },
+            {
+                "skuId": 57540456,
+                "sellerPartnerId": 22311
+            },
+            {
+                "skuId": 57540474,
+                "sellerPartnerId": 22311
+            },
+            {
+                "skuId": 57540478,
+                "sellerPartnerId": 22311
+            },
+            {
+                "skuId": 66337102,
+                "sellerPartnerId": 22311
+            },
+            {
+                "skuId": 57540462,
+                "sellerPartnerId": 22311
+            },
+            {
+                "skuId": 66337106,
+                "sellerPartnerId": 22311
+            },
+            {
+                "skuId": 57540468,
+                "sellerPartnerId": 10896
+            },
+            {
+                "skuId": 66337100,
+                "sellerPartnerId": 10896
+            },
+            {
+                "skuId": 57540456,
+                "sellerPartnerId": 10896
+            },
+            {
+                "skuId": 57540474,
+                "sellerPartnerId": 10896
+            },
+            {
+                "skuId": 57540478,
+                "sellerPartnerId": 10896
+            },
+            {
+                "skuId": 66337102,
+                "sellerPartnerId": 10896
+            },
+            {
+                "skuId": 57540462,
+                "sellerPartnerId": 10896
+            },
+            {
+                "skuId": 66337106,
+                "sellerPartnerId": 10896
+            }
+        ],
+        "sellers": [
+            {
+                "sellerPartnerId": 22311,
+                "sellerName": "GOPALA SAREES - SJIT",
+                "displayName": "GOPALA SAREES - SJIT",
+                "sellerAddress": {
+                    "address": "DESK NO. 257, PLOT. NO 128u002FP2, 3RD FLOOREPIP INDUSTRIAL AREA WHITEFIELD, SONNENAHALLI VILLAGEBengaluru , KARNATAKA - 560048",
+                    "city": "Bengaluru",
+                    "state": "KARNATAKA",
+                    "pincode": "560048",
+                    "country": "INDIA"
+                }
+            },
+            {
+                "sellerPartnerId": 10896,
+                "sellerName": "Gopala Sarees",
+                "displayName": "Gopala Sarees",
+                "sellerAddress": {
+                    "address": "Plot T01-06 ,Road 2, Laxminarayan Industrail Estate, BRC CompoundOpposite Dakeshwar mandir, Jeevan Jyothi Nagar, Udhna,Surat , Gujarat - 394210",
+                    "city": "Surat",
+                    "state": "Gujarat",
+                    "pincode": "394210",
+                    "country": "India"
+                }
+            }
+        ],
+        "sizes": [
+            {
+                "skuId": 57540456,
+                "styleId": 18652620,
+                "action": "u002Fproductu002F18652620u002Frelatedu002FS?co=1",
+                "label": "S",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Bust",
+                        "value": "34.0",
+                        "minValue": "34.0",
+                        "maxValue": "34.0",
+                        "unit": "Inches",
+                        "displayText": "34.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "46.0",
+                        "minValue": "46.0",
+                        "maxValue": "46.0",
+                        "unit": "Inches",
+                        "displayText": "46.0in"
+                    },
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Waist",
+                        "value": "30.0",
+                        "minValue": "30.0",
+                        "maxValue": "30.0",
+                        "unit": "Inches",
+                        "displayText": "30.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Inseam Length",
+                        "value": "25.0",
+                        "minValue": "25.0",
+                        "maxValue": "25.0",
+                        "unit": "Inches",
+                        "displayText": "25.0in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "S",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 22311,
+                        "availableCount": 75,
+                        "sellableInventoryCount": 75,
+                        "warehouses": [
+                            "36"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:159000146",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 0,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=22311&skuId=57540456&src=pdp"
+                    },
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 10896,
+                        "availableCount": 9148,
+                        "sellableInventoryCount": 9148,
+                        "warehouses": [
+                            "20797"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:158792339",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 3,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=10896&skuId=57540456&src=pdp"
+                    }
+                ],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            },
+            {
+                "skuId": 57540462,
+                "styleId": 18652620,
+                "action": "u002Fproductu002F18652620u002Frelatedu002FM?co=1",
+                "label": "M",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Bust",
+                        "value": "36.0",
+                        "minValue": "36.0",
+                        "maxValue": "36.0",
+                        "unit": "Inches",
+                        "displayText": "36.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "46.0",
+                        "minValue": "46.0",
+                        "maxValue": "46.0",
+                        "unit": "Inches",
+                        "displayText": "46.0in"
+                    },
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Waist",
+                        "value": "32.0",
+                        "minValue": "32.0",
+                        "maxValue": "32.0",
+                        "unit": "Inches",
+                        "displayText": "32.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Inseam Length",
+                        "value": "24.75",
+                        "minValue": "24.75",
+                        "maxValue": "24.75",
+                        "unit": "Inches",
+                        "displayText": "24.75in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "M",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 22311,
+                        "availableCount": 132,
+                        "sellableInventoryCount": 132,
+                        "warehouses": [
+                            "36"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:159000146",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 0,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=22311&skuId=57540462&src=pdp"
+                    },
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 10896,
+                        "availableCount": 8684,
+                        "sellableInventoryCount": 8684,
+                        "warehouses": [
+                            "20797"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:158792339",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 3,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=10896&skuId=57540462&src=pdp"
+                    }
+                ],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            },
+            {
+                "skuId": 57540468,
+                "styleId": 18652620,
+                "action": "u002Fproductu002F18652620u002Frelatedu002FL?co=1",
+                "label": "L",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Bust",
+                        "value": "40.0",
+                        "minValue": "40.0",
+                        "maxValue": "40.0",
+                        "unit": "Inches",
+                        "displayText": "40.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "46.0",
+                        "minValue": "46.0",
+                        "maxValue": "46.0",
+                        "unit": "Inches",
+                        "displayText": "46.0in"
+                    },
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Waist",
+                        "value": "34.0",
+                        "minValue": "34.0",
+                        "maxValue": "34.0",
+                        "unit": "Inches",
+                        "displayText": "34.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Inseam Length",
+                        "value": "24.5",
+                        "minValue": "24.5",
+                        "maxValue": "24.5",
+                        "unit": "Inches",
+                        "displayText": "24.5in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "L",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 22311,
+                        "availableCount": 88,
+                        "sellableInventoryCount": 88,
+                        "warehouses": [
+                            "36"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:159000146",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 0,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=22311&skuId=57540468&src=pdp"
+                    },
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 10896,
+                        "availableCount": 8715,
+                        "sellableInventoryCount": 8715,
+                        "warehouses": [
+                            "20797"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:158792339",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 3,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=10896&skuId=57540468&src=pdp"
+                    }
+                ],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            },
+            {
+                "skuId": 57540474,
+                "styleId": 18652620,
+                "action": "u002Fproductu002F18652620u002Frelatedu002FXL?co=1",
+                "label": "XL",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Bust",
+                        "value": "42.0",
+                        "minValue": "42.0",
+                        "maxValue": "42.0",
+                        "unit": "Inches",
+                        "displayText": "42.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "46.0",
+                        "minValue": "46.0",
+                        "maxValue": "46.0",
+                        "unit": "Inches",
+                        "displayText": "46.0in"
+                    },
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Waist",
+                        "value": "36.0",
+                        "minValue": "36.0",
+                        "maxValue": "36.0",
+                        "unit": "Inches",
+                        "displayText": "36.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Inseam Length",
+                        "value": "24.25",
+                        "minValue": "24.25",
+                        "maxValue": "24.25",
+                        "unit": "Inches",
+                        "displayText": "24.25in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "XL",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 22311,
+                        "availableCount": 26,
+                        "sellableInventoryCount": 26,
+                        "warehouses": [
+                            "36"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:159000146",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 0,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=22311&skuId=57540474&src=pdp"
+                    },
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 10896,
+                        "availableCount": 8892,
+                        "sellableInventoryCount": 8892,
+                        "warehouses": [
+                            "20797"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:158792339",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 3,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=10896&skuId=57540474&src=pdp"
+                    }
+                ],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            },
+            {
+                "skuId": 57540478,
+                "styleId": 18652620,
+                "action": "u002Fproductu002F18652620u002Frelatedu002FXXL?co=1",
+                "label": "XXL",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Bust",
+                        "value": "44.0",
+                        "minValue": "44.0",
+                        "maxValue": "44.0",
+                        "unit": "Inches",
+                        "displayText": "44.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "46.0",
+                        "minValue": "46.0",
+                        "maxValue": "46.0",
+                        "unit": "Inches",
+                        "displayText": "46.0in"
+                    },
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Waist",
+                        "value": "38.0",
+                        "minValue": "38.0",
+                        "maxValue": "38.0",
+                        "unit": "Inches",
+                        "displayText": "38.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Inseam Length",
+                        "value": "24.0",
+                        "minValue": "24.0",
+                        "maxValue": "24.0",
+                        "unit": "Inches",
+                        "displayText": "24.0in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "XXL",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 22311,
+                        "availableCount": 117,
+                        "sellableInventoryCount": 117,
+                        "warehouses": [
+                            "36"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:159000146",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 0,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=22311&skuId=57540478&src=pdp"
+                    },
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 10896,
+                        "availableCount": 9212,
+                        "sellableInventoryCount": 9212,
+                        "warehouses": [
+                            "20797"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:158792339",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 3,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=10896&skuId=57540478&src=pdp"
+                    }
+                ],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            },
+            {
+                "skuId": 66337100,
+                "styleId": 18652620,
+                "action": "u002Fproductu002F18652620u002Frelatedu002F3XL?co=1",
+                "label": "3XL",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Bust",
+                        "value": "46.0",
+                        "minValue": "46.0",
+                        "maxValue": "46.0",
+                        "unit": "Inches",
+                        "displayText": "46.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "46.0",
+                        "minValue": "46.0",
+                        "maxValue": "46.0",
+                        "unit": "Inches",
+                        "displayText": "46.0in"
+                    },
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Waist",
+                        "value": "40.0",
+                        "minValue": "40.0",
+                        "maxValue": "40.0",
+                        "unit": "Inches",
+                        "displayText": "40.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Inseam Length",
+                        "value": "23.75",
+                        "minValue": "23.75",
+                        "maxValue": "23.75",
+                        "unit": "Inches",
+                        "displayText": "23.75in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "3XL",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 22311,
+                        "availableCount": 106,
+                        "sellableInventoryCount": 106,
+                        "warehouses": [
+                            "36"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:159000146",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 0,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=22311&skuId=66337100&src=pdp"
+                    },
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 10896,
+                        "availableCount": 9527,
+                        "sellableInventoryCount": 9527,
+                        "warehouses": [
+                            "20797"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:158792339",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Block T, Laxminarayan Industrial Estate, Udhna-394210.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Block T, Laxminarayan Industrial Estate, Udhna-394210.Surat",
+                        "procurementTimeInDays": 3,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=10896&skuId=66337100&src=pdp"
+                    }
+                ],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            },
+            {
+                "skuId": 66337102,
+                "styleId": 18652620,
+                "action": "u002Fproductu002F18652620u002Frelatedu002F4XL?co=1",
+                "label": "4XL",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Bust",
+                        "value": "48.0",
+                        "minValue": "48.0",
+                        "maxValue": "48.0",
+                        "unit": "Inches",
+                        "displayText": "48.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "46.0",
+                        "minValue": "46.0",
+                        "maxValue": "46.0",
+                        "unit": "Inches",
+                        "displayText": "46.0in"
+                    },
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Waist",
+                        "value": "42.0",
+                        "minValue": "42.0",
+                        "maxValue": "42.0",
+                        "unit": "Inches",
+                        "displayText": "42.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Inseam Length",
+                        "value": "23.5",
+                        "minValue": "23.5",
+                        "maxValue": "23.5",
+                        "unit": "Inches",
+                        "displayText": "23.5in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "4XL",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 22311,
+                        "availableCount": 149,
+                        "sellableInventoryCount": 149,
+                        "warehouses": [
+                            "36"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:159000146",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 0,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=22311&skuId=66337102&src=pdp"
+                    },
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 10896,
+                        "availableCount": 9717,
+                        "sellableInventoryCount": 9717,
+                        "warehouses": [
+                            "20797"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:158792339",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Block T, Laxminarayan Industrial Estate, Udhna-394210.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Block T, Laxminarayan Industrial Estate, Udhna-394210.Surat",
+                        "procurementTimeInDays": 3,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=10896&skuId=66337102&src=pdp"
+                    }
+                ],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            },
+            {
+                "skuId": 66337106,
+                "styleId": 18652620,
+                "action": "u002Fproductu002F18652620u002Frelatedu002F5XL?co=1",
+                "label": "5XL",
+                "available": true,
+                "sizeType": null,
+                "originalStyle": true,
+                "measurements": [
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Bust",
+                        "value": "50.0",
+                        "minValue": "50.0",
+                        "maxValue": "50.0",
+                        "unit": "Inches",
+                        "displayText": "50.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Front Length",
+                        "value": "46.0",
+                        "minValue": "46.0",
+                        "maxValue": "46.0",
+                        "unit": "Inches",
+                        "displayText": "46.0in"
+                    },
+                    {
+                        "type": "Body Measurement",
+                        "name": "To Fit Waist",
+                        "value": "44.0",
+                        "minValue": "44.0",
+                        "maxValue": "44.0",
+                        "unit": "Inches",
+                        "displayText": "44.0in"
+                    },
+                    {
+                        "type": "Garment Measurement",
+                        "name": "Inseam Length",
+                        "value": "23.25",
+                        "minValue": "23.25",
+                        "maxValue": "23.25",
+                        "unit": "Inches",
+                        "displayText": "23.25in"
+                    }
+                ],
+                "allSizesList": [
+                    {
+                        "scaleCode": "myntra_size",
+                        "sizeValue": "5XL",
+                        "size": "Size",
+                        "order": 1,
+                        "prefix": ""
+                    }
+                ],
+                "sizeSellerData": [
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 22311,
+                        "availableCount": 72,
+                        "sellableInventoryCount": 72,
+                        "warehouses": [
+                            "36"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:159000146",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Laxminarayan Industrial Estate, Udhana-394201.Surat",
+                        "procurementTimeInDays": 0,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=22311&skuId=66337106&src=pdp"
+                    },
+                    {
+                        "mrp": 3699,
+                        "sellerPartnerId": 10896,
+                        "availableCount": 9729,
+                        "sellableInventoryCount": 9729,
+                        "warehouses": [
+                            "20797"
+                        ],
+                        "supplyType": "ON_HAND",
+                        "discountId": "18652620:158792339",
+                        "discountedPrice": 887,
+                        "countryOfOrigin": [
+                            "India"
+                        ],
+                        "manufacturerInfo": "Block T, Laxminarayan Industrial Estate, Udhna-394210.Surat",
+                        "importerInfo": "",
+                        "packerInfo": "Block T, Laxminarayan Industrial Estate, Udhna-394210.Surat",
+                        "procurementTimeInDays": 3,
+                        "expiryDate": "0",
+                        "frgListLink": "u002Ffree-gift-list?baseStyleId=18652620&sellerPartnerId=10896&skuId=66337106&src=pdp"
+                    }
+                ],
+                "kidsSizeMeasurements": null,
+                "mrpPerUnitData": null,
+                "netQuantity": null
+            }
+        ],
+        "discounts": [
+            {
+                "type": 1,
+                "freeItem": false,
+                "label": "(76% OFF)",
+                "discountText": "OFFER ENDS IN ",
+                "timerStart": "0",
+                "timerEnd": "1675676190",
+                "discountPercent": 76,
+                "offer": "",
+                "discountId": "18652620:158792339",
+                "heading": null,
+                "description": null,
+                "headingFrgSlab": null,
+                "descriptionFrgSlab": null,
+                "link": null,
+                "freeItemImage": null,
+                "totalFrgCount": 0,
+                "showSlabName": false,
+                "showFrgListPage": false
+            },
+            {
+                "type": 1,
+                "freeItem": false,
+                "label": "(76% OFF)",
+                "discountText": "OFFER ENDS IN ",
+                "timerStart": "0",
+                "timerEnd": "1675676190",
+                "discountPercent": 76,
+                "offer": "",
+                "discountId": "18652620:159000146",
+                "heading": null,
+                "description": null,
+                "headingFrgSlab": null,
+                "descriptionFrgSlab": null,
+                "link": null,
+                "freeItemImage": null,
+                "totalFrgCount": 0,
+                "showSlabName": false,
+                "showFrgListPage": false
+            }
+        ],
+        "offers": [],
+        "bundledSkus": null,
+        "richPdp": null,
+        "attributeTagsPriorityList": [],
+        "certificate": null,
+        "studio": {
+            "postPreviews": [
+                {
+                    "id": "80682",
+                    "type": "POST_IMAGE",
+                    "description": "Such a subtle yet gorgeous set. Perfect for a casual day at work or get together with the family. u003Clinebreaku003Eu003Cu002Flinebreaku003Eu003CHashtag id=womenfashionu003Ewomenfashionu003Cu002FHashtagu003E u003CHashtag id=womenethnicwearu003Ewomenethnicwearu003Cu002FHashtagu003E u003CHashtag id=womenindianwearu003Ewomenindianwearu003Cu002FHashtagu003E u003CHashtag id=womenkurtasetsu003Ewomenkurtasetsu003Cu002FHashtagu003E u003CHashtag id=kaliniu003Ekaliniu003Cu002FHashtagu003E",
+                    "media": {
+                        "type": "MEDIA_IMAGE",
+                        "src": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2022u002F10u002F29u002Fbd6497c8-86b9-41ef-80ca-f87a2c1e19971667036788276-Tezza_2022_10_29_135948892.jpg",
+                        "thumbnail": null,
+                        "aspectRatio": 0.75
+                    },
+                    "author": {
+                        "uidx": "945a27d4.8661.4474.b6b9.153c709f7dc7YHeUSuAjx7",
+                        "name": "Jenisha Kalita",
+                        "profileImage": {
+                            "type": "MEDIA_IMAGE",
+                            "src": "https:u002Fu002Fassets.myntassets.comu002Fassetsu002Fimagesu002F2022u002F4u002F7u002F12482af8-26a7-4c68-b0a8-cc0ac9f9a13a1649323608572-Jenisha-Kalita.png",
+                            "aspectRatio": 1
+                        },
+                        "followerCount": "12151"
+                    }
+                }
+            ]
+        },
+        "virtualTryOn": null,
+        "styleType": "P",
+        "showAsFreeGift": false,
+        "tagData": {
+            "tagGroupMapList": [
+                {
+                    "tagGroupName": "trends",
+                    "tagGroup": {
+                        "tagInfoList": []
+                    }
+                },
+                {
+                    "tagGroupName": "xcelerator",
+                    "tagGroup": {
+                        "tagInfoList": [
+                            {
+                                "tagId": "BESTSELLER",
+                                "name": "BESTSELLER",
+                                "priority": 0,
+                                "metadata": {}
+                            },
+                            {
+                                "tagId": "PICWORTHY",
+                                "name": "PIC-WORTHY",
+                                "priority": 0,
+                                "metadata": {}
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        "freeGiftInfo": null,
+        "selectedSeller": {
+            "sellerPartnerId": 22311,
+            "sellerName": "GOPALA SAREES - SJIT",
+            "discountedPrice": 887,
+            "discount": {
+                "type": 1,
+                "freeItem": false,
+                "label": "(76% OFF)",
+                "discountText": "OFFER ENDS IN ",
+                "timerStart": "0",
+                "timerEnd": "1675676190",
+                "discountPercent": 76,
+                "offer": "",
+                "discountId": "18652620:159000146",
+                "heading": null,
+                "description": null,
+                "headingFrgSlab": null,
+                "descriptionFrgSlab": null,
+                "link": null,
+                "freeItemImage": null,
+                "totalFrgCount": 0,
+                "showSlabName": false,
+                "showFrgListPage": false
+            },
+            "customSeller": false,
+            "expiryDate": "0",
+            "mrpPerUnitData": null
+        },
+        "price": {
+            "mrp": 3699,
+            "discounted": 887
+        },
+        "landingPageUrl": "18652620"
+    },
+    "pageName": "Pdp",
+    "atsa": [
+        "Sleeve Length",
+        "Top Shape",
+        "Top Type",
+        "Bottom Type",
+        "Dupatta",
+        "Top Pattern",
+        "Top Design Styling",
+        "Top Hemline",
+        "Top Length",
+        "Neck",
+        "Print or Pattern Type",
+        "Bottom Pattern",
+        "Bottom Closure",
+        "Waistband",
+        "Occasion",
+        "Ornamentation",
+        "Weave Pattern",
+        "Weave Type",
+        "Pattern Coverage",
+        "Dupatta Pattern",
+        "Dupatta Border"
+    ],
+    "dataExpired": false,
+    "directLoad": true
+}

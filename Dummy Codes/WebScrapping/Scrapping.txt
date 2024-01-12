@@ -1,0 +1,1 @@
+['//*[@id="btn-receive"]', '//*[@id="btn-cart"]', '//*[@id="btn-login"]', '//*[@id="btn-order"]']

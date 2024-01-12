@@ -1,0 +1,56 @@
+
+import xml.etree.ElementTree as ET
+import pandas as pd
+from datetime import datetime
+
+def MyXML(filePath):
+    lst_tag = []
+    lst_text = []
+    dup_lst = []
+    dup_lst_val = []
+    xl_tag = []
+    xl_val = []
+    new_tag = []
+    count = 0
+    
+    file=open(filePath,"r")
+    mytree = ET.parse(file)
+    myroot = mytree.getroot()
+    element = myroot[0]
+    ln = len(element)
+   
+    if(ln>0):
+        print('tag is there')
+        for i in range(ln):
+           # print(element[i].tag)
+           lst_tag.append(element[i].tag)
+           ln1 = len(element[i])
+           if(ln1 > 0):
+                for j in range(ln1):
+                 # print(element[i][j].tag)
+                  lst_tag.append(element[i][j].tag)
+                  ln2 = len(element[i][j])
+                  
+                  if(ln2 > 0):
+                      for k in range(ln2):
+                        #print(element[i][j][k].tag)
+                        ln3 = len(element[i][j][k])
+                        lst_tag.append(element[i][j][k].tag)
+                        
+                        if(ln3 > 0):
+                            for l in range(ln3):
+                               # print(element[i][j][k][l].tag)
+                                lst_tag.append(element[i][j][k][l].tag)
+                                ln4 = len(element[i][j][k][l])
+                                
+                                if(ln4 > 0):
+                                    for m in range(ln4):
+                                        print(element[i][j][k][l][m].tag)
+                                        lst_tag.append(element[i][j][k][l][m].tag)
+                                
+                                
+    print(len(lst_tag))
+    
+
+path = "C:/Users/User/Downloads/111060_Lammering Meppen_EDI.xml"
+MyXML(path)

@@ -1,0 +1,47 @@
+
+import pandas as pd
+import scrapy as sp
+import json
+from scrapy.crawler import CrawlerProcess
+
+
+class AmazonPlpSpider(sp.Spider):
+    # custom_settings = {
+    #     # 'DOWNLOAD_DELAY': 1,  # minimum download delay
+    #     # 'AUTOTHROTTLE_ENABLED': True,
+    # }
+    # Global Flow 
+    name = 'amazonplp'
+    allowed_domains = ['amazon.in']
+    df = pd.read_excel("AmazonPLP.xlsx")
+    main_fields = df['fields']
+    main_xpaths = df['xpaths']
+    main_url = main_xpaths[0]
+    total_page = 3
+    product_name = []
+    product_price = []
+    product_review = []
+    product_img = []
+    output_data = []
+        
+    def start_requests(self):
+        for page in range(1,self.total_page): yield sp.Request(self.main_url if page==0 else self.main_url + str(page), callback=self.parse)
+        
+    def parse(self, response):
+        pass
+        print(self.main_xpaths[1])
+        try:
+            self.product_name+=response.xpath(self.main_xpaths[1] + '/text()').getall()
+            print(self.product_name)
+        except: pass
+        
+        
+        yield self.product_name
+        
+                        
+process = CrawlerProcess(settings={'LOG_LEVEL': 'DEBUG',
+                                   'USER_AGENT': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36',
+                                   })
+process.crawl(AmazonPlpSpider)
+process.start()
+

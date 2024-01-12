@@ -1,0 +1,3187 @@
+{
+    "464918983004": {
+        "code": "464918983004",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "EYEBOGLER",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220901/ARH5/6310ee67f997dd1f8dd3e3ea/-286Wx359H-464918983-blue-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464918983_blue",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "EYEBOGLER Teal Colour-Blocked Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220901/ARH5/6310ee67f997dd1f8dd3e3fd/eyebogler_teal_colour-blocked_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Teal Colour-Blocked Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220901/ARH5/6310ee67f997dd1f8dd3e3ee/eyebogler_teal_colour-blocked_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Teal Colour-Blocked Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220901/ARH5/6310ee67f997dd1f8dd3e3ea/eyebogler_teal_colour-blocked_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "71% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 377.00",
+            "displayformattedValue": "Rs. 377",
+            "value": 377
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,299.00",
+            "displayformattedValue": "Rs. 1,299",
+            "value": 1299
+        },
+        "name": "Colour-Blocked Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "eyebogler",
+        "volumePricesFlag": false,
+        "url": "/eyebogler-colour-blocked-polo-t-shirt/p/464918983_blue",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 338,
+            "formattedValue": "Rs. 338.00",
+            "displayformattedValue": "Rs. 338",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "461340286003": {
+        "code": "461340286003",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Bullmer",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220511/irm1/627b43c6f997dd03e2a557af/-286Wx359H-461340286-multi-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "461340286_multi",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Bullmer Multicoloured Pack of 3 Graphic Print Crew-Neck T-shirts",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220511/irm1/627b43c6f997dd03e2a557c4/bullmer_multicoloured_pack_of_3_graphic_print_crew-neck_t-shirts.jpg"
+            },
+            {
+                "altText": "Bullmer Multicoloured Pack of 3 Graphic Print Crew-Neck T-shirts",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220511/irm1/627b43c6f997dd03e2a557b2/bullmer_multicoloured_pack_of_3_graphic_print_crew-neck_t-shirts.jpg"
+            },
+            {
+                "altText": "Bullmer Multicoloured Pack of 3 Graphic Print Crew-Neck T-shirts",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220511/irm1/627b43c6f997dd03e2a557af/bullmer_multicoloured_pack_of_3_graphic_print_crew-neck_t-shirts.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "80% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 597.00",
+            "displayformattedValue": "Rs. 597",
+            "value": 597
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 2,999.00",
+            "displayformattedValue": "Rs. 2,999",
+            "value": 2999
+        },
+        "name": "Pack of 3 Graphic Print Crew-Neck T-shirts",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "bullmer",
+        "volumePricesFlag": false,
+        "url": "/bullmer-pack-of-3-graphic-print-crew-neck-t-shirts/p/461340286_multi",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 596,
+            "formattedValue": "Rs. 596.00",
+            "displayformattedValue": "Rs. 596",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464531848005": {
+        "code": "464531848005",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "AUSK",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220623/g3gy/62b3819faeb26921af423d0c/-286Wx359H-464531848-navy-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464531848_navy",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "AUSK Navy Striped Crew-Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220623/g3gy/62b3819faeb26921af423d20/ausk_navy_striped_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "AUSK Navy Striped Crew-Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220623/g3gy/62b3819faeb26921af423d10/ausk_navy_striped_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "AUSK Navy Striped Crew-Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220623/g3gy/62b3819faeb26921af423d0c/ausk_navy_striped_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "59% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 410.00",
+            "displayformattedValue": "Rs. 410",
+            "value": 410
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 999.00",
+            "displayformattedValue": "Rs. 999",
+            "value": 999
+        },
+        "name": "Striped Crew-Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "ausk",
+        "volumePricesFlag": false,
+        "url": "/ausk-striped-crew-neck-t-shirt/p/464531848_navy",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 260,
+            "formattedValue": "Rs. 260.00",
+            "displayformattedValue": "Rs. 260",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "465323291003": {
+        "code": "465323291003",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Clafoutis",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20221123/Tdm8/637d44aeaeb269659ca8883a/-286Wx359H-465323291-white-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "465323291_white",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Clafoutis White Extra Slim Fit Crew-Neck T-Shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221123/Tdm8/637d44aeaeb269659ca88853/clafoutis_white_extra_slim_fit_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "Clafoutis White Extra Slim Fit Crew-Neck T-Shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221123/Tdm8/637d44aeaeb269659ca8883f/clafoutis_white_extra_slim_fit_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "Clafoutis White Extra Slim Fit Crew-Neck T-Shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221123/Tdm8/637d44aeaeb269659ca8883a/clafoutis_white_extra_slim_fit_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "56% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 440.00",
+            "displayformattedValue": "Rs. 440",
+            "value": 440
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 999.00",
+            "displayformattedValue": "Rs. 999",
+            "value": 999
+        },
+        "name": "Extra Slim Fit Crew-Neck T-Shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "clafoutis",
+        "volumePricesFlag": false,
+        "url": "/clafoutis-extra-slim-fit-crew-neck-t-shirt/p/465323291_white",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 268,
+            "formattedValue": "Rs. 268.00",
+            "displayformattedValue": "Rs. 268",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "465379412002": {
+        "code": "465379412002",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "JUMP CUTS",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20221203/pO3A/638a72ecaeb269659ccd11e0/-286Wx359H-465379412-olive-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "465379412_olive",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "JUMP CUTS Olive Typographic Print T-Shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221203/pO3A/638a72ecaeb269659ccd11f4/jump_cuts_olive_typographic_print_t-shirt.jpg"
+            },
+            {
+                "altText": "JUMP CUTS Olive Typographic Print T-Shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221203/pO3A/638a72ecaeb269659ccd11e4/jump_cuts_olive_typographic_print_t-shirt.jpg"
+            },
+            {
+                "altText": "JUMP CUTS Olive Typographic Print T-Shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221203/pO3A/638a72ecaeb269659ccd11e0/jump_cuts_olive_typographic_print_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "72% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 369.00",
+            "displayformattedValue": "Rs. 369",
+            "value": 369
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,319.00",
+            "displayformattedValue": "Rs. 1,319",
+            "value": 1319
+        },
+        "name": "Typographic Print T-Shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "jump-cuts",
+        "volumePricesFlag": false,
+        "url": "/jump-cuts-typographic-print-t-shirt/p/465379412_olive",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 369,
+            "formattedValue": "Rs. 369.00",
+            "displayformattedValue": "Rs. 369",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464455205008": {
+        "code": "464455205008",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Bullmer",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20230113/B8Gr/63c0fa88aeb269c651de00fa/-286Wx359H-464455205-peach-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464455205_peach",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Bullmer Peach Striped Henley T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230113/B8Gr/63c0fa88aeb269c651de0113/bullmer_peach_striped_henley_t-shirt.jpg"
+            },
+            {
+                "altText": "Bullmer Peach Striped Henley T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230113/B8Gr/63c0fa88aeb269c651de0104/bullmer_peach_striped_henley_t-shirt.jpg"
+            },
+            {
+                "altText": "Bullmer Peach Striped Henley T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230113/B8Gr/63c0fa88aeb269c651de00fa/bullmer_peach_striped_henley_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "50% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 499.00",
+            "displayformattedValue": "Rs. 499",
+            "value": 499
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 999.00",
+            "displayformattedValue": "Rs. 999",
+            "value": 999
+        },
+        "name": "Striped Henley T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "bullmer",
+        "volumePricesFlag": false,
+        "url": "/bullmer-striped-henley-t-shirt/p/464455205_peach",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 304,
+            "formattedValue": "Rs. 304.00",
+            "displayformattedValue": "Rs. 304",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "465546143003": {
+        "code": "465546143003",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Jack & Jones",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20230104/Hf83/63b49304aeb269659c2235e3/-286Wx359H-465546143-maroon-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "465546143_maroon",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Jack & Jones Maroon Brand Print Polo T-Shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230104/Hf83/63b49304aeb269659c2235f5/jack_%26_jones_maroon_brand_print_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Jack & Jones Maroon Brand Print Polo T-Shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230104/Hf83/63b49304aeb269659c2235e7/jack_%26_jones_maroon_brand_print_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Jack & Jones Maroon Brand Print Polo T-Shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230104/Hf83/63b49304aeb269659c2235e3/jack_%26_jones_maroon_brand_print_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "50% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 600.00",
+            "displayformattedValue": "Rs. 600",
+            "value": 600
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,199.00",
+            "displayformattedValue": "Rs. 1,199",
+            "value": 1199
+        },
+        "name": "Brand Print Polo T-Shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "jack-jones",
+        "volumePricesFlag": false,
+        "url": "/jack--jones-brand-print-polo-t-shirt/p/465546143_maroon",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 366,
+            "formattedValue": "Rs. 366.00",
+            "displayformattedValue": "Rs. 366",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        },
+        "tags": {
+            "optionCode": "465546143_maroon",
+            "categoryTags": [
+                {
+                    "category": "SELLING_POINT",
+                    "primary": {
+                        "name": "NEW",
+                        "value": "NEW"
+                    }
+                }
+            ]
+        }
+    },
+    "464899437001": {
+        "code": "464899437001",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "EYEBOGLER",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220829/JJQP/630cb305f997dd394c34184f/-286Wx359H-464899437-pink-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464899437_pink",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "EYEBOGLER Pink Striped Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220829/JJQP/630cb305f997dd394c34186b/eyebogler_pink_striped_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Pink Striped Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220829/JJQP/630cb305f997dd394c341855/eyebogler_pink_striped_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Pink Striped Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220829/JJQP/630cb305f997dd394c34184f/eyebogler_pink_striped_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "66% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 442.00",
+            "displayformattedValue": "Rs. 442",
+            "value": 442
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,299.00",
+            "displayformattedValue": "Rs. 1,299",
+            "value": 1299
+        },
+        "name": "Striped Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "eyebogler",
+        "volumePricesFlag": false,
+        "url": "/eyebogler-striped-polo-t-shirt/p/464899437_pink",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 338,
+            "formattedValue": "Rs. 338.00",
+            "displayformattedValue": "Rs. 338",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464255679005": {
+        "code": "464255679005",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Jack & Jones",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220429/mGBb/626b0182aeb26921af4a46b5/-286Wx359H-464255679-olive-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464255679_olive",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Jack & Jones Olive Slim Fit Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220429/mGBb/626b0182aeb26921af4a46c7/jack_%26_jones_olive_slim_fit_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Jack & Jones Olive Slim Fit Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220429/mGBb/626b0182aeb26921af4a46b8/jack_%26_jones_olive_slim_fit_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Jack & Jones Olive Slim Fit Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220429/mGBb/626b0182aeb26921af4a46b5/jack_%26_jones_olive_slim_fit_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "50% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 600.00",
+            "displayformattedValue": "Rs. 600",
+            "value": 600
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,199.00",
+            "displayformattedValue": "Rs. 1,199",
+            "value": 1199
+        },
+        "name": "Slim Fit Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "jack-jones",
+        "volumePricesFlag": false,
+        "url": "/jack--jones-slim-fit-polo-t-shirt/p/464255679_olive",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 366,
+            "formattedValue": "Rs. 366.00",
+            "displayformattedValue": "Rs. 366",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "462102870001": {
+        "code": "462102870001",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "DILLINGER",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220802/5ikr/62e844bff997dd03e216915c/-286Wx359H-462102870-green-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "462102870_green",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "DILLINGER Green Colourblock Crew- Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220802/5ikr/62e844bff997dd03e2169161/dillinger_green_colourblock_crew-_neck_t-shirt.jpg"
+            },
+            {
+                "altText": "DILLINGER Green Colourblock Crew- Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220802/5ikr/62e844bff997dd03e216915d/dillinger_green_colourblock_crew-_neck_t-shirt.jpg"
+            },
+            {
+                "altText": "DILLINGER Green Colourblock Crew- Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220802/5ikr/62e844bff997dd03e216915c/dillinger_green_colourblock_crew-_neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "60% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 500.00",
+            "displayformattedValue": "Rs. 500",
+            "value": 500
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,249.00",
+            "displayformattedValue": "Rs. 1,249",
+            "value": 1249
+        },
+        "name": "Colourblock Crew- Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "dillinger",
+        "volumePricesFlag": false,
+        "url": "/dillinger-colourblock-crew-neck-t-shirt/p/462102870_green",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 462,
+            "formattedValue": "Rs. 462.00",
+            "displayformattedValue": "Rs. 462",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "465546085005": {
+        "code": "465546085005",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Jack & Jones",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20230104/Rb2I/63b49122aeb269659c2210d4/-286Wx359H-465546085-white-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "465546085_white",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Jack & Jones White Brand Print Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230104/Rb2I/63b49122aeb269659c2210e8/jack_%26_jones_white_brand_print_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Jack & Jones White Brand Print Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230104/Rb2I/63b49122aeb269659c2210d7/jack_%26_jones_white_brand_print_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Jack & Jones White Brand Print Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230104/Rb2I/63b49122aeb269659c2210d4/jack_%26_jones_white_brand_print_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "50% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 600.00",
+            "displayformattedValue": "Rs. 600",
+            "value": 600
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,199.00",
+            "displayformattedValue": "Rs. 1,199",
+            "value": 1199
+        },
+        "name": "Brand Print Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "jack-jones",
+        "volumePricesFlag": false,
+        "url": "/jack--jones-brand-print-polo-t-shirt/p/465546085_white",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 366,
+            "formattedValue": "Rs. 366.00",
+            "displayformattedValue": "Rs. 366",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        },
+        "tags": {
+            "optionCode": "465546085_white",
+            "categoryTags": [
+                {
+                    "category": "SELLING_POINT",
+                    "primary": {
+                        "name": "NEW",
+                        "value": "NEW"
+                    }
+                }
+            ]
+        }
+    },
+    "464359973002": {
+        "code": "464359973002",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Jack & Jones",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220520/FyhE/62877d09f997dd03e2fb6a01/-286Wx359H-464359973-black-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464359973_black",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Jack & Jones Black Logo Round Neck T-shirt ",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220520/FyhE/62877d09f997dd03e2fb6a15/jack_%26_jones_black_logo_round_neck_t-shirt_.jpg"
+            },
+            {
+                "altText": "Jack & Jones Black Logo Round Neck T-shirt ",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220520/FyhE/62877d09f997dd03e2fb6a0a/jack_%26_jones_black_logo_round_neck_t-shirt_.jpg"
+            },
+            {
+                "altText": "Jack & Jones Black Logo Round Neck T-shirt ",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220520/FyhE/62877d09f997dd03e2fb6a01/jack_%26_jones_black_logo_round_neck_t-shirt_.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "50% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 350.00",
+            "displayformattedValue": "Rs. 350",
+            "value": 350
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 699.00",
+            "displayformattedValue": "Rs. 699",
+            "value": 699
+        },
+        "name": "Logo Round Neck T-shirt ",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "jack-jones",
+        "volumePricesFlag": false,
+        "url": "/jack--jones-logo-round-neck-t-shirt-/p/464359973_black",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 214,
+            "formattedValue": "Rs. 214.00",
+            "displayformattedValue": "Rs. 214",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464024673002": {
+        "code": "464024673002",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "The Dry State",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220317/upsH/62324f6daeb26921afdf8af2/-286Wx359H-464024673-blue-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464024673_blue",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "The Dry State Blue Solid Crew-Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220317/upsH/62324f6daeb26921afdf8b19/the_dry_state_blue_solid_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "The Dry State Blue Solid Crew-Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220317/upsH/62324f6daeb26921afdf8af7/the_dry_state_blue_solid_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "The Dry State Blue Solid Crew-Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220317/upsH/62324f6daeb26921afdf8af2/the_dry_state_blue_solid_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "60% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 520.00",
+            "displayformattedValue": "Rs. 520",
+            "value": 520
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,299.00",
+            "displayformattedValue": "Rs. 1,299",
+            "value": 1299
+        },
+        "name": "Solid Crew-Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "the-dry-state",
+        "volumePricesFlag": false,
+        "url": "/the-dry-state-solid-crew-neck-t-shirt/p/464024673_blue",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 338,
+            "formattedValue": "Rs. 338.00",
+            "displayformattedValue": "Rs. 338",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "461075969004": {
+        "code": "461075969004",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Kryptic",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20210403/l2D4/606966b0f997dd7b6470bfad/-286Wx359H-461075969-maroon-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "461075969_maroon",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Kryptic Maroon Block Print Regular Fit Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20210403/l2D4/606966b0f997dd7b6470bfc9/kryptic_maroon_block_print_regular_fit_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Kryptic Maroon Block Print Regular Fit Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20210403/l2D4/606966b0f997dd7b6470bfb2/kryptic_maroon_block_print_regular_fit_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Kryptic Maroon Block Print Regular Fit Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20210403/l2D4/606966b0f997dd7b6470bfad/kryptic_maroon_block_print_regular_fit_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL"
+        },
+        "discountPercent": "67% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 412.00",
+            "displayformattedValue": "Rs. 412",
+            "value": 412
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,249.00",
+            "displayformattedValue": "Rs. 1,249",
+            "value": 1249
+        },
+        "name": "Block Print Regular Fit Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "kryptic",
+        "volumePricesFlag": false,
+        "url": "/kryptic-block-print-regular-fit-polo-t-shirt/p/461075969_maroon",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 325,
+            "formattedValue": "Rs. 325.00",
+            "displayformattedValue": "Rs. 325",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464979926005": {
+        "code": "464979926005",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Stellers",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220913/rv14/631f9929f997dd1f8df80c9d/-286Wx359H-464979926-grey-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464979926_grey",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Stellers Grey Polo T-shirt with Brand Print",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220913/rv14/631f9929f997dd1f8df80cb0/stellers_grey_polo_t-shirt_with_brand_print.jpg"
+            },
+            {
+                "altText": "Stellers Grey Polo T-shirt with Brand Print",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220913/rv14/631f9929f997dd1f8df80ca1/stellers_grey_polo_t-shirt_with_brand_print.jpg"
+            },
+            {
+                "altText": "Stellers Grey Polo T-shirt with Brand Print",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220913/rv14/631f9929f997dd1f8df80c9d/stellers_grey_polo_t-shirt_with_brand_print.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "65% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 700.00",
+            "displayformattedValue": "Rs. 700",
+            "value": 700
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,999.00",
+            "displayformattedValue": "Rs. 1,999",
+            "value": 1999
+        },
+        "name": "Polo T-shirt with Brand Print",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "stellers",
+        "volumePricesFlag": false,
+        "url": "/stellers-polo-t-shirt-with-brand-print/p/464979926_grey",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 520,
+            "formattedValue": "Rs. 520.00",
+            "displayformattedValue": "Rs. 520",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464957923003": {
+        "code": "464957923003",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "AUSK",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220908/XRfc/631910bbf997dd1f8dec9a3f/-286Wx359H-464957923-white-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464957923_white",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "AUSK White Striped Crew-Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220908/XRfc/631910bbf997dd1f8dec9a54/ausk_white_striped_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "AUSK White Striped Crew-Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220908/XRfc/631910bbf997dd1f8dec9a43/ausk_white_striped_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "AUSK White Striped Crew-Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220908/XRfc/631910bbf997dd1f8dec9a3f/ausk_white_striped_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "60% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 400.00",
+            "displayformattedValue": "Rs. 400",
+            "value": 400
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 999.00",
+            "displayformattedValue": "Rs. 999",
+            "value": 999
+        },
+        "name": "Striped Crew-Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "ausk",
+        "volumePricesFlag": false,
+        "url": "/ausk-striped-crew-neck-t-shirt/p/464957923_white",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 260,
+            "formattedValue": "Rs. 260.00",
+            "displayformattedValue": "Rs. 260",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "465194215001": {
+        "code": "465194215001",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "JUMP CUTS",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20230126/J0Py/63d21b80aeb269c651fb84ca/-286Wx359H-465194215-white-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "465194215_white",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "JUMP CUTS White Typographic Print Crew-Neck T-Shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230126/J0Py/63d21b80aeb269c651fb84e4/jump_cuts_white_typographic_print_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "JUMP CUTS White Typographic Print Crew-Neck T-Shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230126/J0Py/63d21b80aeb269c651fb84cf/jump_cuts_white_typographic_print_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "JUMP CUTS White Typographic Print Crew-Neck T-Shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230126/J0Py/63d21b80aeb269c651fb84ca/jump_cuts_white_typographic_print_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "75% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 400.00",
+            "displayformattedValue": "Rs. 400",
+            "value": 400
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,599.00",
+            "displayformattedValue": "Rs. 1,599",
+            "value": 1599
+        },
+        "name": "Typographic Print Crew-Neck T-Shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "jump-cuts",
+        "volumePricesFlag": false,
+        "url": "/jump-cuts-typographic-print-crew-neck-t-shirt/p/465194215_white",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 400,
+            "formattedValue": "Rs. 400.00",
+            "displayformattedValue": "Rs. 400",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "441137937003": {
+        "code": "441137937003",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "UMBRO",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220531/ZCu5/62959539aeb26921affaf535/-286Wx359H-441137937-tomatored-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "441137937_tomatored",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "UMBRO Red Logo Print Crew-Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220531/ZCu5/62959539aeb26921affaf53f/umbro_red_logo_print_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "UMBRO Red Logo Print Crew-Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220531/ZCu5/62959539aeb26921affaf537/umbro_red_logo_print_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "UMBRO Red Logo Print Crew-Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220531/ZCu5/62959539aeb26921affaf535/umbro_red_logo_print_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "60% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 200.00",
+            "displayformattedValue": "Rs. 200",
+            "value": 200
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 499.00",
+            "displayformattedValue": "Rs. 499",
+            "value": 499
+        },
+        "name": "Logo Print Crew-Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "trendsProductCatalog",
+        "brandTypeName": "umbro",
+        "volumePricesFlag": false,
+        "url": "/umbro-logo-print-crew-neck-t-shirt/p/441137937_tomatored",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 150,
+            "formattedValue": "Rs. 150.00",
+            "displayformattedValue": "Rs. 150",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464899437006": {
+        "code": "464899437006",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "EYEBOGLER",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220831/nKs2/630e759faeb269dbb357ddf6/-286Wx359H-464899437-blue-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464899437_blue",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "EYEBOGLER Blue Striped Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220831/nKs2/630e759faeb269dbb357de13/eyebogler_blue_striped_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Blue Striped Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220831/nKs2/630e759faeb269dbb357ddfe/eyebogler_blue_striped_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Blue Striped Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220831/nKs2/630e759faeb269dbb357ddf6/eyebogler_blue_striped_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "66% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 442.00",
+            "displayformattedValue": "Rs. 442",
+            "value": 442
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,299.00",
+            "displayformattedValue": "Rs. 1,299",
+            "value": 1299
+        },
+        "name": "Striped Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "eyebogler",
+        "volumePricesFlag": false,
+        "url": "/eyebogler-striped-polo-t-shirt/p/464899437_blue",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 338,
+            "formattedValue": "Rs. 338.00",
+            "displayformattedValue": "Rs. 338",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "441146757006": {
+        "code": "441146757006",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "PERFORMAX",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20221001/iVxO/63373a49aeb269659c1d4d79/-286Wx359H-441146757-jetblack-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "441146757_jetblack",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "PERFORMAX Jet Black Fast Dry High-Neck T-Shirt with Raglan Sleeves",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221001/iVxO/63373a49aeb269659c1d4d92/performax_jet_black_fast_dry_high-neck_t-shirt_with_raglan_sleeves.jpg"
+            },
+            {
+                "altText": "PERFORMAX Jet Black Fast Dry High-Neck T-Shirt with Raglan Sleeves",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221001/iVxO/63373a49aeb269659c1d4d7e/performax_jet_black_fast_dry_high-neck_t-shirt_with_raglan_sleeves.jpg"
+            },
+            {
+                "altText": "PERFORMAX Jet Black Fast Dry High-Neck T-Shirt with Raglan Sleeves",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221001/iVxO/63373a49aeb269659c1d4d79/performax_jet_black_fast_dry_high-neck_t-shirt_with_raglan_sleeves.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "49% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 407.00",
+            "displayformattedValue": "Rs. 407",
+            "value": 407
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 799.00",
+            "displayformattedValue": "Rs. 799",
+            "value": 799
+        },
+        "name": "Fast Dry High-Neck T-Shirt with Raglan Sleeves",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "trendsProductCatalog",
+        "brandTypeName": "performax",
+        "volumePricesFlag": false,
+        "url": "/performax-fast-dry-high-neck-t-shirt-with-raglan-sleeves/p/441146757_jetblack",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 400,
+            "formattedValue": "Rs. 400.00",
+            "displayformattedValue": "Rs. 400",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464919054001": {
+        "code": "464919054001",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "EYEBOGLER",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220901/HOL6/6310ee7aaeb269dbb361c4cd/-286Wx359H-464919054-green-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464919054_green",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "EYEBOGLER Green Striped Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220901/HOL6/6310ee7aaeb269dbb361c4e1/eyebogler_green_striped_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Green Striped Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220901/HOL6/6310ee7aaeb269dbb361c4d1/eyebogler_green_striped_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Green Striped Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220901/HOL6/6310ee7aaeb269dbb361c4cd/eyebogler_green_striped_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "66% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 442.00",
+            "displayformattedValue": "Rs. 442",
+            "value": 442
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,299.00",
+            "displayformattedValue": "Rs. 1,299",
+            "value": 1299
+        },
+        "name": "Striped Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "eyebogler",
+        "volumePricesFlag": false,
+        "url": "/eyebogler-striped-polo-t-shirt/p/464919054_green",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 338,
+            "formattedValue": "Rs. 338.00",
+            "displayformattedValue": "Rs. 338",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "441146987036": {
+        "code": "441146987036",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Teamspirit",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220920/8H9B/6328c6a9f997dd1f8d08d187/-286Wx359H-441146987-green-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "441146987_green",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Teamspirit Green Popcorn Crew-Neck T-Shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220920/8H9B/6328c6a9f997dd1f8d08d18c/teamspirit_green_popcorn_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "Teamspirit Green Popcorn Crew-Neck T-Shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220920/8H9B/6328c6a9f997dd1f8d08d188/teamspirit_green_popcorn_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "Teamspirit Green Popcorn Crew-Neck T-Shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220920/8H9B/6328c6a9f997dd1f8d08d187/teamspirit_green_popcorn_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "15% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 382.00",
+            "displayformattedValue": "Rs. 382",
+            "value": 382
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 449.00",
+            "displayformattedValue": "Rs. 449",
+            "value": 449
+        },
+        "name": "Popcorn Crew-Neck T-Shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "trendsProductCatalog",
+        "brandTypeName": "teamspirit",
+        "volumePricesFlag": false,
+        "url": "/teamspirit-popcorn-crew-neck-t-shirt/p/441146987_green",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 359,
+            "formattedValue": "Rs. 359.00",
+            "displayformattedValue": "Rs. 359",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "441137919008": {
+        "code": "441137919008",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "UMBRO",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220309/G0Cd/6227b6f9aeb26921afcde1c6/-286Wx359H-441137919-darkblue-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "441137919_darkblue",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "UMBRO Blue Colourblock Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220309/G0Cd/6227b6f9aeb26921afcde1da/umbro_blue_colourblock_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "UMBRO Blue Colourblock Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220309/G0Cd/6227b6f9aeb26921afcde1ca/umbro_blue_colourblock_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "UMBRO Blue Colourblock Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220309/G0Cd/6227b6f9aeb26921afcde1c6/umbro_blue_colourblock_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "60% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 360.00",
+            "displayformattedValue": "Rs. 360",
+            "value": 360
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 899.00",
+            "displayformattedValue": "Rs. 899",
+            "value": 899
+        },
+        "name": "Colourblock Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "trendsProductCatalog",
+        "brandTypeName": "umbro",
+        "volumePricesFlag": false,
+        "url": "/umbro-colourblock-polo-t-shirt/p/441137919_darkblue",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 270,
+            "formattedValue": "Rs. 270.00",
+            "displayformattedValue": "Rs. 270",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "441243586011": {
+        "code": "441243586011",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Lee Cooper",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20211230/SQWu/61ccaf15f997ddf8f1686669/-286Wx359H-441243586-greymelange-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "441243586_greymelange",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Lee Cooper Grey Brand Print V-neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20211230/SQWu/61ccaf15f997ddf8f1686681/lee_cooper_grey_brand_print_v-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "Lee Cooper Grey Brand Print V-neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20211230/SQWu/61ccaf15f997ddf8f1686671/lee_cooper_grey_brand_print_v-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "Lee Cooper Grey Brand Print V-neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20211230/SQWu/61ccaf15f997ddf8f1686669/lee_cooper_grey_brand_print_v-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "30% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 419.00",
+            "displayformattedValue": "Rs. 419",
+            "value": 419
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 599.00",
+            "displayformattedValue": "Rs. 599",
+            "value": 599
+        },
+        "name": "Brand Print V-neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "trendsProductCatalog",
+        "brandTypeName": "lee-cooper",
+        "volumePricesFlag": false,
+        "url": "/lee-cooper-brand-print-v-neck-t-shirt/p/441243586_greymelange",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 300,
+            "formattedValue": "Rs. 300.00",
+            "displayformattedValue": "Rs. 300",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "465584626002": {
+        "code": "465584626002",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Jack & Jones",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20230110/ga50/63bd294eaeb269c651d30bc4/-286Wx359H-465584626-olive-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "465584626_olive",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Jack & Jones Olive Green Brand Print Polo T-Shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230110/ga50/63bd294eaeb269c651d30bd8/jack_%26_jones_olive_green_brand_print_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Jack & Jones Olive Green Brand Print Polo T-Shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230110/ga50/63bd294eaeb269c651d30bc8/jack_%26_jones_olive_green_brand_print_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Jack & Jones Olive Green Brand Print Polo T-Shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230110/ga50/63bd294eaeb269c651d30bc4/jack_%26_jones_olive_green_brand_print_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "50% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 600.00",
+            "displayformattedValue": "Rs. 600",
+            "value": 600
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,199.00",
+            "displayformattedValue": "Rs. 1,199",
+            "value": 1199
+        },
+        "name": "Brand Print Polo T-Shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "jack-jones",
+        "volumePricesFlag": false,
+        "url": "/jack--jones-brand-print-polo-t-shirt/p/465584626_olive",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 366,
+            "formattedValue": "Rs. 366.00",
+            "displayformattedValue": "Rs. 366",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464957851002": {
+        "code": "464957851002",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "AUSK",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220908/LsyM/63191649aeb269dbb379c769/-286Wx359H-464957851-olive-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464957851_olive",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "AUSK Olive Striped Crew-Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220908/LsyM/63191649aeb269dbb379c77e/ausk_olive_striped_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "AUSK Olive Striped Crew-Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220908/LsyM/63191649aeb269dbb379c76d/ausk_olive_striped_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "AUSK Olive Striped Crew-Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220908/LsyM/63191649aeb269dbb379c769/ausk_olive_striped_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "60% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 400.00",
+            "displayformattedValue": "Rs. 400",
+            "value": 400
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 999.00",
+            "displayformattedValue": "Rs. 999",
+            "value": 999
+        },
+        "name": "Striped Crew-Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "ausk",
+        "volumePricesFlag": false,
+        "url": "/ausk-striped-crew-neck-t-shirt/p/464957851_olive",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 260,
+            "formattedValue": "Rs. 260.00",
+            "displayformattedValue": "Rs. 260",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "441117206004": {
+        "code": "441117206004",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "DISNEY",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20210720/g3XB/60f6f0bbaeb269a9e34a8443/-286Wx359H-441117206-skyblue-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "441117206_skyblue",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "DISNEY Sky Blue Captain America Print Crew-Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20210720/g3XB/60f6f0bbaeb269a9e34a844d/disney_sky_blue_captain_america_print_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "DISNEY Sky Blue Captain America Print Crew-Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20210720/g3XB/60f6f0bbaeb269a9e34a8444/disney_sky_blue_captain_america_print_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "DISNEY Sky Blue Captain America Print Crew-Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20210720/g3XB/60f6f0bbaeb269a9e34a8443/disney_sky_blue_captain_america_print_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "70% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 135.00",
+            "displayformattedValue": "Rs. 135",
+            "value": 135
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 449.00",
+            "displayformattedValue": "Rs. 449",
+            "value": 449
+        },
+        "name": "Captain America Print Crew-Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "trendsProductCatalog",
+        "brandTypeName": "disney",
+        "volumePricesFlag": false,
+        "url": "/disney-captain-america-print-crew-neck-t-shirt/p/441117206_skyblue",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 135,
+            "formattedValue": "Rs. 135.00",
+            "displayformattedValue": "Rs. 135",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "441146757009": {
+        "code": "441146757009",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "PERFORMAX",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20221001/91TX/63375075f997ddfdbd0041f9/-286Wx359H-441146757-teal-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "441146757_teal",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "PERFORMAX Teal Green Fast Dry High-Neck T-Shirt with Raglan Sleeves",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221001/91TX/63375075f997ddfdbd004203/performax_teal_green_fast_dry_high-neck_t-shirt_with_raglan_sleeves.jpg"
+            },
+            {
+                "altText": "PERFORMAX Teal Green Fast Dry High-Neck T-Shirt with Raglan Sleeves",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221001/91TX/63375075f997ddfdbd0041fb/performax_teal_green_fast_dry_high-neck_t-shirt_with_raglan_sleeves.jpg"
+            },
+            {
+                "altText": "PERFORMAX Teal Green Fast Dry High-Neck T-Shirt with Raglan Sleeves",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221001/91TX/63375075f997ddfdbd0041f9/performax_teal_green_fast_dry_high-neck_t-shirt_with_raglan_sleeves.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "49% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 407.00",
+            "displayformattedValue": "Rs. 407",
+            "value": 407
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 799.00",
+            "displayformattedValue": "Rs. 799",
+            "value": 799
+        },
+        "name": "Fast Dry High-Neck T-Shirt with Raglan Sleeves",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "trendsProductCatalog",
+        "brandTypeName": "performax",
+        "volumePricesFlag": false,
+        "url": "/performax-fast-dry-high-neck-t-shirt-with-raglan-sleeves/p/441146757_teal",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 400,
+            "formattedValue": "Rs. 400.00",
+            "displayformattedValue": "Rs. 400",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "463770930006": {
+        "code": "463770930006",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Bullmer",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220511/H3sZ/627b480caeb26921af64d4bd/-286Wx359H-463770930-black-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "463770930_black",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Bullmer Black Stripes Regular-fit Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220511/H3sZ/627b480caeb26921af64d4d4/bullmer_black_stripes_regular-fit_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Bullmer Black Stripes Regular-fit Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220511/H3sZ/627b480caeb26921af64d4c4/bullmer_black_stripes_regular-fit_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Bullmer Black Stripes Regular-fit Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220511/H3sZ/627b480caeb26921af64d4bd/bullmer_black_stripes_regular-fit_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "50% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 499.00",
+            "displayformattedValue": "Rs. 499",
+            "value": 499
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 999.00",
+            "displayformattedValue": "Rs. 999",
+            "value": 999
+        },
+        "name": "Stripes Regular-fit Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "bullmer",
+        "volumePricesFlag": false,
+        "url": "/bullmer-stripes-regular-fit-polo-t-shirt/p/463770930_black",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 304,
+            "formattedValue": "Rs. 304.00",
+            "displayformattedValue": "Rs. 304",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "463484633018": {
+        "code": "463484633018",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "PAUL STREET",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20211213/sNal/61b7893df997ddf8f14dcec5/-286Wx359H-463484633-white-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "463484633_white",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "PAUL STREET White Cotton Crew-Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20211213/sNal/61b7893df997ddf8f14dcef5/paul_street_white_cotton_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "PAUL STREET White Cotton Crew-Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20211213/sNal/61b7893df997ddf8f14dcecb/paul_street_white_cotton_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "PAUL STREET White Cotton Crew-Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20211213/sNal/61b7893df997ddf8f14dcec5/paul_street_white_cotton_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "47% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 474.00",
+            "displayformattedValue": "Rs. 474",
+            "value": 474
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 895.00",
+            "displayformattedValue": "Rs. 895",
+            "value": 895
+        },
+        "name": "Cotton Crew-Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "paul-street",
+        "volumePricesFlag": false,
+        "url": "/paul-street-cotton-crew-neck-t-shirt/p/463484633_white",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 289,
+            "formattedValue": "Rs. 289.00",
+            "displayformattedValue": "Rs. 289",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "465232757001": {
+        "code": "465232757001",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "JUMP CUTS",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20221104/2xkY/63642d35aeb269659c7138ba/-286Wx359H-465232757-black-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "465232757_black",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "JUMP CUTS Black Colourblock Extra Slim Fit T-Shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221104/2xkY/63642d36aeb269659c7138dd/jump_cuts_black_colourblock_extra_slim_fit_t-shirt.jpg"
+            },
+            {
+                "altText": "JUMP CUTS Black Colourblock Extra Slim Fit T-Shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221104/2xkY/63642d35aeb269659c7138bf/jump_cuts_black_colourblock_extra_slim_fit_t-shirt.jpg"
+            },
+            {
+                "altText": "JUMP CUTS Black Colourblock Extra Slim Fit T-Shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221104/2xkY/63642d35aeb269659c7138ba/jump_cuts_black_colourblock_extra_slim_fit_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "70% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 480.00",
+            "displayformattedValue": "Rs. 480",
+            "value": 480
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,599.00",
+            "displayformattedValue": "Rs. 1,599",
+            "value": 1599
+        },
+        "name": "Colourblock Extra Slim Fit T-Shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "jump-cuts",
+        "volumePricesFlag": false,
+        "url": "/jump-cuts-colourblock-extra-slim-fit-t-shirt/p/465232757_black",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 448,
+            "formattedValue": "Rs. 448.00",
+            "displayformattedValue": "Rs. 448",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464919054006": {
+        "code": "464919054006",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "EYEBOGLER",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220903/KrmS/631291ffaeb269dbb369a809/-286Wx359H-464919054-multi-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464919054_multi",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "EYEBOGLER Multicoloured Striped Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220903/KrmS/631291ffaeb269dbb369a822/eyebogler_multicoloured_striped_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Multicoloured Striped Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220903/KrmS/631291ffaeb269dbb369a80e/eyebogler_multicoloured_striped_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Multicoloured Striped Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220903/KrmS/631291ffaeb269dbb369a809/eyebogler_multicoloured_striped_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "66% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 442.00",
+            "displayformattedValue": "Rs. 442",
+            "value": 442
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,299.00",
+            "displayformattedValue": "Rs. 1,299",
+            "value": 1299
+        },
+        "name": "Striped Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "eyebogler",
+        "volumePricesFlag": false,
+        "url": "/eyebogler-striped-polo-t-shirt/p/464919054_multi",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 338,
+            "formattedValue": "Rs. 338.00",
+            "displayformattedValue": "Rs. 338",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "465353092003": {
+        "code": "465353092003",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Jack & Jones",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20221129/3qZd/63861ee1f997ddfdbda5e396/-286Wx359H-465353092-blue-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "465353092_blue",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Jack & Jones Blue Brand Print Crew-Neck T-Shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221129/3qZd/63861ee1f997ddfdbda5e3a2/jack_%26_jones_blue_brand_print_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "Jack & Jones Blue Brand Print Crew-Neck T-Shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221129/3qZd/63861ee1f997ddfdbda5e399/jack_%26_jones_blue_brand_print_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "Jack & Jones Blue Brand Print Crew-Neck T-Shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221129/3qZd/63861ee1f997ddfdbda5e396/jack_%26_jones_blue_brand_print_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "50% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 550.00",
+            "displayformattedValue": "Rs. 550",
+            "value": 550
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,099.00",
+            "displayformattedValue": "Rs. 1,099",
+            "value": 1099
+        },
+        "name": "Brand Print Crew-Neck T-Shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "jack-jones",
+        "volumePricesFlag": false,
+        "url": "/jack--jones-brand-print-crew-neck-t-shirt/p/465353092_blue",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 336,
+            "formattedValue": "Rs. 336.00",
+            "displayformattedValue": "Rs. 336",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "465546089001": {
+        "code": "465546089001",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Jack & Jones",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20230104/Dce2/63b491c5aeb269659c221ceb/-286Wx359H-465546089-black-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "465546089_black",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Jack & Jones Black Brand Print Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230104/Dce2/63b491c5aeb269659c221cff/jack_%26_jones_black_brand_print_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Jack & Jones Black Brand Print Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230104/Dce2/63b491c5aeb269659c221cef/jack_%26_jones_black_brand_print_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Jack & Jones Black Brand Print Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230104/Dce2/63b491c5aeb269659c221ceb/jack_%26_jones_black_brand_print_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "50% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 600.00",
+            "displayformattedValue": "Rs. 600",
+            "value": 600
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,199.00",
+            "displayformattedValue": "Rs. 1,199",
+            "value": 1199
+        },
+        "name": "Brand Print Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "jack-jones",
+        "volumePricesFlag": false,
+        "url": "/jack--jones-brand-print-polo-t-shirt/p/465546089_black",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 366,
+            "formattedValue": "Rs. 366.00",
+            "displayformattedValue": "Rs. 366",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        },
+        "tags": {
+            "optionCode": "465546089_black",
+            "categoryTags": [
+                {
+                    "category": "SELLING_POINT",
+                    "primary": {
+                        "name": "NEW",
+                        "value": "NEW"
+                    }
+                }
+            ]
+        }
+    },
+    "441137929008": {
+        "code": "441137929008",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "UMBRO",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220309/qHic/6227a0b5f997dd03e2079f95/-286Wx359H-441137929-jetblack-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "441137929_jetblack",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "UMBRO Jet Black Typographic Print Crew-Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220309/qHic/6227a0b5f997dd03e2079fb5/umbro_jet_black_typographic_print_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "UMBRO Jet Black Typographic Print Crew-Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220309/qHic/6227a0b5f997dd03e2079f9f/umbro_jet_black_typographic_print_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "UMBRO Jet Black Typographic Print Crew-Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220309/qHic/6227a0b5f997dd03e2079f95/umbro_jet_black_typographic_print_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "60% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 200.00",
+            "displayformattedValue": "Rs. 200",
+            "value": 200
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 499.00",
+            "displayformattedValue": "Rs. 499",
+            "value": 499
+        },
+        "name": "Typographic Print Crew-Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "trendsProductCatalog",
+        "brandTypeName": "umbro",
+        "volumePricesFlag": false,
+        "url": "/umbro-typographic-print-crew-neck-t-shirt/p/441137929_jetblack",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 150,
+            "formattedValue": "Rs. 150.00",
+            "displayformattedValue": "Rs. 150",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464919127014": {
+        "code": "464919127014",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "EYEBOGLER",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220902/Xos5/63119582aeb269dbb3649d17/-286Wx359H-464919127-blue-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464919127_blue",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "EYEBOGLER Midnight Blue Geometric Print Hooded T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220902/Xos5/63119582aeb269dbb3649d1c/eyebogler_midnight_blue_geometric_print_hooded_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Midnight Blue Geometric Print Hooded T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220902/Xos5/63119582aeb269dbb3649d18/eyebogler_midnight_blue_geometric_print_hooded_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Midnight Blue Geometric Print Hooded T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220902/Xos5/63119582aeb269dbb3649d17/eyebogler_midnight_blue_geometric_print_hooded_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "67% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 429.00",
+            "displayformattedValue": "Rs. 429",
+            "value": 429
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,299.00",
+            "displayformattedValue": "Rs. 1,299",
+            "value": 1299
+        },
+        "name": "Geometric Print Hooded T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "eyebogler",
+        "volumePricesFlag": false,
+        "url": "/eyebogler-geometric-print-hooded-t-shirt/p/464919127_blue",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 338,
+            "formattedValue": "Rs. 338.00",
+            "displayformattedValue": "Rs. 338",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "465455997002": {
+        "code": "465455997002",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "FIDATO",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20221219/MsqJ/63a0a800aeb269659cf43de1/-286Wx359H-465455997-beige-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "465455997_beige",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "FIDATO Beige Crew-Neck T-Shirt with Short Sleeves",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221219/MsqJ/63a0a800aeb269659cf43df9/fidato_beige_crew-neck_t-shirt_with_short_sleeves.jpg"
+            },
+            {
+                "altText": "FIDATO Beige Crew-Neck T-Shirt with Short Sleeves",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221219/MsqJ/63a0a800aeb269659cf43de6/fidato_beige_crew-neck_t-shirt_with_short_sleeves.jpg"
+            },
+            {
+                "altText": "FIDATO Beige Crew-Neck T-Shirt with Short Sleeves",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221219/MsqJ/63a0a800aeb269659cf43de1/fidato_beige_crew-neck_t-shirt_with_short_sleeves.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "68% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 160.00",
+            "displayformattedValue": "Rs. 160",
+            "value": 160
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 499.00",
+            "displayformattedValue": "Rs. 499",
+            "value": 499
+        },
+        "name": "Crew-Neck T-Shirt with Short Sleeves",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "fidato",
+        "volumePricesFlag": false,
+        "url": "/fidato-crew-neck-t-shirt-with-short-sleeves/p/465455997_beige",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 160,
+            "formattedValue": "Rs. 160.00",
+            "displayformattedValue": "Rs. 160",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "463872825002": {
+        "code": "463872825002",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "AUSK",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220325/pNo5/623d553df997dd03e230fec2/-286Wx359H-463872825-blue-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "463872825_blue",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "AUSK Blue Cotton Crew-Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220325/pNo5/623d553df997dd03e230fedc/ausk_blue_cotton_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "AUSK Blue Cotton Crew-Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220325/pNo5/623d553df997dd03e230fec6/ausk_blue_cotton_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "AUSK Blue Cotton Crew-Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220325/pNo5/623d553df997dd03e230fec2/ausk_blue_cotton_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "72% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 420.00",
+            "displayformattedValue": "Rs. 420",
+            "value": 420
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,499.00",
+            "displayformattedValue": "Rs. 1,499",
+            "value": 1499
+        },
+        "name": "Cotton Crew-Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "ausk",
+        "volumePricesFlag": false,
+        "url": "/ausk-cotton-crew-neck-t-shirt/p/463872825_blue",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 390,
+            "formattedValue": "Rs. 390.00",
+            "displayformattedValue": "Rs. 390",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "465247025002": {
+        "code": "465247025002",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "JUMP CUTS",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20221107/nY1t/63692a61f997ddfdbd5de701/-286Wx359H-465247025-black-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "465247025_black",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "JUMP CUTS Black Graphic Print Slim Fit Crew-Neck T-Shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221107/nY1t/63692a61f997ddfdbd5de71e/jump_cuts_black_graphic_print_slim_fit_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "JUMP CUTS Black Graphic Print Slim Fit Crew-Neck T-Shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221107/nY1t/63692a61f997ddfdbd5de708/jump_cuts_black_graphic_print_slim_fit_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "JUMP CUTS Black Graphic Print Slim Fit Crew-Neck T-Shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20221107/nY1t/63692a61f997ddfdbd5de701/jump_cuts_black_graphic_print_slim_fit_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "73% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 432.00",
+            "displayformattedValue": "Rs. 432",
+            "value": 432
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,599.00",
+            "displayformattedValue": "Rs. 1,599",
+            "value": 1599
+        },
+        "name": "Graphic Print Slim Fit Crew-Neck T-Shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "jump-cuts",
+        "volumePricesFlag": false,
+        "url": "/jump-cuts-graphic-print-slim-fit-crew-neck-t-shirt/p/465247025_black",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 431,
+            "formattedValue": "Rs. 431.00",
+            "displayformattedValue": "Rs. 431",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "469019050004": {
+        "code": "469019050004",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "LOUIS PHILIPPE",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20211006/ZNcU/615d4e26aeb2692b85b0cede/-286Wx359H-469019050-black-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "469019050_black",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "LOUIS PHILIPPE Black Slim Fit Cotton Crew-Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20211006/ZNcU/615d4e26aeb2692b85b0cef6/louis_philippe_black_slim_fit_cotton_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "LOUIS PHILIPPE Black Slim Fit Cotton Crew-Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20211006/ZNcU/615d4e26aeb2692b85b0cee9/louis_philippe_black_slim_fit_cotton_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "LOUIS PHILIPPE Black Slim Fit Cotton Crew-Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20211006/ZNcU/615d4e26aeb2692b85b0cede/louis_philippe_black_slim_fit_cotton_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "50% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 650.00",
+            "displayformattedValue": "Rs. 650",
+            "value": 650
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,299.00",
+            "displayformattedValue": "Rs. 1,299",
+            "value": 1299
+        },
+        "name": "Slim Fit Cotton Crew-Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "louis-philippe",
+        "volumePricesFlag": false,
+        "url": "/louis-philippe-slim-fit-cotton-crew-neck-t-shirt/p/469019050_black",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 475,
+            "formattedValue": "Rs. 475.00",
+            "displayformattedValue": "Rs. 475",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "462076921002": {
+        "code": "462076921002",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Bullmer",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220511/MU3P/627b4a8aaeb26921af650af5/-286Wx359H-462076921-maroon-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "462076921_maroon",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Bullmer Maroon Striped Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220511/MU3P/627b4a8aaeb26921af650b1d/bullmer_maroon_striped_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Bullmer Maroon Striped Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220511/MU3P/627b4a8aaeb26921af650b06/bullmer_maroon_striped_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "Bullmer Maroon Striped Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220511/MU3P/627b4a8aaeb26921af650af5/bullmer_maroon_striped_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "60% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 399.00",
+            "displayformattedValue": "Rs. 399",
+            "value": 399
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 999.00",
+            "displayformattedValue": "Rs. 999",
+            "value": 999
+        },
+        "name": "Striped Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "bullmer",
+        "volumePricesFlag": false,
+        "url": "/bullmer-striped-polo-t-shirt/p/462076921_maroon",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 260,
+            "formattedValue": "Rs. 260.00",
+            "displayformattedValue": "Rs. 260",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "441169958101": {
+        "code": "441169958101",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Spunk",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220905/awCW/63161256aeb269dbb36c435d/-286Wx359H-441169958-teal-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "441169958_teal",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Spunk Teal Colourblock Crew-Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220905/awCW/63161256aeb269dbb36c4362/spunk_teal_colourblock_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "Spunk Teal Colourblock Crew-Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220905/awCW/63161256aeb269dbb36c435e/spunk_teal_colourblock_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "Spunk Teal Colourblock Crew-Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220905/awCW/63161256aeb269dbb36c435d/spunk_teal_colourblock_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "70% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 150.00",
+            "displayformattedValue": "Rs. 150",
+            "value": 150
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 499.00",
+            "displayformattedValue": "Rs. 499",
+            "value": 499
+        },
+        "name": "Colourblock Crew-Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "trendsProductCatalog",
+        "brandTypeName": "spunk",
+        "volumePricesFlag": false,
+        "url": "/spunk-colourblock-crew-neck-t-shirt/p/441169958_teal",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 150,
+            "formattedValue": "Rs. 150.00",
+            "displayformattedValue": "Rs. 150",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464898113002": {
+        "code": "464898113002",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "Bullmer",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20230112/oCXy/63c024b3f997dd708e02d1fd/-286Wx359H-464898113-navy-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464898113_navy",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "Bullmer Navy Full-Length Sleeve T-shirt with Hood",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230112/oCXy/63c024b3f997dd708e02d220/bullmer_navy_full-length_sleeve_t-shirt_with_hood.jpg"
+            },
+            {
+                "altText": "Bullmer Navy Full-Length Sleeve T-shirt with Hood",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230112/oCXy/63c024b3f997dd708e02d204/bullmer_navy_full-length_sleeve_t-shirt_with_hood.jpg"
+            },
+            {
+                "altText": "Bullmer Navy Full-Length Sleeve T-shirt with Hood",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20230112/oCXy/63c024b3f997dd708e02d1fd/bullmer_navy_full-length_sleeve_t-shirt_with_hood.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "80% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 398.00",
+            "displayformattedValue": "Rs. 398",
+            "value": 398
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,999.00",
+            "displayformattedValue": "Rs. 1,999",
+            "value": 1999
+        },
+        "name": "Full-Length Sleeve T-shirt with Hood",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "bullmer",
+        "volumePricesFlag": false,
+        "url": "/bullmer-full-length-sleeve-t-shirt-with-hood/p/464898113_navy",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 398,
+            "formattedValue": "Rs. 398.00",
+            "displayformattedValue": "Rs. 398",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "462222341016": {
+        "code": "462222341016",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "EYEBOGLER",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220411/NynP/6253e84df997dd03e2547a8d/-286Wx359H-462222341-blue-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "462222341_blue",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "EYEBOGLER Blue Checked Short Sleeves Polo T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220411/NynP/6253e84df997dd03e2547aa2/eyebogler_blue_checked_short_sleeves_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Blue Checked Short Sleeves Polo T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220411/NynP/6253e84df997dd03e2547a93/eyebogler_blue_checked_short_sleeves_polo_t-shirt.jpg"
+            },
+            {
+                "altText": "EYEBOGLER Blue Checked Short Sleeves Polo T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220411/NynP/6253e84df997dd03e2547a8d/eyebogler_blue_checked_short_sleeves_polo_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "68% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 416.00",
+            "displayformattedValue": "Rs. 416",
+            "value": 416
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,299.00",
+            "displayformattedValue": "Rs. 1,299",
+            "value": 1299
+        },
+        "name": "Checked Short Sleeves Polo T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "eyebogler",
+        "volumePricesFlag": false,
+        "url": "/eyebogler-checked-short-sleeves-polo-t-shirt/p/462222341_blue",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 338,
+            "formattedValue": "Rs. 338.00",
+            "displayformattedValue": "Rs. 338",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    },
+    "464398769003": {
+        "code": "464398769003",
+        "couponStatus": "Coupon Applicable",
+        "fnlColorVariantData": {
+            "brandName": "URBANO FASHION",
+            "maxQuantity": 0,
+            "outfitPictureURL": "https://assets.ajio.com/medias/sys_master/root/20220528/VWa3/62913dfaf997dd03e23fe5ee/-286Wx359H-464398769-green-MODEL.jpg",
+            "allPromotions": false,
+            "colorGroup": "464398769_green",
+            "sizeFlag": false
+        },
+        "images": [
+            {
+                "altText": "URBANO FASHION Green Leaf Print Crew-Neck T-shirt",
+                "format": "product",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220528/VWa3/62913dfaf997dd03e23fe607/urbano_fashion_green_leaf_print_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "URBANO FASHION Green Leaf Print Crew-Neck T-shirt",
+                "format": "mobileProductListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220528/VWa3/62913dfaf997dd03e23fe5f4/urbano_fashion_green_leaf_print_crew-neck_t-shirt.jpg"
+            },
+            {
+                "altText": "URBANO FASHION Green Leaf Print Crew-Neck T-shirt",
+                "format": "productGrid3ListingImage",
+                "imageType": "PRIMARY",
+                "url": "https://assets.ajio.com/medias/sys_master/root/20220528/VWa3/62913dfaf997dd03e23fe5ee/urbano_fashion_green_leaf_print_crew-neck_t-shirt.jpg"
+            }
+        ],
+        "fnlProductData": {
+            "returnWindow": 0,
+            "toggleOn": "TOGGLE_ON_MODEL",
+            "planningCategory": "Clothing"
+        },
+        "discountPercent": "51% off",
+        "price": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 539.00",
+            "displayformattedValue": "Rs. 539",
+            "value": 539
+        },
+        "wasPriceData": {
+            "currencyIso": "INR",
+            "priceType": "BUY",
+            "formattedValue": "Rs. 1,099.00",
+            "displayformattedValue": "Rs. 1,099",
+            "value": 1099
+        },
+        "name": "Leaf Print Crew-Neck T-shirt",
+        "brickName": "830216014",
+        "verticalName": "830216",
+        "segmentName": "8302",
+        "catalogName": "rilfnlProductCatalog",
+        "brandTypeName": "urbano-fashion",
+        "volumePricesFlag": false,
+        "url": "/urbano-fashion-leaf-print-crew-neck-t-shirt/p/464398769_green",
+        "offerPrice": {
+            "currencyIso": "INR",
+            "value": 429,
+            "formattedValue": "Rs. 429.00",
+            "displayformattedValue": "Rs. 429",
+            "priceReveal": {
+                "bestPrice": null,
+                "discountPercent": null
+            }
+        }
+    }
+}

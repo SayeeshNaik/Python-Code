@@ -1,0 +1,87 @@
+<div class="answercell post-layout--right">
+<div class="s-prose js-post-body" itemprop="text">
+<blockquote>
+<p>if no such option exists, then maybe there is a nice idiomatic
+one-liner for doing that ? like, using <code>for...of</code>, or similar ?</p>
+</blockquote>
+<p>Indeed, there are several ways to convert a <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set" rel="noreferrer">Set</a> to an <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array" rel="noreferrer">Array</a>:</p>
+<ul>
+<li><em>Using <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from" rel="noreferrer"><code>Array.from</code></a>:</em></li>
+</ul>
+<p>Note: safer for TypeScript.</p>
+<pre><code>const array = Array.from(mySet);
+</code></pre>
+<ul>
+<li><em>Simply <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_operator" rel="noreferrer"><code>spreading</code></a> the Set out in an array:</em></li>
+</ul>
+<p>Note: Spreading a Set has issues when compiled with TypeScript (See <a href="https://github.com/Microsoft/TypeScript/issues/8856" rel="noreferrer">issue #8856</a>). It's safer to use <code>Array.from</code> above instead.</p>
+<pre><code>const array = [...mySet];
+</code></pre>
+<ul>
+<li><em>The old-fashioned way, iterating and pushing to a new array (Sets do have <code>forEach</code>):</em></li>
+</ul>
+<pre><code>const array = [];
+mySet.forEach(v =&gt; array.push(v));
+</code></pre>
+<ul>
+<li><em>Previously, using the non-standard, and now deprecated array comprehension syntax:</em></li>
+</ul>
+<pre><code>const array = [v for (v of mySet)];
+</code></pre>
+</div>
+<div class="mt24">
+<div class="d-flex fw-wrap ai-start jc-end gs8 gsy">
+<time datetime="2013-11-19T11:46:07" itemprop="dateCreated"></time>
+<div class="flex--item mr16" style="flex: 1 1 100px;">
+<div class="js-post-menu pt2" data-post-id="20070691" data-post-type-id="2">
+<div class="d-flex gs8 s-anchors s-anchors__muted fw-wrap">
+<div class="flex--item">
+<a class="js-share-link js-gps-track" data-controller="se-share-sheet" data-gps-track="post.click({ item: 2, priv: 0, post_type: 2 })" data-s-popover-placement="bottom-start" data-se-share-sheet-license-name="CC BY-SA 4.0" data-se-share-sheet-license-url="https%3a%2f%2fcreativecommons.org%2flicenses%2fby-sa%2f4.0%2f" data-se-share-sheet-location="2" data-se-share-sheet-post-type="answer" data-se-share-sheet-social="facebook twitter devto" data-se-share-sheet-subtitle="" data-se-share-sheet-title="Share a link to this answer" href="/a/20070691" itemprop="url" rel="nofollow" title="Short permalink to this answer">Share</a>
+</div>
+<div class="flex--item">
+<a class="js-suggest-edit-post js-gps-track" data-gps-track="post.click({ item: 6, priv: 0, post_type: 2 })" href="/posts/20070691/edit" title="">Improve this answer</a>
+</div>
+<div class="flex--item">
+<button aria-controls="" class="s-btn s-btn__link js-follow-post js-follow-answer js-gps-track" data-controller="s-tooltip " data-gps-track="post.click({ item: 14, priv: 0, post_type: 2 })" data-s-popover-placement="bottom" data-s-tooltip-placement="bottom" id="btnFollowPost-20070691" title="Follow this answer to receive notifications" type="button">
+                    Follow
+                </button>
+</div>
+</div>
+<div class="js-menu-popup-container"></div>
+</div>
+</div>
+<div class="post-signature flex--item fl0">
+<div class="user-info user-hover">
+<div class="user-action-time">
+<a class="js-gps-track" data-gps-track="post.click({ item: 4, priv: 0, post_type: 2 })" href="/posts/20070691/revisions" title="show all edits to this post">edited <span class="relativetime" title="2022-05-09 02:42:12Z">May 9, 2022 at 2:42</span></a>
+</div>
+<div class="user-gravatar32">
+<a href="/users/10158227/audwin-oyong"><div class="gravatar-wrapper-32"><img alt="Audwin Oyong's user avatar" class="bar-sm" height="32" src="https://i.stack.imgur.com/5bVqe.png?s=64&amp;g=1" width="32"/></div></a>
+</div>
+<div class="user-details">
+<a href="/users/10158227/audwin-oyong">Audwin Oyong</a>
+<div class="-flair">
+<span class="reputation-score" dir="ltr" title="reputation score ">2,137</span><span aria-hidden="true" title="3 gold badges"><span class="badge1"></span><span class="badgecount">3</span></span><span class="v-visible-sr">3 gold badges</span><span aria-hidden="true" title="14 silver badges"><span class="badge2"></span><span class="badgecount">14</span></span><span class="v-visible-sr">14 silver badges</span><span aria-hidden="true" title="32 bronze badges"><span class="badge3"></span><span class="badgecount">32</span></span><span class="v-visible-sr">32 bronze badges</span>
+</div>
+</div>
+</div>
+</div>
+<div class="post-signature flex--item fl0">
+<div class="user-info user-hover">
+<div class="user-action-time">
+        answered <span class="relativetime" title="2013-11-19 11:46:07Z">Nov 19, 2013 at 11:46</span>
+</div>
+<div class="user-gravatar32">
+<a href="/users/965051/adeneo"><div class="gravatar-wrapper-32"><img alt="adeneo's user avatar" class="bar-sm" height="32" src="https://i.stack.imgur.com/XgLe7.gif?s=64&amp;g=1" width="32"/></div></a>
+</div>
+<div class="user-details" itemprop="author" itemscope="" itemtype="http://schema.org/Person">
+<a href="/users/965051/adeneo">adeneo</a><span class="d-none" itemprop="name">adeneo</span>
+<div class="-flair">
+<span class="reputation-score" dir="ltr" title="reputation score 309,447">309k</span><span aria-hidden="true" title="28 gold badges"><span class="badge1"></span><span class="badgecount">28</span></span><span class="v-visible-sr">28 gold badges</span><span aria-hidden="true" title="392 silver badges"><span class="badge2"></span><span class="badgecount">392</span></span><span class="v-visible-sr">392 silver badges</span><span aria-hidden="true" title="386 bronze badges"><span class="badge3"></span><span class="badgecount">386</span></span><span class="v-visible-sr">386 bronze badges</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>

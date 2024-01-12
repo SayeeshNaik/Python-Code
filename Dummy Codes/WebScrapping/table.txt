@@ -1,0 +1,1715 @@
+<table class="rim_table" style="margin-top:20px;">
+ <thead>
+  <tr>
+   <th class="views-field views-field-nothing-3" id="view-nothing-3-table-column" scope="col">
+    Name
+   </th>
+   <th class="views-field views-field-nothing-2" id="view-nothing-2-table-column" scope="col">
+    Source of Recruit
+   </th>
+   <th class="views-field views-field-nothing-2" id="view-nothing-2-table-column" scope="col">
+    Date of birth
+   </th>
+   <th class="views-field views-field-nothing-2" id="view-nothing-2-table-column" scope="col">
+    Educational Qualification
+   </th>
+   <th class="views-field views-field-nothing-2" id="view-nothing-2-table-column" scope="col">
+    Domicile
+   </th>
+   <th class="views-field views-field-nothing-2" id="view-nothing-2-table-column" scope="col">
+    Present Post
+   </th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>
+    Shri Paban
+    <br>
+     Kumar
+     <br/>
+     Borthakur
+    </br>
+   </td>
+   <td>
+    RR-1989
+   </td>
+   <td>
+    1 January 1964
+   </td>
+   <td>
+    BSc (Phy),
+    <br/>
+    MSc (Phy) MBA, MA
+    <br/>
+    (Eco)
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Chief Secretary,
+    <br/>
+    T&amp;D and personnel Department
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Maninder Singh
+   </td>
+   <td>
+    RR-1989
+   </td>
+   <td>
+    28 July 1963
+   </td>
+   <td>
+    BA (Geog), LLB, PG (Pub Admn)
+   </td>
+   <td>
+    Chandigarh
+   </td>
+   <td>
+    Addl. Chief Secretary, Housing &amp;,
+    <br/>
+    Urban Affairs and Cooperation
+    <br/>
+    Departments, Chief Resident Commissioner,
+    <br/>
+    Assam Bhawan, New Delhi (addl.)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Rajesh Prasad
+   </td>
+   <td>
+    RR-1995
+   </td>
+   <td>
+    8 November 1970
+   </td>
+   <td>
+    BA (Hist), MA (Hist)
+   </td>
+   <td>
+    Bihar
+   </td>
+   <td>
+    Principal Secretary, Excise and Irrigation &amp; Soil Conservation Departments and Chairman, SLNA, WDC-PMKSY
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Ravi Shankar Prasad
+   </td>
+   <td>
+    RR-1990
+   </td>
+   <td>
+    23 August 1964
+   </td>
+   <td>
+    BA (Eco), MA (Eco)
+   </td>
+   <td>
+    Bihar
+   </td>
+   <td>
+    Additional Chief Secretary,
+    <br/>
+    Environment &amp; Forest Department
+    <br/>
+    and Director General, Assam Administrative
+    <br/>
+    Staff College (Nov. 3,2021)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Dr. Ashish Kumar Bhutani
+   </td>
+   <td>
+    RR-1992
+   </td>
+   <td>
+    21 September 1967
+   </td>
+   <td>
+    MBBS(Medicine)
+   </td>
+   <td>
+    Uttar Pradesh
+   </td>
+   <td>
+    Principal Secretary, Agriculture
+    <br/>
+    Department, AH&amp; Veterinary Deptts.
+    <br/>
+    and State Project Director, ARIAS
+    <br/>
+    Society, Agriculture Production
+    <br/>
+    Commissioner, Assam (addl.)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Biswaranjan Samal
+   </td>
+   <td>
+    RR-1992
+   </td>
+   <td>
+    20 July 1968
+   </td>
+   <td>
+    BE (Mech), ME (Ind Engg)
+   </td>
+   <td>
+    Orissa
+   </td>
+   <td>
+    Principal Secretary, Hill Areas, Food
+    <br/>
+    Civil Supplies &amp; CA Departments
+    <br/>
+    and MD, Assam Food &amp; Civil Supplies Corporation Ltd
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Kailash Chand Samria
+   </td>
+   <td>
+    RR-1993
+   </td>
+   <td>
+    13 November 1969
+   </td>
+   <td>
+    BTech (Elec)
+   </td>
+   <td>
+    Rajasthan
+   </td>
+   <td>
+    Chairman, Assam Administrative
+    <br/>
+    Tribunal and Spl. Representative of
+    <br/>
+    Govt. of Assam, New Delhi for
+    <br/>
+    coordinating with Govt. of India for
+    <br/>
+    Central Sector &amp; CSS
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Samir Kumar Sinha
+   </td>
+   <td>
+    RR-1994
+   </td>
+   <td>
+    16 November 1969
+   </td>
+   <td>
+    BA, MA (Hist)
+   </td>
+   <td>
+    Bihar
+   </td>
+   <td>
+    Principal Secretary to the Chief Minister and Principal Secretary, Finance Deptt. and Addl Principal Resident Commissioner, Assam Bhawan, New Delhi, Assam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Avinash Purushottam Das Joshi
+   </td>
+   <td>
+    RR-1994
+   </td>
+   <td>
+    25 June 1968
+   </td>
+   <td>
+    BCom
+   </td>
+   <td>
+    Gujrat
+   </td>
+   <td>
+    Principal Secretary, Environment &amp; Forest, Revenue &amp; DM Deptts., Assam and Addl. Principal Resident Commissioner, Assam Bhawan, New Delhi
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Rajeev
+    <br/>
+    Chandra Joshi
+   </td>
+   <td>
+    RR-1994
+   </td>
+   <td>
+    25 September 1970
+   </td>
+   <td>
+    BTech (Mech)
+   </td>
+   <td>
+    Uttar Pradesh
+   </td>
+   <td>
+    Principal Secretary, GAD &amp;
+    <br/>
+    Principal Resident Commissioner,
+    <br/>
+    Assam Bhawan, New Delhi (Oct. 6,
+    <br/>
+    2021)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Niraj Verma
+   </td>
+   <td>
+    RR-1994
+   </td>
+   <td>
+    6 July 1969
+   </td>
+   <td>
+    BTech (Elec)
+   </td>
+   <td>
+    Bihar
+   </td>
+   <td>
+    Principal Secretary, Home &amp; Political, Power (E), Parliamentary Affairs, Personnel Deptts. &amp; Addl. Principal Resident Commissioner, Assam Bhawan, New Delhi
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Smt. Archana
+    <br/>
+    Varma
+   </td>
+   <td>
+    RR-1995
+   </td>
+   <td>
+    16 February 1970
+   </td>
+   <td>
+    BA (Hist), MA (Hist)
+   </td>
+   <td>
+    Bihar
+   </td>
+   <td>
+    Principal Secretary, ART, PPG
+    <br/>
+    Department and Chairman, Board of
+    <br/>
+    Revenue, Assam (Addl.)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Dr. John
+    <br/>
+    Berchmans Ekka
+   </td>
+   <td>
+    RR-1995
+   </td>
+   <td>
+    29 March 1968
+   </td>
+   <td>
+    MBBS (Med)
+   </td>
+   <td>
+    Bihar
+   </td>
+   <td>
+    Principal Secretary, Panchayat &amp;
+    <br/>
+    Rural Dev, Labour Welfare and Tea
+    <br/>
+    Tribes Welfare Deptts, Assam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Anurag
+    <br/>
+    Goel
+   </td>
+   <td>
+    RR-1996
+   </td>
+   <td>
+    24 August 1971
+   </td>
+   <td>
+    BE (Electonics)
+   </td>
+   <td>
+    Punjab
+   </td>
+   <td>
+    Principal Secretary, Health &amp; FW
+    <br/>
+    Deptt., Assam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Dr. Krishna Kumar Dwivedi
+   </td>
+   <td>
+    RR-1996
+   </td>
+   <td>
+    14 October 1969
+   </td>
+   <td>
+    BA (Phil), MA (Hist),Ph. D.( Modern Indian History)
+   </td>
+   <td>
+    Uttar Pradesh
+   </td>
+   <td>
+    Principal Secretary, Industries, Commerce &amp; Public Enterprises, Act East Policy Affairs, Skill, Employment &amp; Entrepreneurship, Mines &amp; Minerals and Transport Deptts., Assam &amp; MD, Assam Hydro Carbon &amp; Energy Co. Ltd.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Mukesh Ch.
+    <br/>
+    Sahu
+   </td>
+   <td>
+    RR-1996
+   </td>
+   <td>
+    3 September 1973
+   </td>
+   <td>
+    BTech (Comp Sc)
+   </td>
+   <td>
+    Jharkhand
+   </td>
+   <td>
+    Principal Secretary, Social Welfare, WPT &amp; BC and Welfare of Bodoland Deptts. CEO, SITA, Assam.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Manish
+    <br/>
+    Thakur
+   </td>
+   <td>
+    RR-1998
+   </td>
+   <td>
+    3 February 1976
+   </td>
+   <td>
+    BTech (Elec)
+   </td>
+   <td>
+    Uttar Pradesh
+   </td>
+   <td>
+    Commissioner &amp; Secretary, Finance Department &amp; Commissioner, Central Assam Division (addl.)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Gyanendra
+    <br/>
+    Dev Tripathi
+   </td>
+   <td>
+    RR-1998
+   </td>
+   <td>
+    15 July 1971
+   </td>
+   <td>
+    BE (Elec), MTech
+    <br/>
+    (Elec)
+   </td>
+   <td>
+    Uttar Pradesh
+   </td>
+   <td>
+    Commissioner &amp; Secretary, Environment &amp; Forest, Border Protection &amp; Dev, Implementation of Assam Accord and Science &amp; Technology Departments &amp; CEO, ASDMA (addl.) and Director, Land Records, Assam (addl.)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Jayant
+    <br/>
+    Narlikar
+   </td>
+   <td>
+    RR-2003
+   </td>
+   <td>
+    15 August 1978
+   </td>
+   <td>
+    BA (Pol Sc), MA (Pol
+    <br/>
+    Sc), MPhil
+    <br/>
+    (Diplomacy)
+   </td>
+   <td>
+    Uttar Pradesh
+   </td>
+   <td>
+    Commissioner &amp; Secretary, Finance
+    <br/>
+    Department &amp; Commissioner, Lower
+    <br/>
+    Assam Division
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri D Vijay Kumar
+    <br/>
+    Kumar
+   </td>
+   <td>
+    RR-2004
+   </td>
+   <td>
+    29 June 1980
+   </td>
+   <td>
+    B.Tech(Electronics)
+   </td>
+   <td>
+    Andhra Pradesh
+   </td>
+   <td>
+    Meghalaya
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri S. S.
+    <br/>
+    Meenakshi
+    <br/>
+    Sundaram
+   </td>
+   <td>
+    RR-2004
+   </td>
+   <td>
+    3 May 1972
+   </td>
+   <td>
+    BSc (Zool), MSc
+    <br/>
+    (Zool)
+   </td>
+   <td>
+    Tamil Nadu
+   </td>
+   <td>
+    Commissioner &amp; Secretary to
+    <br/>
+    Governor of Assam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Shantanu P
+    <br/>
+    Gotmare
+   </td>
+   <td>
+    RR-2004
+   </td>
+   <td>
+    5 December 1977
+   </td>
+   <td>
+    BSc (Phy), MSc (Phy)
+   </td>
+   <td>
+    Maharashtra
+   </td>
+   <td>
+    Principal Secretary, Bodoland
+    <br/>
+    Territorial Region (May 25, 2021)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Nitin
+    <br/>
+    Kumar Shivdas
+    <br/>
+    Khade
+   </td>
+   <td>
+    RR-2004
+   </td>
+   <td>
+    4 August 1978
+   </td>
+   <td>
+    BA (Soc. Services),
+    <br/>
+    LLB
+   </td>
+   <td>
+    Maharashtra
+   </td>
+   <td>
+    Chief Electoral Officer and
+    <br/>
+    Commissioner &amp; Secretary, Election
+    <br/>
+    Deptt., Asssam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri M. S.
+    <br/>
+    Manivannan
+   </td>
+   <td>
+    RR-2005
+   </td>
+   <td>
+    24 April 1972
+   </td>
+   <td>
+    BSc (Phy), MA
+    <br/>
+    (Sociology)
+   </td>
+   <td>
+    Tamil Nadu
+   </td>
+   <td>
+    Commissioner &amp;Secretary, General
+    <br/>
+    Administration Deptt. and Home &amp;
+    <br/>
+    Political Deptts. (addl.)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Siddharth Singh
+   </td>
+   <td>
+    RR-2005
+   </td>
+   <td>
+    17 February 1980
+   </td>
+   <td>
+    BSc(Bot), MSc (Anthro)
+   </td>
+   <td>
+    Uttar Pradesh
+   </td>
+   <td>
+    Commissioner &amp; Secretary, Health &amp; FW and Sports &amp; YW Departments and Commissioner, Upper Assam Division, MD, Atal Amrit Abhiyan &amp; State Prabhari Officer, Baksa
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Akash Deep
+   </td>
+   <td>
+    RR-2005
+   </td>
+   <td>
+    15 July 1979
+   </td>
+   <td>
+    BTech (Elec)
+   </td>
+   <td>
+    Uttar Pradesh
+   </td>
+   <td>
+    Commissioner &amp; Secretary, PHE Deptt., Director, IT, MD, Swacch Bharat Mission (Gramin), Director, Neer Nirmal Pariyojana &amp; MD, Jal Jeevan Mission, Assam. State Prabhari Officer, Barpeta
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Rakesh
+    <br/>
+    Kumar
+   </td>
+   <td>
+    RR-2005
+   </td>
+   <td>
+    18 April 1975
+   </td>
+   <td>
+    BA(Eng), MA (Hindi)
+   </td>
+   <td>
+    Haryana
+   </td>
+   <td>
+    MD, APDCL and Commissioner &amp;
+    <br/>
+    Secretary, Fishery Deptt. &amp;
+    <br/>
+    Commissioner, North Assam Division
+    <br/>
+    (addl.)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Smti Kavitha
+    <br/>
+    Padmanabhan
+   </td>
+   <td>
+    RR-2006
+   </td>
+   <td>
+    2 February 1981
+   </td>
+   <td>
+    BTech (Electronics)
+   </td>
+   <td>
+    Pondicherry
+   </td>
+   <td>
+    Commissioner &amp; Secretary, Housing
+    <br/>
+    &amp; Urban Affairs and Irrigation
+    <br/>
+    Departments
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Smti Neera Gogoi Sonowal
+   </td>
+   <td>
+    SCS-2007
+   </td>
+   <td>
+    12 October 1962
+   </td>
+   <td>
+    MSc
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Printing &amp; Stationery,Information &amp; Public Relation Deptts. And Commissioner, Barak Valley Division, Development Commissioner, Hill Areas
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shir Vinod
+    <br/>
+    Seshan
+   </td>
+   <td>
+    RR-2008
+   </td>
+   <td>
+    18 May 1983
+   </td>
+   <td>
+    BE (Electronics) &amp;
+    <br/>
+    Master of Science
+    <br/>
+    (Infrastrusture
+    <br/>
+    Investment &amp;
+   </td>
+   <td>
+    Karnataka
+   </td>
+   <td>
+    Secretary,Agriculture Department
+    <br/>
+    and Director, Agriculture, Assam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Manoj Kumar
+    <br/>
+    Kumar
+   </td>
+   <td>
+    RR-2008
+   </td>
+   <td>
+    1 March 1983
+   </td>
+   <td>
+    BA (Political Sc)
+   </td>
+   <td>
+    Bihar
+   </td>
+   <td>
+    Secretary, Social Welfare and
+    <br/>
+    Industries, Commerce &amp; Public
+    <br/>
+    Enterprises Departments &amp;
+    <br/>
+    Registrar, Cooperative Societies,
+    <br/>
+    Assam (addl.)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Smti Atika
+    <br/>
+    Sultana
+   </td>
+   <td>
+    SCS-2008
+   </td>
+   <td>
+    15 December, 1962
+   </td>
+   <td>
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, WMD and Handloom,
+    <br/>
+    Textiles &amp; Sericulture Deptts, State
+    <br/>
+    Enquiry Officer, Assam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Dr. Deepak
+    <br/>
+    Majumdar
+   </td>
+   <td>
+    SCS-2008
+   </td>
+   <td>
+    1 December 1962
+   </td>
+   <td>
+    MSc, Ph.D
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Higher Education
+    <br/>
+    Department and MD, RUSA, Assam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Smti Varnali Deka
+   </td>
+   <td>
+    RR-2009
+   </td>
+   <td>
+    15 February 1979
+   </td>
+   <td>
+    B Tech(Comp Sc),MBA (Sys, Oprn,Finc)
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Deputy Commissioner, Kokrajhar &amp; Director of Training, Bodoland Administrative Staff College, Kokrajhar (addl.) and Secretary, Bodoland Territorial Region (Nov. 22, 2021
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Biswajit
+    <br/>
+    Pegu
+   </td>
+   <td>
+    RR-2009
+   </td>
+   <td>
+    1 February 1980
+   </td>
+   <td>
+    MA, M Phil(Intl Pol)
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Deputy Commissioner, Dibrugarh
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Rakesh
+    <br/>
+    Agarwala
+   </td>
+   <td>
+    Non-SCS-
+    <br/>
+    2009
+   </td>
+   <td>
+    11 December 1963
+   </td>
+   <td>
+    BCom, LLB
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Commissioner of Taxes and
+    <br/>
+    Commissioner of Excise, Assam and
+    <br/>
+    Managing Director, Assam Tea
+    <br/>
+    Corporation
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Hitesh Dev
+    <br/>
+    Sarma
+   </td>
+   <td>
+    SCS-2009
+   </td>
+   <td>
+    2 July 1962
+   </td>
+   <td>
+    MA
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Home and Political Deptts
+    <br/>
+    and State Coordinator, NRC, Assam
+    <br/>
+    and I/c Directorate of NRC, Assam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Hemen Das
+   </td>
+   <td>
+    SCS-2009
+   </td>
+   <td>
+    2 January 1962
+   </td>
+   <td>
+    M.A., L.L.B
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Principal Secretary, Assam
+    <br/>
+    Legislative Assembly (Sept. 22, 2021)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Devajyoti
+    <br/>
+    Hazarika
+   </td>
+   <td>
+    SCS-2009
+   </td>
+   <td>
+    2 March 1962
+   </td>
+   <td>
+    M.A.
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Industries, Commerce &amp;
+    <br/>
+    Public Enterprise Department
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Seema Rekha
+    <br/>
+    Bhuyan
+   </td>
+   <td>
+    SCS-2009
+   </td>
+   <td>
+    9 November 1962
+   </td>
+   <td>
+    M.A.
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Personnel and Indigenous
+    <br/>
+    &amp; Tribal Faith and Culture
+    <br/>
+    Departments
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Smti Laya
+    <br/>
+    Madduri
+   </td>
+   <td>
+    RR-2010
+   </td>
+   <td>
+    14 April 1985
+   </td>
+   <td>
+    BE (Mech)
+   </td>
+   <td>
+    Andhra Pradesh
+   </td>
+   <td>
+    Secretary, Finance Department (Sept.
+    <br/>
+    25, 2020)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Ashwani
+    <br/>
+    Kumar
+   </td>
+   <td>
+    RR-2010
+   </td>
+   <td>
+    8 April 1983
+   </td>
+   <td>
+    B Tec (Electrical)
+   </td>
+   <td>
+    Uttar Pradesh
+   </td>
+   <td>
+    Private Secretary to Minister,
+    <br/>
+    Human Resources Dev, GoI (On
+    <br/>
+    Central Deputation)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Binita Pegu
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    2 June 1967
+   </td>
+   <td>
+    B.A.
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, WPT&amp;BC Department &amp;
+    <br/>
+    State Enquiry Officer, Assam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Roopjyoti
+    <br/>
+    Saharia
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    23 January 1962
+   </td>
+   <td>
+    M.A.
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Agriculture Deptt., State
+    <br/>
+    Enquiry Officer (addl.), Assam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Umananda Doley
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    15 August 1964
+   </td>
+   <td>
+    M.A.
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Welfare of Bodoland
+    <br/>
+    Department &amp; General
+    <br/>
+    Administration Department (Oct. 25,
+    <br/>
+    2021)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Prabhati
+    <br/>
+    Thaosen
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    11 November 1965
+   </td>
+   <td>
+    M.A.
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Border Protection &amp;
+    <br/>
+    Development and Tourism
+    <br/>
+    Departments &amp; State Enquiry
+    <br/>
+    Officer, Assam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Jurie Deka
+    <br/>
+    Thakur
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    19 May 1963
+   </td>
+   <td>
+    M.A.
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Skill, Employment &amp;
+    <br/>
+    Entrepreneurship Dev Deptt., Assam
+    <br/>
+    and Member, Board of Revenue
+    <br/>
+    (addl.)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Ashok Kr.
+    <br/>
+    Barman
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    2 January 1963
+   </td>
+   <td>
+    BSc, LL.B
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Deputy Commissioner, Jorhat
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Bandana
+    <br/>
+    Choudhury
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    1 January 1963
+   </td>
+   <td>
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Parliamentary Affairs
+    <br/>
+    Department
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Debajyoti Dutta
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    2 December 1965
+   </td>
+   <td>
+    MA
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Food, Civil Supplies &amp;
+    <br/>
+    Consumer Affairs and Act East
+    <br/>
+    Policy Affairs Deptts
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Partha Pratim Majumdar
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    31 August 1966
+   </td>
+   <td>
+    MSc, LL.B
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Social Welfare Deptt &amp; Staff Officer to the Chief Secretary, Assam and State Prabhari Officer, Goalpara
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Abhijit Barua (I)
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    20 April 1965
+   </td>
+   <td>
+    MA
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Animal Husbandry &amp;
+    <br/>
+    Veterinary Department &amp; Soil
+    <br/>
+    Conservation Department (Oct. 25,
+    <br/>
+    2021)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Mridul Kumar
+    <br/>
+    Mahanta
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    28 March 1966
+   </td>
+   <td>
+    MA
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Labour Welfare and
+    <br/>
+    Parliamentary Affairs Deptts and
+    <br/>
+    MD, Assam Silk Outreach Mission
+    <br/>
+    (ASOM) (Addl.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Nandita Dutta
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    16 December 1966
+   </td>
+   <td>
+    MA
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Excise and Mines &amp;
+    <br/>
+    Minerals Deptts
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Rituraj Bora
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    21 January 1966
+   </td>
+   <td>
+    MA
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Cooperation Deptt. (June
+    <br/>
+    10, 2020)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Bharat Bhushan
+    <br/>
+    Dev Choudhury
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    2 January 1963
+   </td>
+   <td>
+    BA
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Deputy Commissioner, Bajali
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Sewali Devi
+    <br/>
+    Sharma
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    14 November 1964
+   </td>
+   <td>
+    BA, LL.B
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Elementary Education
+    <br/>
+    Deptt
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Pabitra Ram
+    <br/>
+    Khaund
+   </td>
+   <td>
+    SCS-2010
+   </td>
+   <td>
+    17 June 1965
+   </td>
+   <td>
+    MA
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Irrigation Department
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri
+    <br/>
+    Lakshmanan S
+   </td>
+   <td>
+    RR-2011
+   </td>
+   <td>
+    26 October 1980
+   </td>
+   <td>
+    MBBS
+   </td>
+   <td>
+    Kerala
+   </td>
+   <td>
+    Mission Director, National Health
+    <br/>
+    Mission (NHM), Assam
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Smti Roshni
+    <br/>
+    Aparanji Korati
+   </td>
+   <td>
+    RR-2011
+   </td>
+   <td>
+    3 April 1984
+   </td>
+   <td>
+    MA(Mass Com)
+   </td>
+   <td>
+    Andhra Pradesh
+   </td>
+   <td>
+    Secretary, Elementary Education
+    <br/>
+    Department &amp; MD, SSA, MD,
+    <br/>
+    RMSA.
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Anant Lal Gyani
+   </td>
+   <td>
+    RR-2011
+   </td>
+   <td>
+    1 March 1981
+   </td>
+   <td>
+    BSc (Hons) (Chem)
+   </td>
+   <td>
+    Bihar
+   </td>
+   <td>
+    Secretary, Agriculture, Animal Husbandry &amp; Veterinary Departments and CEO, MMS CMSGUY &amp; Project Director, Assam Infrastructure Financing Authority (addl.)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Oinam
+    <br/>
+    Sarankumar
+    <br/>
+    Singh
+   </td>
+   <td>
+    RR-2012
+   </td>
+   <td>
+    3 February 1985
+   </td>
+   <td>
+    MSc (Zool)
+   </td>
+   <td>
+    Manipur
+   </td>
+   <td>
+    Commissioner, Industries &amp;
+    <br/>
+    Commerce and Secretary, AH &amp;
+    <br/>
+    Veterinary Deptt. (June 19, 2021)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Manvendra
+    <br/>
+    Pratap Singh
+   </td>
+   <td>
+    RR-2012
+   </td>
+   <td>
+    22 July 1983
+   </td>
+   <td>
+    MA (Hist)
+   </td>
+   <td>
+    Uttar Pradesh
+   </td>
+   <td>
+    Secretary, Industries, Commerce &amp;
+    <br/>
+    Public Enterprises Department (9
+    <br/>
+    July, 2021)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Dilip Kumar Borah
+   </td>
+   <td>
+    Non SCS-2012
+   </td>
+   <td>
+    2 November 1967
+   </td>
+   <td>
+    BSC LLB
+   </td>
+   <td>
+    Assam
+   </td>
+   <td>
+    Secretary, Finance Department
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Dr Jeevan B
+   </td>
+   <td>
+    RR-2013
+   </td>
+   <td>
+    4 October 1984
+   </td>
+   <td>
+    MBBS
+   </td>
+   <td>
+    Karnataka
+   </td>
+   <td>
+    Addl. Secretary to the Chief Minister,
+    <br/>
+    Assam and , CEO, FREMAA
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Dr Sadnek Singh
+   </td>
+   <td>
+    RR-2014
+   </td>
+   <td>
+    14 December 1978
+   </td>
+   <td>
+    MBBS
+   </td>
+   <td>
+    Punjab
+   </td>
+   <td>
+    Joint Secretary, Transformation &amp;
+    <br/>
+    Development Department
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Aayush
+    <br/>
+    Garg
+   </td>
+   <td>
+    RR-2016
+   </td>
+   <td>
+    10 September 1991
+   </td>
+   <td>
+    CA
+   </td>
+   <td>
+    Punjab
+   </td>
+   <td>
+    Deputy Commissioner, Baksa and
+    <br/>
+    Secretary, Bodoland Territorial
+    <br/>
+    Region (Nov. 22, 2021)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Shri Narendra
+    <br/>
+    Kumar Shah
+   </td>
+   <td>
+    RR-2016
+   </td>
+   <td>
+    23 July 1988
+   </td>
+   <td>
+    BTech (Civil)
+   </td>
+   <td>
+    Madhya Pradesh
+   </td>
+   <td>
+    Deputy Commissioner, Chirang and
+    <br/>
+    Secretary, Bodoland Territorial
+    <br/>
+    Region (Nov. 22, 2021)
+   </td>
+  </tr>
+  <tr>
+   <td>
+    Dr P Uday
+    <br/>
+    Praveen
+   </td>
+   <td>
+    RR-2016
+   </td>
+   <td>
+    28 January 1988
+   </td>
+   <td>
+    MBBS
+   </td>
+   <td>
+    Andhra Pradesh
+   </td>
+   <td>
+    Deputy Commissioner, Udalguri and
+    <br/>
+    Secretary, Bodoland Territorial
+    <br/>
+    Region (Nov. 22, 2021)
+   </td>
+  </tr>
+ </tbody>
+</table>

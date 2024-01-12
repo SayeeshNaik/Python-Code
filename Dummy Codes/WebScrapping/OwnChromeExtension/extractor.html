@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Own Extractor</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body class="all-my-html">
+    <div style="display:flex;margin-right:10px" class="toggleDiv">
+        <input type="checkbox" id="switch" class="txt" /><label class="toggle_css" for="switch" style="margin-right:10px">Toggle</label>
+        <b id="tg"> <span>---</span> </b>
+    </div>
+    <div style="display:flex;margin-right:10px">
+       
+    </div>
+    
+    
+    <div class="outer txt">
+        <div class="view txt">
+            <h2 class="txt"><u class="txt">Work Flow</u></h2>
+            <p class="txt"><b class="txt">Yellow Color :</b> You've Selected Element </p>
+            <p class="txt"><b class="txt">API :</b> http://127.0.0.1:5000/test</p>
+            <p class="txt"><i class="txt">( You will get the data's in a body methode <br>
+                        When you just calling this API )</i></p>
+            <button id="myId" class="btnId txt"> SendData </button>
+            <a src="./MyExcel.xlsx" style="text-decoration:none" download> <button id="downloadId" class="btnDownload txt" disabled> Download </button> </a>
+            <br><br>
+                <p class="txt" style="text-align:center"> Click <b>Pencil</b> Icon for Select <br> Next Button Xpath </p>
+                <i id='next-pencil' class="fa fa-pencil" style="font-size:20px;margin-right:10px;"></i>
+                <input id="nextBtnXpath" readonly>
+            
+       </div>
+    </div>
+   
+   <script src="script.js"></script>
+
+   <script>
+     var data = {name:'sayeesh'}
+   </script>
+</body>
+<style>
+    body{
+       background:transparent;
+    }
+    .outer{
+        padding: 5px;
+    }
+    .view{
+        margin:5px;
+        padding: 20px;
+        width: max-content;
+        border: 1px solid black;
+    }
+    button{
+        border: none;
+        box-shadow: 2px 2px 2px black;
+        padding: 8px;
+        min-width: 5rem;
+    }
+    button:hover{
+        color: white;
+        background-color: rgb(0, 191, 255);
+    }
+
+    input[type=checkbox]{
+        margin: o;
+        height: 0;
+        width: 0;
+        visibility: hidden;
+    }
+    
+    label {
+        cursor: pointer;
+        text-indent: -9999px;
+        width: 40px;
+        height: 20px;
+        background: red;
+        display: block;
+        border-radius: 100px;
+        position: relative;
+    }
+    
+    label:after {
+        content: '';
+        position: absolute;
+        top: 4px;
+        left: 5px;
+        width: 13px;
+        height: 13px;
+        background: white;
+        border-radius: 90px;
+        transition: 0.3s;
+    }
+    
+    input:checked + label {
+        background: green;
+    }
+    
+    input:checked + label:after {
+        left: calc(100% - 5px);
+        transform: translateX(-100%);
+    }
+    
+    label:active:after {
+        width: 20px;
+    }
+    
+</style>
+</html>

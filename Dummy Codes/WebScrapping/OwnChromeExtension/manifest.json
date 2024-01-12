@@ -1,0 +1,26 @@
+{
+    "name": "Own Extractor",
+    "description": "Extracting Available Attributes from user Target Element",
+    "version": "0.1.0",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_icon": "./extracter.png",
+        "default_popup": "extractor.html"
+      },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["script.js"],
+            "run_at": "document_start"
+        }
+    ],
+    "permissions":[
+        "activeTab",
+        "tabs",
+        "storage"
+    ],
+    "background": {
+        "scripts": ["script.js"]
+    }
+    
+}
